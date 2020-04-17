@@ -2,7 +2,7 @@
 
 I'm Ignacio Brasca, a developer from Argentina with experience in web, [security](https://www.researchgate.net/profile/Ignacio_Brasca), system design and game development. 
 
-My focus is on performant code and mind always in the architecture. 
+I focus on developing performant code (and)keeping the architecture always in mind.
 
 Currently, I'm working on Labs AI for PwC. 
 
