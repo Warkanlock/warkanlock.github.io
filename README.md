@@ -10,15 +10,9 @@ In 2019, I got into the finals with [OpenCurriculum](https://github.com/wattba/)
 
 # Personal Projects
 
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/Warkanlock/parserUS/master/image/logo.png?token=ADFY5IHGZ3CTZZRD7FVW7PC46LCPI" href="https://github.com/Warkanlock/parserUS" width="300" height="100" />
-</p>
-<p align="center"> 
-<img src="https://github.com/Warkanlock/MIDIOpenHouse/raw/master/logo.png" href="https://github.com/Warkanlock/MIDIOpenHouse" width="150" height="150"/>
-</p>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/Warkanlock/PDFSplash/master/logo.png?token=AMuOoIflLLGWKVYBWszV4LQQbH74FzL2ks5csSG8wA%3D%3D" href="https://github.com/Warkanlock/PDFSplash" width="200" height="150"/>
-</p>
+- [parserUS](https://github.com/Warkanlock/parserUS)
+- [MIDIOpenHouse](https://github.com/Warkanlock/MIDIOpenHouse)
+- [PDFSplash](https://github.com/Warkanlock/PDFSplash)
 
 # Languages
 
@@ -51,5 +45,4 @@ In 2019, I got into the finals with [OpenCurriculum](https://github.com/wattba/)
 
 # Contact 
 
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" href="https://github.com/Warkanlock" width="80" height="20" />
-<img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" href="https://www.linkedin.com/in/ignaciobrasca/" width="80" height="80" />
+[LinkedIn](https://www.linkedin.com/in/ignaciobrasca/)
