@@ -19,7 +19,7 @@ In 2019, I got into the finals with [OpenCurriculum](https://github.com/wattba/)
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" href="#" width="50" height="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" href="#" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" href="#" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" href="#" width="50" height="50" />
 </p>
 
 # Tools
