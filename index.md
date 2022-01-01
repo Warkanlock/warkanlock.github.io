@@ -5,5 +5,5 @@
 layout: home
 title : "Entries"
 description : "Technical and not-so technical articles I write"
-image: blog.ignaciobrasca.com/img/myself.png
+image: img/myself.png
 ---
