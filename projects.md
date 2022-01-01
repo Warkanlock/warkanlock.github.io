@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Projects"
-permalink: /about/projects
+permalink: /projects
+---
 
 # Personal Projects
 
