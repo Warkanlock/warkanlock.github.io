@@ -6,8 +6,8 @@ permalink: /projects
 
 # Crypto world
 
-- Building [Bloodgeist](www.twitter.com/IronGiantGames), an on-chain RTS game.
-- [Rarity Visualizer](www.rarityvisualizer.com)
+- Building [Bloodgeist](https://www.twitter.com/IronGiantGames), an on-chain RTS game.
+- [Rarity Visualizer](https://www.rarityvisualizer.com)
 - [Simple Routing System (SRS) for Bloodgeist](https://github.com/Iron-GIant-Games/core-router)
 
 # Scalability
