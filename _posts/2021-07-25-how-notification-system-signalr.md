@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "How to build a real-time notification system using SignalR Core"
+description: "Building a real-time notification system using SignalR Core and C#"
 date:   2021-07-25 12:00:00 -0300
-categories: jekyll update
+categories: csharp signalr
 ---
 
 ## How to build a real-time notification system using SignalR Core

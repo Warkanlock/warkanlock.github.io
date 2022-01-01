@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Think in React"
+description: "A tutorial to understand how to think up and develop ideas using React"
+article : "Think in React"
 date:   2022-01-01 12:39:59 -0300
-categories: jekyll update
+categories: react introduction
 ---
 
 ![Logo](https://raw.githubusercontent.com/Warkanlock/ComoPensarEnReact/master/imgs/eng/logo.png)
