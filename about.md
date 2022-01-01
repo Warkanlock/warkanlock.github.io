@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 
-I'm Ignacio Brasca, a developer from Argentina with more or less experience in web development, [security](https://www.researchgate.net/profile/Ignacio_Brasca), system design, scalability, finance and game development. 
+I'm Ignacio Brasca, a developer from Argentina with more or less experience in web development, [security](https://www.researchgate.net/profile/Ignacio_Brasca), system design, scalability, finance and game development.
 
 Now, I mainly focus on developing high-performance code for financial applications but most of the work I did and I'm doing cannot be published due to [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 
