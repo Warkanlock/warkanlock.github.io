@@ -32,6 +32,9 @@ remote_theme: jekyll/minima
 
 minima:
   skin : dark
+  social_links:
+    twitter: txxnano
+    github: Warkanlock
 
 plugins:
   - jekyll-feed
