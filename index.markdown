@@ -3,4 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title : "Entries"
+description : "Technical and not-so technical articles I write"
 ---
