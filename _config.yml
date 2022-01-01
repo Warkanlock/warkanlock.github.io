@@ -19,7 +19,7 @@
 title: AnxiousDeveloper - Dev Blog
 email: hello@txxnano.anonaddy.me
 description: >- # this means to ignore newlines until "baseurl:"
- I am a software developer from Argentina. Started with software and games when I was a kid 
+ I am a software developer from Argentina. I started with games when I was a kid 
  but now I'm mainly focus on finance software.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "warkanlock.github.io" # the base hostname & protocol for your site, e.g. http://example.com
