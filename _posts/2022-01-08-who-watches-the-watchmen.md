@@ -8,7 +8,7 @@ categories: opinion
 
 At the time I was working at [PwC](www.pwc.com) I was learning a lot about the [internal process](https://www.investopedia.com/terms/b/bureaucracy.asp) and how to behave in the ecosystem, but in the midst of this nightmare of compliance and NDAs, I started to pick up on some details. Things were out of the context I expected from such a large company, but month after month I started to learn to expect almost anything from your boss.
 
-![boss had an idea](https://blog.ignaciobrasca.com/imgs/posts/pic-1.png)
+![boss had an idea](https://blog.ignaciobrasca.com/img/posts/pic-1.png)
 
 > source: u/cheapshotdraw
 
@@ -45,7 +45,7 @@ Your boss could make your learning path a living hell, so you should avoid stupi
 
 Anyone can invent ideas in their head, but those ideas need a solid foundation to become something at least resembling a `prototype` and if you don't say anything so they don't exist, they will make a mess and you will sink inside their projects. Because, at the end, your boss is never wrong and the fault will be over you anytime soon. Speak before is too late.
 
-![boss had an idea 2](https://blog.ignaciobrasca.com/imgs/posts/pic-2.png)
+![boss had an idea 2](https://blog.ignaciobrasca.com/img/posts/pic-2.png)
 
 > [The Boss Had An Idea](https://dilbert.com/strip/2021-02-06)
 
