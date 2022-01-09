@@ -124,10 +124,14 @@ Developing software is almost like a craft, a religious process to turn ideas in
 
 Software, just like someone who build bridges, needs blueprints, planning, estimates, understanding of the problem and also understanding of the solution provided.
 
-So, if someone above you, makes this kind of situations a routine, you will be able to say **No**. It is in your hand and in the long run it will serve you to jump ship in time. Software cannot be taken lightly, because it is something that requires a huge amount of human intervention to make it usable (at least for now). So, at least in my opinion, if you are serious about your work you have three options:
+So, if someone above you, makes this kind of situations a routine, you will have to be able to say **No, it's not possible**.
 
-1. Make that situation stop
-2. Take advantage of it for your own good
-3. Go to a better place.
+It is in your hand and in the long run it will serve you to jump ship in time. Software cannot be taken lightly or if you think it could [you can check how Linus Torvalds tolerates an error](https://lkml.org/lkml/2012/12/23/75). It's something that requires a huge amount of human intervention to make it usable (at least for now) and it's a shame to waste human effort this way.
+
+**So, at least in my opinion, if you are serious about your work you have three options:**
+
+1. Make that situation stop (if it's possible) by talking with your boss
+2. Make the most of it for your own good and leave whenever you feel up to it
+3. Go to a better place without any extra work.
 
 Although, if you don't have too much experience building anything or are just a curious person looking to learn a little bit about everything these types of situations are for you. You'll be more than happy to have a boss like this, at least for a few months.
