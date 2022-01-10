@@ -6,13 +6,17 @@ date: 2022-01-08 12:00:00 -0300
 categories: opinion
 ---
 
+> #### Disclaimer
+>
+> I know that not all bosses are the same and that every company you work for is a different world so this article is about those "similarities" that someone in a leadership position has that you can take advantage of.
+
 ## A little bit of history
 
 At the time I was working at **PwC** I was learning a lot about the [internal processes](https://www.investopedia.com/terms/b/bureaucracy.asp) and how to behave in the ecosystem, but in the midst of this nightmare of compliance and NDAs, I started to pick up on some details.
 
 Things were out of the context I expected from such a large company, but month after month I started to learn to expect almost anything from my boss. That's why I thought it would be a good idea to launch some recommendations on how to deal with this kind of situations that are not as bad as they seem if you handle them well.
 
-These suggestions come from my period there.
+These suggestions come from my period there...
 
 ![boss had an idea](https://blog.ignaciobrasca.com/img/posts/pic-1.png)
 
@@ -51,10 +55,6 @@ One thing I do every time I have to block or prevent something from being done i
 
 **Could you explain what's happening that it's blocking the solution?**
 
-1. If you **_can_**, that means that you have almost the solution in front of you or at least and alternative
-
-2. If you **_cannot_** explain by **voice** or **text** what's happening with the solution in a clear and simple way is probably because you don't have all the information you need to guess why the solution is not working. In that case you can: **give up** or **keep searching**
-
 ```
 (1) Could you explain why X is possible in a clear and simple way by write or in a meet?
     Yes {
@@ -84,15 +84,13 @@ One thing I do every time I have to block or prevent something from being done i
 where {X} is a subset of a problem
 ```
 
-You see, most of the time your **solution** and your **block** to making the solution real are almost brothers.
+1. If you **_can_** describe the solution, you can **build** it.
 
-If you can, you **build**.
+2. If you **_cannot_** explain by **voice** or **text** what's happening with the solution, in a clear and simple way, is likely because you don't have all the information you need to guess why the solution is not working. In that case you can: **keep searching** or if you are getting tired, **give up**
 
-If you can't, you **explain** why.
+You see, most of the time your **solution** and your **block** to making the solution a reality are almost blood brothers. If you can't build, at least you can take the time to **explain** why.
 
-But in the second approach you also learn why it is not possible and perhaps, you turn the situation in your favor and find a solution to the problem (using a different approach).
-
-Learn to say no (with a correct explanation) to your boss because it's your leverage, use it to your advantage. They will appreciate that gesture (if they get angry, fly somewhere else, that place is not for you).
+It's your duty to learn to say no (with a correct explanation) to your boss because it's your leverage, use it to your advantage. They will appreciate that gesture.
 
 ![boss had an idea 2](https://blog.ignaciobrasca.com/img/posts/pic-2.png)
 
@@ -120,18 +118,18 @@ If you have at your workplace someone that: at `any time` step in front of you a
 
 **Run away from that place if you are serious about software.**
 
-Developing software is almost like a craft, a religious process to turn ideas into something real.
+Developing software is almost like witchcraft nowadays, a religious process to turn ideas into something real.
 
 Software, just like someone who build bridges, needs blueprints, planning, estimates, understanding of the problem and also understanding of the solution provided.
 
 So, if someone above you, makes this kind of situations a routine, you will have to be able to say **No, it's not possible**.
 
-It is in your hand and in the long run it will serve you to jump ship in time. Software cannot be taken lightly or if you think it could [you can check how Linus Torvalds tolerates an error](https://lkml.org/lkml/2012/12/23/75). It's something that requires a huge amount of human intervention to make it usable (at least for now) and it's a shame to waste human effort this way.
+It is in your hand and in the long run it will serve you to jump ship in time. Software cannot be taken lightly or if you think it could [you can check how Linus Torvalds tolerates an error](https://lkml.org/lkml/2012/12/23/75). It's something that requires a huge amount of human intervention to make it usable (for now) and it's a shame to waste human effort this way.
 
-**So, at least in my opinion, if you are serious about your work you have three options:**
+**So, if you are serious about your work you have three options (at least):**
 
-1. Make that situation stop (if it's possible) by talking with your boss
+1. Make that situation stop, if it's possible, by talking with your boss
 2. Make the most of it for your own good and leave whenever you feel up to it
-3. Go to a better place without any extra work.
+3. Go to a better place.
 
 Although, if you don't have too much experience building anything or are just a curious person looking to learn a little bit about everything these types of situations are for you. You'll be more than happy to have a boss like this, at least for a few months.
