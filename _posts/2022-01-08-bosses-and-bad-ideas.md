@@ -110,9 +110,9 @@ Obviously, PoCs were just that, proofs of concept, but at the end of the day, th
 
 ## Conclusion
 
-If you have at your workplace someone that: at `any time` step in front of you and say something like the following phrase:
+If you have at your workplace someone that at `any given time`, without much care of what you are doing, step in front of you and say something like the following phrase:
 
-> We need a `XYZ` in the company, a lot of hype around it. You and your team will have this `N$` resources. As you can see on your calendar, now we will meet once a week to discuss details.
+> We need an `XYZ` in the company, a lot of hype around it. You and your team will have these `N$` resources. As you can see from your calendar, we will now meet once a week to discuss the details. You can drop what you are doing and get on with it. This is the top priority.
 
 **Run away from that place if you are serious about software.**
 
