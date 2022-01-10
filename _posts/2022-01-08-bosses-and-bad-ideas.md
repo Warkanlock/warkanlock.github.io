@@ -44,42 +44,36 @@ I'll put a personal experience here:
 
 While working at PwC I started with almost zero knowledge of my responsibilities inside the company but day after day my boss did a lot of meetings with my group trying to explain a really complex problem about **tax** and **[knowledge transfer](https://en.wikipedia.org/wiki/Knowledge_transfer)**. Obviously back then I had no idea what was going on until a few weeks later I had it, and that day, something inside me clicked. You don't have to worry about the details of the application but focus primarily on the problems they want to solve.
 
-## Learn to say no
+## Learn how to say no
 
 > Recongnize that while most people prefer compilments over criticism,
 > there is nothing more valuable than accurate criticism.
 >
 > Ray Dalio
 
-Your boss could make your learning path a living hell if you are not up to par, so you should avoid stupid ideas by simply saying `no` and giving a correct explanation as to why it is not feasible to do so. About saying that X is not possible, I have a personal rule for that which I will share below:
+Your boss could make your learning path a living hell if you are not up to par, so you should avoid stupid ideas by simply saying `no` and giving a correct explanation as to why it is not feasible to do so. About saying that X is not possible, I have a personal rule for that which I will share below.
+
+### Could you explain why?
 
 One thing I do every time I have to block or prevent something from being done is to try to explain `why is not possible`. It's a really simple algorithm:
 
-**Could you explain what's happening that it's blocking the solution?**
-
 ```
-(1) Could you explain why X is possible in a clear and simple way by write or in a meet?
+(1) Could you explain why X is possible?
     Yes {
-        X is possible so there is no need to panic
+        X is possible and there is no need to panic.
     }
     No {
-        Is your explanation clear?
+        Do you need more information?
             No {
-                You don't have all the information about X,
-                keep researching,
-                put in paper your knowledge,
-                repeat step (1)
+                You have a clear explanation on why the solution cannot be built,
+                Maybe the problem is too obtuse,
+                Anyways you should not panic.
             }
             Yes {
-                Is there any possible alternative for X?
-                    If yes {
-                        X is maybe possible but using another approach,
-                        repeate step (1) with new information
-                    }
-                    If no {
-                        Is likely that X is not well formed as a problem
-                        or something is missing in the hypothesis,
-                    }
+                Step back from the problem,
+                Revisit an hour later,
+                Talk with your manager N times if neccesary,
+                Go back to step. (1)
             }
     }
 
@@ -88,7 +82,9 @@ where {X} is a subset of a problem
 
 1. If you **_can_** describe the solution, you can **build** it.
 
-2. If you **_cannot_** explain by **voice** or **text** what's happening with the solution, in a clear and simple way, is likely because you don't have all the information you need to guess why the solution is not working. In that case you can: **keep searching** or if you are getting tired, **give up**
+2. If you **_cannot_** explain by **voice** or **text** what's happening with the solution, in a clear and simple way, is likely because you don't have all the information you need to guess why the solution is not working. In that case you can: **keep searching** or if you are getting tired, **give up**.
+
+### Say no more often
 
 You see, most of the time your **solution** and your **block** to making the solution a reality are almost blood brothers. If you can't build, at least you can take the time to **explain** why.
 
