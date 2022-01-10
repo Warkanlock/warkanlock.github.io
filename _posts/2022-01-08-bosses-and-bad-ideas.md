@@ -28,9 +28,11 @@ These suggestions come from my period there...
 >
 > John Doerr
 
-In situations where bosses go like crazy asking for things not humanly possible, **you have to take advantage of it**.
+In situations where bosses go like crazy asking for things not humanly possible, **you have to exploit the situation**.
 
-You don't have to become a mercenary, because mercenaries build things without dealing with the situation, they just build. Building is not necessarily bad, but you, as a software developer, have to be able to understand the problem to become an expert of your domain. Almost anyone can write code in the software biz (up to certain level) but understanding complex real-case scenarios like: tax management, transfer pricing, internacional taxation, is not something you can learn in a blog post or video tutorial. **That's your advantage, the domain in which your boss is trying to figure things out**.
+You don't have to become a mercenary, because mercenaries build things without dealing with the situation, they just build. Building is not necessarily bad, but you, as a software developer, have to be able to understand the problem to become an expert of your domain. Almost anyone can write code in the software biz (up to certain level) but understanding complex real-case scenarios like: tax management, transfer pricing, internacional taxation, is not something you can learn in a blog post or video tutorial.
+
+**That's your weight, the domain in which your boss is trying to figure things out**.
 
 ## Don't overestimate your boss
 
@@ -40,7 +42,7 @@ One does not normally have the opportunity to experience the problems that bosse
 
 I'll put a personal experience here:
 
-While working at PwC I started with almost zero knowledge of my responsibilities inside the company but day after day my boss did a lot of meetings with my group trying to explain a really complex problem about **tax** and **[knowledge transfer](https://en.wikipedia.org/wiki/Knowledge_transfer)**. Obviously back then I had no idea what was going on until a few weeks later I had it, and that day, something inside me clicked. You don't have to worry about the details of the application but focus primarily on the problems they want to solve. That's your advantage in this nerve-wracking situation.
+While working at PwC I started with almost zero knowledge of my responsibilities inside the company but day after day my boss did a lot of meetings with my group trying to explain a really complex problem about **tax** and **[knowledge transfer](https://en.wikipedia.org/wiki/Knowledge_transfer)**. Obviously back then I had no idea what was going on until a few weeks later I had it, and that day, something inside me clicked. You don't have to worry about the details of the application but focus primarily on the problems they want to solve.
 
 ## Learn to say no
 
