@@ -188,7 +188,7 @@ artifacts
 
 After this we will go to the [Fantom Wallet](https://pwawallet.fantom.network/#/dashboard) and we will create a Wallet:
 
-![Create wallet](https://blog.ignaciobrasca.com/img/programming/pic-1.png)
+![Create wallet](https://blog.ignaciobrasca.com/img/posts/programming/pic-1.png)
 
 After following the steps, please save your mnemonic (24 words generated) in the ``.env`` file we just created. You need to save it using the following string structure: 
 
@@ -196,7 +196,7 @@ After following the steps, please save your mnemonic (24 words generated) in the
 
 Doing that, we should be able to spot our wallet address and ask for a few FTM on the Faucet:
 
-![Faucet](https://blog.ignaciobrasca.com/img/programming/pic-2.png)
+![Faucet](https://blog.ignaciobrasca.com/img/posts/programming/pic-2.png)
   
 As you can see, you will get ``10 FTM`` on the Fantom Testnet.
 
