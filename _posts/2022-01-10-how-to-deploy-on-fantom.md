@@ -10,7 +10,7 @@ categories: programming fantom
 
 While researching blockchain development, I went into the Opera Network, known primarily as [Fantom](https://fantom.foundation) and the first thing I noticed, while I was there looking at the documentation provided by the foundation, was the lack of content in terms of how to do things within the network. [They put content out there](https://docs.fantom.foundation/) but, as you can read, most of the content is aimed at experts or, at least, people who developed applications on the network in the past.
 
-In situations like this I don't like to complain too much in my comfort zone because I haven't done anything to contribute but I was doing a lot of research lately, and working on [Bloodgeist](https://twitter.com/IronGiantGames) and I realize: **Why don't I put some content on the internet by myself? **
+In situations like this I don't like to complain too much in my comfort zone because I haven't done anything to contribute but I was doing a lot of research lately, and working on [Bloodgeist](https://twitter.com/IronGiantGames) and I realize: **Why don't I put some content on the internet by myself?**
 
 ## Baby Steps
 
@@ -156,7 +156,7 @@ You can run the test by using
 npx hardhat test
 ```
 
-***We are to deploy something!***
+***We are ready to deploy something!***
 
 ## Deploying to a live network
 
