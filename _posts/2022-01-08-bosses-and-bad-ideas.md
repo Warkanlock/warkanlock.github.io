@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bosses and bad ideas, a tale from corporate software"
+title: "Bosses and Bad Ideas: a tale from corporate software"
 description: "Some recommendations on how to behave when our bosses make bad decisions and also how to take advantage of them for your long-term career."
 date: 2022-01-08 12:00:00 -0300
 categories: opinion
