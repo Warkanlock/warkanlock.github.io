@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making your own NFTs using Lighthouse + Fantom"
+title: "Make your own NFT collection using Lighthouse + Fantom"
 description: "A quick guide on how to put your NFTs into the Fantom Network using the help of the Lighthouse project"
 date: 2022-01-18 12:00:00 -0300
 categories: programming fantom
