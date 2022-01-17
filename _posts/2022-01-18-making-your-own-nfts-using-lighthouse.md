@@ -8,9 +8,11 @@ categories: programming fantom
 
 ## Introduction
 
-First of all,in order to understand NFT world you will need to understand the underline technology that make them possible in the first place, because without a blockchain to store the NFT information this world would not exists in the first place.
+First of all,in order to understand NFT world you will need to understand the underline technology that make them possible in the first place, because without a blockchain to store the NFT information this world would not exists in the first place. 
 
 You will need to read [Non-fungible tokens](https://ethereum.org/en/nft/) in order to understand what we are doing here. 
+
+> Disclosure: This library is on beta stage, use with precaution and responsability
 
 ### What's Fantom?
 
@@ -18,7 +20,7 @@ We will be using Fantom as underline network to store our NFTs, in this article 
 
 ### Why Fantom?
 
-Because it's the cheapest and fastest L1 out there, almost free to deploy and really easy to use.
+Because it's the cheapest and fastest L1 out there, almost free to deploy and really easy to use. You won't need more than 1 FTM to pass through this tutorial.
 
 ### What's Lighthouse?
 
@@ -324,7 +326,12 @@ Wallets to visualize NFTs:
 - [**Metamask Mobile**](https://metamask.zendesk.com/hc/en-us/articles/360058238591-NFT-tokens-in-your-MetaMask-wallet)
 - [Xdefi](https://www.xdefi.io/#section-1) 
 
-
-
-
 ## Conclusion
+
+As you can see, deploying a collection to Fantom using Lighthouse it's really affordable and also easy for those who does not have too much experience on the blockchain world. Feel free to try it out and start playing with Lighthouse + Fantom!
+
+## Useful links
+
+- [lighthouse.storage](https://lighthouse.storage)
+- [fantom.foundation](https://fantom.foundation)
+- [testnet.ftmscan.com](https://testnet.ftmscan.com)
