@@ -12,7 +12,7 @@ First of all,in order to understand NFT world you will need to understand the un
 
 You will need to read [Non-fungible tokens](https://ethereum.org/en/nft/) in order to understand what we are doing here. 
 
-> Disclosure: This library is on beta stage, use with precaution and responsability
+> Disclaimer: This library is on beta stage, use with precaution and responsability
 
 ### What's Fantom?
 
