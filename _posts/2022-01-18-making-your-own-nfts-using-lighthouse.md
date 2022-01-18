@@ -311,20 +311,22 @@ Then, you can deploy it but first be sure to set the baseCID as parameter:
 
 After hitting deploy, you can see the transaction log and spot the address we need on the ``from:`` parameter.
 
-![Step 2](https://blog.ignaciobrasca.com/img/posts/programming/pic-5.png)
+![Step 3](https://blog.ignaciobrasca.com/img/posts/programming/pic-5.png)
 
 Either way, you will get a contract deployed and ready to be minted. To access the contract (spotted on hardhat or remix) you can use the following URL [testnet.ftmscan.com/address/{your-contract-address}](https://testnet.ftmscan.com/) 
 
 ## Mint an NFT
 
 
-After getting the address of the contract, you can hit the ``Read Method`` called **mint(address)** or use Remix UI to call **mint** method. 
+After getting the address of the contract, you can hit the ``Read Method`` called **mint(address)** or use Remix UI to call **mint** method and **after succesfully run the transaction you will be the owner of an NFT.** 
 
 > First option will need you to verify the contract, so Remix option is faster in order to try it out
 
-After this, you will mint an NFT for an address that you can spot after adding the correspond contract in the wallet. Check it out the following links:
+After you add the contract address and the ``tokenId`` of your NFT in the wallet, you will be able to visualize it. I'm using Metamask Mobile, currently there is no support for the browser extension:
 
-Wallets to visualize NFTs:
+![NFT visualization](https://blog.ignaciobrasca.com/img/posts/programming/pic-6.png)
+
+Check it out the following wallets to visualize NFTs:
 
 - [**Metamask Mobile**](https://metamask.zendesk.com/hc/en-us/articles/360058238591-NFT-tokens-in-your-MetaMask-wallet)
 - [Xdefi](https://www.xdefi.io/#section-1) 
