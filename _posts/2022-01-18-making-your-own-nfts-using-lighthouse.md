@@ -8,29 +8,29 @@ categories: programming fantom
 
 ## Introduction
 
-First of all,in order to understand NFT world you will need to understand the underline technology that make them possible in the first place, because without a blockchain to store the NFT information this world would not exists in the first place. 
+First, to understand the world of NFTs, you need to understand the underlying technology that makes them possible, because without a blockchain to store NFT information, this world wouldn't exist. 
 
-You will need to read [Non-fungible tokens](https://ethereum.org/en/nft/) in order to understand what we are doing here. 
+You'll have to read [Non-fungible tokens](https://ethereum.org/en/nft/) to understand what we're doing here. 
 
 > Disclaimer: This library is on beta stage, use with precaution and responsability
 
 ### What's Fantom?
 
-We will be using Fantom as underline network to store our NFTs, in this article I'll be using the [**testnet**](testnet.ftmscan.com) but it's exactly the same to reproduce it in the **mainnet**, so no worries about that.
+We will use Fantom as a network to support our NFTs, in this article I will use the [**testnet**](testnet.ftmscan.com) but it is exactly the same to reproduce it on the **mainnet**, so don't worry about that.
 
 ### Why Fantom?
 
-Because it's the cheapest and fastest L1 out there, almost free to deploy and really easy to use. You won't need more than 1 FTM to pass through this tutorial.
+Because it is the cheapest and fastest L1 out there, almost free to deploy and really easy to use. You won't need more than 1 FTM to go through this tutorial.
 
 ### What's Lighthouse?
 
-Lighthouse allows users to store their files on decentralized network for lifetime at a fixed price. 
+Lighthouse allows users to store their files in a decentralized network for life at a fixed price. 
 
-I'm a contributor to the library and in order to make the ecosystem robust we need to put our hands into the dirt.
+I'm a contributor of the core package and for the ecosystem to be robust we need to get our hands on the ground.
 
 ### Why Lighthouse?
 
-Because other services are quite massive so far with a lot of articles, documentation and people using it, and also adding a lot of "centralized" content in their own way. Lighthouse will remove the friction in between you and the [IPFS](https://ipfs.io/) network making almost invisible the process to create distributed assets.
+Because other services are pretty massive so far, with a lot of articles, documentation and people using it, and they also add a lot of "centralized" content in their own way. Lighthouse will remove the friction between you and the [IPFS](https://ipfs.io/) network by making the process for creating distributed assets almost invisible.
 
 ## Preparation
 
@@ -43,6 +43,8 @@ Install the CLI as a global package using:
 ```bash
 npm install -g lighthouse-web3
 ```
+
+For this tutorial we will be using ``lighthouse-web3@1.2.6``
 
 ## Creating a wallet
 
@@ -62,9 +64,9 @@ Or you can use an already created wallet importing the private key:
 lighthouse-web3 import-wallet --key <private-key>
 ```
 
-Both of those options are OK. In this tutorial I used the CLI but if you have hesitations using the create-wallet command you can create one using the [official Fantom Wallet](https://pwawallet.fantom.network/#/dashboard) and then importing the private key resultant.
+Both options are OK. In this tutorial I'll use the CLI but if you have hesitations using the ``create-wallet`` command you can create your own by hand using the [official Fantom Wallet](https://pwawallet.fantom.network/#/dashboard) and then importing the private key.
 
-After that we should set Lighthouse to use Fantom as default network:
+After that, we should set **Lighthouse** to use Fantom as default network:
 
 ```bash
 > lighthouse-web3 --chain fantom  
@@ -74,7 +76,7 @@ Chain set to fantom
 
 ```
 
-## Funding your wallet
+## Deposit some funds into your wallet
 
 After creating the wallet, we would run a command call ``balance`` to check if everything works as excepted:
 
@@ -83,7 +85,7 @@ After creating the wallet, we would run a command call ``balance`` to check if e
 0
 ```
 
-As we can see, the command throw us a result into the terminal: 0. Obviously we would need to fund this wallet and in order to do this we are gonna use the [Fantom Faucet](https://faucet.fantom.network/) (I showed on [my previous article](https://blog.ignaciobrasca.com/programming/fantom/2022/01/08/how-to-deploy-on-fantom.html#deploying-to-a-live-network) how to fund you wallet using this website)
+As we can see, the command throw us a result into the terminal: ``0``. Obviously we would need to fund this wallet and in order to do this we are gonna use the [Fantom Faucet](https://faucet.fantom.network/) (I showed on [my previous article](https://blog.ignaciobrasca.com/programming/fantom/2022/01/08/how-to-deploy-on-fantom.html#deploying-to-a-live-network) how to fund you wallet using this website)
 
 > Have in mind that you can use real FTM to fund this account on the mainnet, this is just for the testnet.
 
@@ -98,13 +100,13 @@ Now we are ready to upload something on the testnet!
 
 ## Configure Lighthouse
 
-In order to not mess up our wallets and deploying something to the real world we are gonna use the testnet, in order to configure **Lighthouse** to do that you can go to ``lighthouse.config.js`` on the root folder of the project and change ``network`` parameter from ``mainnet`` to ``testnet``
+To not mess up our portfolios and deploy something in the real world we are going to use the testnet, to configure **Lighthouse** to do that you can go to ``lighthouse.config.js`` in the root folder of the project and change the ``network`` parameter from ``mainnet`` to ``testnet``.
 
-Otherwise you will be using the mainnet instead.
+Otherwise, it will use the main network instead
 
 ## Upload a folder
 
-That's it, we are ready to deploy something to the chain. Command to drop something it's really simple but we would need a few preparations before related to the [metadata standars of the NFTs](https://docs.opensea.io/docs/metadata-standards)
+That's it, we are ready to deploy something in the chain. The command to drop something is really simple but we would need some preparations beforehand related to the [NFTs metadata standards](https://docs.opensea.io/docs/metadata-standards)
 
 Metadata structure is, basically, like this
 ```
@@ -115,9 +117,9 @@ Metadata structure is, basically, like this
 }
 ```
 
-Obviously you can extend that schema to have attributes that make your NFT unique, but so far with those parameters is enough for the scope of this tutoral.
+Obviously you can extend that scheme to have attributes that make your NFT unique, but so far those parameters are sufficient for the scope of this tutorial.
 
-One thing to notice is that ``image`` parameter could point to ANY valid url out there, and that's a problem because we want our NFT to be as decrentralized as possible. **We do not want to store our images in Google Drive (or similar) only to wake up one day and realize that they have disappeared because we have not paid for the subscription plan**.
+One thing to note is that the ``image`` parameter could point to ANY valid url that exists, and that's a problem because we want our NFT to be as decentralized as possible. **We don't want to store our images in Google Drive (or similar) only to wake up one day and realize they're gone because we didn't pay for the subscription plan**.
 
 That's why we are about to deploy this two times.
 
@@ -195,17 +197,17 @@ const index = (baseCID,itemsInCID) => {
 index("bafybeigl53pbfhwi7kvsgq66pwtye5v6o5iyso3pp4b32pdulxlykyon5m", 3);
 ```
 
-After running the script using ``node index.js`` we can see that now we have three files under the same directory with ``.json`` format and pointing to the IPFS content we deployed before.
+After running the script using ``node index.js`` we can see that we now have three files under the same directory in ``.json`` format and pointing to the IPFS content we deployed earlier.
 
-Now the process is quite similar than before, save ``.json`` files into a separate folder and do the same to upload them using Lighthouse
+Now the process is quite similar to the previous one, save the ``.json`` files in a separate folder and do the same to upload them using Lighthouse
 
 ```
 > lighthouse-web3 deploy pictures/test/metadata
 ```
 
-Now, after deploying this we will get another CID that point to the metadata instead of the image itself. This is useful to make OpenSea, Rarible, Artion, etc to show the correct information for our NFT.
+Now, after deploying this we will get another CID that will point to the metadata instead of the image itself. This is useful to make OpenSea, Rarible, Artion, etc. display the correct information for our NFT.
 
-**After saving the latest CID generated by the CLI we can now go to the contract and mint some NFTs**
+**After saving the last CID generated by the CLI we can now go to the contract and mint some NFTs**.
 
 ## Deploy your contract
 
@@ -283,11 +285,12 @@ contract YourFirstNFTContract is ERC721URIStorage, Ownable {
 
 ```
 
-As you can see, deploying this contract needs one thing, the ``<baseCID>`` generated on the previous step.
+As you can see, the deployment of this contract needs one thing, the ``<Base CID>` generated in the previous step.
 
-We can get the CID we obtained on the latest deployment of the metadata and put into the constructor of the contract before deploy it to the chain.
+We can take the CID we got in the last metadata deployment and put it in the contract constructor before deploying it on the chain.
 
-In order to deploy it, you can use [Remix Ethereum](https://remix.ethereum.org/) so you can use your ``Metamask`` wallet with the account we created on Lighthouse (importing the private key). Also you can follow my previous article to check [how to deploy a contract on Fantom without using Remix](https://blog.ignaciobrasca.com/programming/fantom/2022/01/08/how-to-deploy-on-fantom.html). If you don't know how to use Remix don't worry, it's pretty straightforward and here is a videotutorial to understand the basics: [Intro to Remix & Solidity](https://www.youtube.com/watch?v=JWJWT9cwFbo)
+To deploy it, you can use [Ethereum Remix](https://remix.ethereum.org/) to be able to use your ``Metamask`` wallet with the account we created in Lighthouse (importing the private key). You can also follow my previous article to check [how to deploy a contract in Fantom without using Remix](https://blog.ignaciobrasca.com/programming/fantom/2022/01/08/how-to-deploy-on-fantom.html). If you don't know how to use Remix don't worry, it's quite simple and here is a video tutorial to understand the basics: [Introduction to Remix and Solidity](https://www.youtube.com/watch?v=JWJWT9cwFbo)
+
 
 Using ``hardhat`` will look like
 
@@ -326,9 +329,13 @@ Wallets to visualize NFTs:
 - [**Metamask Mobile**](https://metamask.zendesk.com/hc/en-us/articles/360058238591-NFT-tokens-in-your-MetaMask-wallet)
 - [Xdefi](https://www.xdefi.io/#section-1) 
 
+## Next Steps
+
+It is likely that the library will support a command to deploy NFTs using generic contract [ER721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/) to make it easier for users to get in touch with this technology without too much discomfort.
+
 ## Conclusion
 
-As you can see, deploying a collection to Fantom using Lighthouse it's really affordable and also easy for those who does not have too much experience on the blockchain world. Feel free to try it out and start playing with Lighthouse + Fantom!
+As you can see, deploying a collection in Fantom using Lighthouse is really affordable and also easy for those who don't have too much experience in the blockchain world. Don't hesitate to try it out and start playing with Lighthouse + Fantom.
 
 ## Useful links
 
