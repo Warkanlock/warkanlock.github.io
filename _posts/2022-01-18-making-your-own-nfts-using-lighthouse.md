@@ -317,14 +317,15 @@ Either way, you will get a contract deployed and ready to be minted. To access t
 
 ## Mint an NFT
 
-
-After getting the address of the contract, you can hit the ``Read Method`` called **mint(address)** or use Remix UI to call **mint** method and **after succesfully run the transaction you will be the owner of an NFT.** 
+After getting the address of the contract, you can hit the ``Read Method`` called **mint(address)** (in the **ftmscan.com** site after you verified it) or use Remix UI to call **mint** method.
 
 > First option will need you to verify the contract, so Remix option is faster in order to try it out
 
-After you add the contract address and the ``tokenId`` of your NFT in the wallet, you will be able to visualize it. I'm using Metamask Mobile, currently there is no support for the browser extension:
+**After a succesfully transaction you will be the owner of an NFT!**. So now, you can add the contract address and the ``tokenId`` of your NFT on your wallet and then you will be able to visualize it. 
 
 ![NFT visualization](https://blog.ignaciobrasca.com/img/posts/programming/pic-6.png)
+
+I'm using Metamask Mobile, currently there is no support for the browser extension:
 
 Check it out the following wallets to visualize NFTs:
 
