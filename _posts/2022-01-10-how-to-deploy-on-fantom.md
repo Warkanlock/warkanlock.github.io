@@ -2,7 +2,7 @@
 layout: post
 title: "How To Deploy Smart Contracts On Fantom"
 description: "A quick guide on how to build and deploy smart contracts into the Fantom Network"
-date: 2022-01-08 12:00:00 -0300
+date: 2022-01-10 12:00:00 -0300
 categories: programming fantom
 ---
 

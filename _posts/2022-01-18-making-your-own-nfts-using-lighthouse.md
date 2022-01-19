@@ -100,7 +100,11 @@ Now we are ready to upload something on the testnet!
 
 ## Configure Lighthouse
 
-To not mess up our portfolios and deploy something in the real world we are going to use the testnet, to configure **Lighthouse** to do that you can go to ``lighthouse.config.js`` in the root folder of the project and change the ``network`` parameter from ``mainnet`` to ``testnet``.
+To not mess up our portfolios and deploy something in the real world we are going to use the testnet, to configure **Lighthouse** to do that you can go throw the following command to change the network to use the mainnet:
+
+```bash 
+lighthouse-web3 --network testnet
+```
 
 Otherwise, it will use the main network instead
 
