@@ -8,6 +8,13 @@ categories: programming fantom
 image: "https://images.unsplash.com/photo-1642607806998-6123a2d3065f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 ---
 
+<style type="text/css">
+    img {
+        width: 100px;
+        height: 100px;
+    }
+</style>
+
 ## Introduction
 
 First, to understand the world of NFTs, you need to understand the underlying technology that makes them possible, because without a blockchain to store NFT information, this world wouldn't exist. 
