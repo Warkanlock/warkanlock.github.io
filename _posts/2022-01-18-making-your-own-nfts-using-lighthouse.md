@@ -46,7 +46,7 @@ Install the CLI as a global package using:
 npm install -g lighthouse-web3
 ```
 
-For this tutorial we will be using ``lighthouse-web3@1.2.6``
+For this tutorial we will be using ``lighthouse-web3@1.2.7``
 
 ## Creating a wallet
 
