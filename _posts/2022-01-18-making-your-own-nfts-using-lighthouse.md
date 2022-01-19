@@ -3,12 +3,16 @@ layout: post
 title: "Make your own NFT collection using Lighthouse + Fantom"
 description: "A quick guide on how to put your NFTs into the Fantom Network using the help of the Lighthouse project"
 date: 2022-01-18 12:00:00 -0300
+author: "Ignacio Brasca"
 categories: programming fantom
+image: "https://images.unsplash.com/photo-1642607806998-6123a2d3065f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 ---
 
 ## Introduction
 
 First, to understand the world of NFTs, you need to understand the underlying technology that makes them possible, because without a blockchain to store NFT information, this world wouldn't exist. 
+
+![logo lighthouse](https://www.lighthouse.storage/logo.png)
 
 You'll have to read [Non-fungible tokens](https://ethereum.org/en/nft/) to understand what we're doing here. 
 
