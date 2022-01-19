@@ -19,8 +19,6 @@ image: "https://images.unsplash.com/photo-1642607806998-6123a2d3065f?ixlib=rb-1.
 
 First, to understand the world of NFTs, you need to understand the underlying technology that makes them possible, because without a blockchain to store NFT information, this world wouldn't exist. 
 
-![logo lighthouse](https://www.lighthouse.storage/logo.png)
-
 You'll have to read [Non-fungible tokens](https://ethereum.org/en/nft/) to understand what we're doing here. 
 
 > Disclaimer: This library is on beta stage, use with precaution and responsability
