@@ -92,8 +92,8 @@ In the middle of this process, apart from being out of shape or whatever excuse 
 - You're over/under qualified
 - They need more years of experience ([even if this was proved that does not matter](https://hbr.org/2019/09/experience-doesnt-predict-a-new-hires-success))
 - They have already someone in sight for the position and it's just a formality run the interview
-- Your language skills could be awful
-- Social skills
+- Your language skills could be very poor
+- Awful social skills
 
 
 ## Is the process broken?
