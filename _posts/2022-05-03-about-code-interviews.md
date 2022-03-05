@@ -14,7 +14,7 @@ image: "https://images.unsplash.com/photo-1516544820488-4a99efa70a58?ixlib=rb-1.
 
 > I'll mention FAANG a lot but is not only: Facebook, Amazon, Apple, Netflix and Google. It's a representation of all the companies that are considerable big to apply this process and just plain reject their candidates because of it
 
-Interviews are a complex thing. In my past, I was afraid of this process starting from the idea of someone evaluating you and your ideas in less than an hour. Time goes by and my opinions about the process grok into something more complex than just a simple "doesn't work".
+Interviewing is a complex thing. In my past, I dreaded this process based on the idea that someone would evaluate you and your ideas in less than an hour. As time passes and my opinions about the process become more complex than a simple "it doesn't work".
 
 But, as Harry Caul said on The Conversation
 
