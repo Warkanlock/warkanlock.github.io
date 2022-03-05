@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About code interviews"
-description: "A personal opinion nobody ask for"
+title: "About Code Interviews"
+description: "A personal opinion nobody asks for"
 date: 2022-01-18 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: programming opinion
