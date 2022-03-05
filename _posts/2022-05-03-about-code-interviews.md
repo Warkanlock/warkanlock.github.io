@@ -8,11 +8,11 @@ categories: programming opinion
 image: "https://images.unsplash.com/photo-1516544820488-4a99efa70a58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 ---
 
+## Introduction
+
 > This is just an opinion, just a thought I had reading other people getting really pissed off on reddit about this. This is not a rant and this is not a complaint about current industry standards. 
 
 > I'll mention FAANG a lot but is not only: Facebook, Amazon, Apple, Netflix and Google. It's a representation of all the companies that are considerable big to apply this process and just plain reject their candidates because of it
-
-## Introduction
 
 Interviews are a complex thing. In my past, I was afraid of this process starting from the idea of someone evaluating you and your ideas in less than an hour. Time goes by and my opinions about the process grok into something more complex than just a simple "doesn't work".
 
