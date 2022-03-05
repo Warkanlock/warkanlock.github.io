@@ -47,10 +47,12 @@ We only think about this too much IF we don't get the job or something bad happe
 People like Carmack saying things like this in public and no one, especially within *FAANG* companies (because they put them on as standard), stops for a moment and says "***hey, we may be doing something wrong in the process of interviewing our future employers***"
 
 ![carmack-opinion](https://blog.ignaciobrasca.com/img/posts/programming/pic-7.png)
+> source: https://twitter.com/ID_AA_Carmack/status/1494076571434590215
 
 A very common response from code interview lovers is that code interviews are the most "known" practice to understand if a candidate is suitable or not. They claim *"It just works"*, but really?
 
 ![random-opinion](https://blog.ignaciobrasca.com/img/posts/programming/pic-8.png)
+> source: https://www.reddit.com/r/ExperiencedDevs/comments/t60tq7/coding_interviews_are_the_worst/
 
 I strongly disagree with this because [survival bias](https://en.wikipedia.org/wiki/Survivorship_bias). People who entered the FAANG world through the "ace the code" interview are the most comfortable because "it's easy to grind and practice". The reality behind this is that most people have a full-time job, which consumes most of their lives and even generates experiences of burnout.
 
