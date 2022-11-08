@@ -18,7 +18,7 @@ The human species entered a dark alley of false promises and almost true data. A
 
 I don't panic, I enjoy humans transmuting into a new species,
 
-I went to Spotify to listen again to Alan's Parson project, the lyrics are always the same, monotony in the future will cost. Generating music will be easy, cheaper and better than buying records,
+I went to Spotify to listen again to Alan's Parson project, the lyrics are always the same, monotony in the future will cost us more. Generating music today is easy, cheaper and better than companies buying records from old artists.
 
 I see a world in which everyone will try to be their own model,  
 I see a world in which everyone will cease to be,  
