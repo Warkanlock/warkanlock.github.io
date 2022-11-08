@@ -20,8 +20,8 @@ I don't panic, I enjoy humans transmuting into a new species,
 
 I went to Spotify to listen again to Alan's Parson project, the lyrics are always the same, monotony in the future will cost. Generating music will be easy, cheaper and better than buying records,
 
-I see a world in which everyone will try to be their own model,
-I see a world in which everyone will cease to be,
+I see a world in which everyone will try to be their own model,  
+I see a world in which everyone will cease to be,  
 I see a world,
 
 A maybe good and brave new world.
