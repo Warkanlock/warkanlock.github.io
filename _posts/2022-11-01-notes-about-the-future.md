@@ -5,7 +5,7 @@ description: "A few words about the near future"
 date: 2022-11-01 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
-image: "https://image.lexica.art/md/24491766-c419-4f8c-ae9b-a676c786ec2b"
+image: "https://images.unsplash.com/photo-1667830797575-97b9d7dc7e02?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
 ---
 
 ### Notes about the future
