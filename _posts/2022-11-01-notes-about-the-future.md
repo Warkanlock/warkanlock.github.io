@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes about the future"
-description: "A few words about the near future"
+description: "Today I generated myself"
 date: 2022-11-01 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
