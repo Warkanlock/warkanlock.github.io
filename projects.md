@@ -13,12 +13,13 @@ permalink: /projects
 
 - [tidal-hifi](https://github.com/Warkanlock/tidal-hifi)
 - [brave-core](https://github.com/brave/brave-core/pull/8172)
-- [nodejs](hhttps://github.com/nodejs/node/commit/99b109f7f367c61c1524e8278a8277740b0ce0d1)
+- [nodejs](https://github.com/nodejs/node/commit/99b109f7f367c61c1524e8278a8277740b0ce0d1)
+- [wing](https://github.com/winglang/wing)
 
 ## Crypto
 
 - [rarity-visualizer](https://www.rarityvisualizer.com)
-- [lighthouse-web3](https://github.com/LighthouseWeb3), as a core contributor
+- [lighthouse-web3](https://github.com/LighthouseWeb3)
 
 ## Scalability
 
@@ -43,4 +44,4 @@ permalink: /projects
 - [BoilerCLI.js](https://github.com/Warkanlock/BoilerCLI.js)
 - [MinimalPS](https://github.com/Warkanlock/MinimalPS)
 - [boiler-definition-library](https://github.com/Warkanlock/boiler-definition-library)
-- [todo-list-rust](https://github.com/Warkanlock/todo-list-rust
+- [todo-list-rust](https://github.com/Warkanlock/todo-list-rust)

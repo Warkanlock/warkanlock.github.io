@@ -33,8 +33,8 @@ remote_theme: jekyll/minima
 minima:
   skin : dark
   social_links:
-    twitter: txxnano
-    github: Warkanlock
+    - { platform: github,  user_url: "https://github.com/Warkanlock" }
+    - { platform: twitter, user_url: "https://twitter.com/txxnano" }
 
 plugins:
   - jekyll-feed
@@ -48,14 +48,14 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
