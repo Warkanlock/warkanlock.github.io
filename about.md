@@ -31,4 +31,4 @@ Currently, I'm building fulltime on [Datia](https://datia.app).
 
 - Make music as [Too Nano](https://open.spotify.com/artist/6ByFHF2ZCZIeHg1O86JpiM) and [TXXNANO](https://open.spotify.com/artist/3wHoyAGjMlR9C8zoahstuF).
 
-- I like to publish my work (If I have any) on [ResearchGate](https://www.researchgate.net/profile/Ignacio_Brasca).
+- I like to publish my work (If any) on [ResearchGate](https://www.researchgate.net/profile/Ignacio_Brasca).
