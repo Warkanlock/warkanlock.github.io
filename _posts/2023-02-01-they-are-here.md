@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "They are here"
-description: "Another (yet) take on GPT, models and AI"
+description: "Another (yet personal) take on GPT"
 date: 2023-02-01 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
