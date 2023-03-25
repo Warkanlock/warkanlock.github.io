@@ -16,7 +16,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ignacio Brasca - DevBlog
+title: Happiness Machines
 email: hello@txxnano.anonaddy.me
 author: txxnano
 description: >- # this means to ignore newlines until "baseurl:"
