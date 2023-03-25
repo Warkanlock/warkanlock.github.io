@@ -32,5 +32,5 @@ Currently, I'm building [Datia](https://datia.app) with an amazing team.
 - Competitive Programming (Participation in Facebook F8 California and Facebook Hackathon Argentina)
   
 - Make music as [Too Nano](https://open.spotify.com/artist/6ByFHF2ZCZIeHg1O86JpiM) and [TXXNANO](https://open.spotify.com/artist/3wHoyAGjMlR9C8zoahstuF).
-- 
+  
 - I like to publish my work (If any) on [ResearchGate](https://www.researchgate.net/profile/Ignacio_Brasca).
