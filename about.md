@@ -7,7 +7,7 @@ permalink: /about
 
 I'm Ignacio Brasca, a developer from Argentina living abroad (currently in Italy), with experience in web development, security, system design, scalability, finance and game development.
 
-![myself](https://blog.ignaciobrasca.com/img/myself.jpeg)
+![myself](https://blog.ignaciobrasca.com/img/myself.png)
 
 Now, I mainly focus on developing high-performance code for financial applications but most of the work I did and I'm doing cannot be published due to [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement).
 
