@@ -2,7 +2,7 @@
 layout: post
 title: "On being bored as a tech enthusiast"
 description: " "Childhood dream & boredom as the world changes underneath."
-date: 2023-03-01 12:00:00 -0300
+date: 2023-02-25 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-1.png"
