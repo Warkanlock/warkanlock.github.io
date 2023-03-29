@@ -75,10 +75,10 @@ As Nick Bostrom said, the solution for Superintelligence will most likely be "si
 ![Nick Bostrom](https://blog.ignaciobrasca.com/img/posts/random/pic-4.png)
 
 ## References
-[ref 1]([https://arxiv.org/abs/2203.15556)
-[ref 2]([https://mitpress.mit.edu/9780262525480/why-architects-still-draw/)
-[ref 3]([https://www.tandfonline.com/doi/abs/10.1191/1478088706qrp066oa)
-[ref 4]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217586/)
-[ref 5]([https://arxiv.org/abs/2303.12712)
-[ref 6]([https://www.youtube.com/watch?v=DnPmg0R1M04 (Documentary))
-[ref 7]([https://www.lesswrong.com/posts/qdStMFDMrWAnTqNWL/gpt-4-predictions)
+- [ref 1](https://arxiv.org/abs/2203.15556)
+- [ref 2](https://mitpress.mit.edu/9780262525480/why-architects-still-draw/)
+- [ref 3](https://www.tandfonline.com/doi/abs/10.1191/1478088706qrp066oa)
+- [ref 4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4217586/)
+- [ref 5](https://arxiv.org/abs/2303.12712)
+- [ref 6](https://www.youtube.com/watch?v=DnPmg0R1M04 (Documentary))
+- [ref 7](https://www.lesswrong.com/posts/qdStMFDMrWAnTqNWL/gpt-4-predictions)
