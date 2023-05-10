@@ -24,24 +24,35 @@ Sometimes, surrounded by information on this period of time, it's pretty normal 
 
 I live towards the attitude of believing we should never forget from where we come, a place where knowledge was not that vast, not that good, or even not that curated.
 
-Now that we have a thesaurus of products, algorithms, indexes, and even books about books to keep track of knowledge, a few of those have meaningful value for you.
+Now that we have a thesaurus of products, algorithms, indexes, and even books about books to keep track of knowledge, a few of those actually have meaningful value for you.
 
-There a plenty of movies, music, books, and even talks with people who made a living using this as fuel. I know it's not new to write about **"doing what you love,"** but I'm not trying to write about that but what fulfills you and makes you a little bit of yourself. Quit trends.
+There a plenty of movies, music, books, and even talks with people who made a living using this as fuel. I know it's not new to write about **"doing what you love,"** but I'm not trying to write about that but what fulfills you and makes you a little bit of yourself. 
+
+Quit trends.
 
 > [Chunking Express](https://letterboxd.com/film/chungking-express/) portrays love in an authentic manner, always looking for something that does not exist in the first place.
 
-Everything is a trade-off, and deciding how to go deep down the rabbit hole is also your decision. Staying late at home coding a compiler is OK while YOU enjoy doing it, but if you are doing it to be up to date with the latest trend, sorry to inform you, but... you should try to escape from the pattern because, in the long term, it won't help.
+Everything is a trade-off, and deciding how to go deep down the rabbit hole is also your decision. 
 
-Back in school was a real pain to memorize things about topics utterly irrelevant to me. Contemplate a paint. Write a book even if nobody will read it. Listen to an album. Sit in silence. It might sound hippie (while I hate the term), but it will allow you to understand that even if many people say it does not make it accurate. There are people still using COBOL and living life to the fullest. People still use their hands to craft art, not even knowing AI's existence. People are people in the outside world.
+Staying late at home coding a compiler is OK while YOU enjoy doing it, but if you are doing it to be up to date with the latest trend, sorry to inform you, but... you should try to escape from the pattern because, in the long term, it won't help. Back in school was a real pain to memorize things about topics utterly irrelevant to me, because of that, I tend to not over commit myself to things I don't enjojy.
+
+Contemplate a paint,\
+Write a book even if nobody will read it,\
+Listen to an album,\
+Sit in silence
+
+It might sound hippie (while I hate the term), but it will allow you to understand that even if many people say it does not make it accurate. 
+
+There are people still using COBOL and living life to the fullest. People still use their hands to craft art, not even knowing AI's existence. People are people in the outside world.
 
 It's understandable to seek knowledge and understanding of current events, but it becomes problematic when it causes sadness, anxiety, or anger toward our society. Embrace being an average individual. It can be beneficial for you.
 
 Meaning is something we put onto things; meaning is where we should put our attention on. While having fun, we should be able to allow ourselves to loom towards the reality of what we were before, even five minutes ago, before taking this train.
 
-A hike through the mountain, 
-A sad song in a pretty happy place, 
-A movie while enjoying tea, 
-All of these things we take for granted,
-Once we are doing it
+A hike through the mountain,\
+A sad song in a pretty happy place,\
+A movie while enjoying tea,\
+All of these things we take for granted,\
+Once we are doing it.
 
 [The Past is a Grotesque Animal](https://www.youtube.com/watch?v=f3RAI8Ntamw) but it's part of what we are.
