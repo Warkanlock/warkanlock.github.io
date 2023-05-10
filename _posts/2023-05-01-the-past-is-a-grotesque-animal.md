@@ -5,7 +5,7 @@ description: ""
 date: 2023-05-01 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: personal
-image: "https://blog.ignaciobrasca.com/img/posts/random/pic-1.png"
+image: "https://blog.ignaciobrasca.com/img/posts/random/pic-5.png"
 ---
 
 Yesterday I got Italian citizenship through [Jus sanguinis](https://en.wikipedia.org/wiki/Jus_sanguinis), and I was looking for a way to write about it; this is a catharsis of what I passed through.
