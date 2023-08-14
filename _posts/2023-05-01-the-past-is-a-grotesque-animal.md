@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Past is a Grotesque Animal"
+title: "The past is a grotesque animal"
 description: ""
 date: 2023-05-01 12:00:00 -0300
 author: "Ignacio Brasca"
