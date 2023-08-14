@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A normal week (in tech)"
-description: "Balacing coding challenges and daily distractions. Is this a work rythm we want?"
+description: "Balacing daily distractions. Is this a work rythm we want?"
 date: 2023-05-01 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: work
