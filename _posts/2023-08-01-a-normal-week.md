@@ -47,9 +47,9 @@ Logging in, I squeezed in some work before my daily meeting. Soon, I received a 
 
 While busy, it took a lot of work to articulate to them what I had accomplished. A few things on my list seemed too minor to mention, yet I couldn't point to any significant feature I had worked on besides the requirements I had been trying to implement since Monday.
 
-They looked at me with a glance of horror, like asking themselves: is this the guy we have been trying to hire for a month? is this the kind of managers we are hiring? 
+They looked at me with a glance of horror, like asking themselves: Is this the guy we have been trying to hire for a month? Is this the kind of managers we are hiring? 
 
-They apprise me with a quick note: finish the task as soon as possible
+They warn me with a quick note: Finish the task as soon as possible.
 
 Immediately after that, they schedule with me three more mandatory meetings, one of those to celebrate the company's tenth anniversary.
 
