@@ -2,7 +2,7 @@
 layout: post
 title: "Just a simple task"
 description: "How bad could it be, right?"
-date: 2023-05-01 12:00:00 -0300
+date: 2023-08-07 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: work
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-8.jpeg"

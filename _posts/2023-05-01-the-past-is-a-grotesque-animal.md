@@ -2,7 +2,7 @@
 layout: post
 title: "The past is a grotesque animal"
 description: ""
-date: 2023-05-01 12:00:00 -0300
+date: 2023-04-01 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: personal
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-5.png"
