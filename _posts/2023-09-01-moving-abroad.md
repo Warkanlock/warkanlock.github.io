@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving abroad"
-description: ""
+description: "Constantly searching for a place to stay"
 date: 2023-08-07 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
