@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 
-I'm Ignacio Brasca, a developer from Argentina living abroad (currently in Italy), with experience in web development, security, system design, scalability, finance and game development.
+I'm Ignacio Brasca, a developer from Argentina living abroad (prev. Italy, now Sweden), with experience in web development, security, system design, scalability, finance and game development.
 
 ![myself](https://blog.ignaciobrasca.com/img/myself.png)
 
