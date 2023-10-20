@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Moving abroad"
-description: "Constantly searching for a place to stay"
-date: 2023-08-07 12:00:00 -0300
+title: "On Preserving Knowledge"
+description: "The nature of digital knowledge in an expanding internet landscape"
+date: 2023-10-20 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-10.jpeg"
 ---
-The other day I was discussing with a colleague when I remembered a story I'd read (indexed using [HN](https://news.ycombinator.com/) aggregator). During this conversation, I muted myself for a while and started multi-tasking while searching for the link I bet I had handy. A few minutes passed, and I was still without the hyperlink or an apparent response to my colleague's words. During those minutes, I lost searching for the story through my bookmarks
+Last week, I was discussing with a colleague when I remembered a story I'd read (indexed using [HN](https://news.ycombinator.com/) aggregator). During this conversation, I muted myself for a while and started multi-tasking while searching for the link I bet I had handy. A few minutes passed, and I was still without the hyperlink or an apparent response to my colleague's words. During those minutes, I lost searching for the story through my bookmarks
 
 ```
 > cat bookmarks_06_06_2023.html | grep -o 'HREF' | wc -l
