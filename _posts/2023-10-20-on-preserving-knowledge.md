@@ -30,7 +30,7 @@ Preserving knowledge now is by far one of the biggest challenges we have as a sp
 [data cost graph](https://blog.ignaciobrasca.com/img/posts/random/pic-11.png)
 > https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage
 
-In today's digital world, preserving information feels like an endless game of whack-a-mole. You need to avoid cyber attacks, manage hardware maintenance, [adapt to new storage technologies that might change everything](https://en.wikipedia.org/wiki/RAID#:~:text=RAID%20(%2Fre%C9%AAd%2F,%2C%20performance%20improvement%2C%20or%20both.), and deal with [data storage issues of the weirdest kind](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392). And this list could go on forever. It's a full-time job, especially considering the daily avalanche of data that each of us generates. 
+In today's digital world, preserving information feels like an endless game of whack-a-mole. You need to avoid cyber attacks, manage hardware maintenance, [adapt to new storage technologies that might change everything](https://en.wikipedia.org/wiki/RAID), and deal with [data storage issues of the weirdest kind](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-38392). And this list could go on forever. It's a full-time job, especially considering the daily avalanche of data that each of us generates. 
 
 Every text message, photo, or tweet we send adds more bytes to an overflowing digital universe [that increases daily](https://www.worldwidewebsize.com/) to numbers no other human society has seen before.
 
