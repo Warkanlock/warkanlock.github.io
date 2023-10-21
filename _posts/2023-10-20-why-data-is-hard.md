@@ -30,7 +30,7 @@ Data pipelines, ETL, warehouses, validation processes, staging environment, qual
 
 Anyways, after a couple of weeks, you realize that ensuring quality isn't just a one-time deal you can build and move on; it's a continuous process.
 
-You need to keep asking yourself: is the data up-to-date? Complete? Are the null rates within an acceptable range? Enter data catalogs, more complexity, more people, and your mind is asking again: **How much data could actually exist!?**. 
+You need to keep asking yourself: is the data up-to-date? Complete? Are the null rates within an acceptable range? You start reading about data catalogs: more complexity, more people, and your mind is asking again: **How much data could actually exist!?**. 
 
 Even inside your company, the data keeps growing because of the mere fact of the data being data, and now you realize that even the data of your data has data related as well.
 
@@ -38,11 +38,11 @@ This madness needs to stop, but it's too late.
 
 Now, your organization is in the data race. Everyone, every morning, will experience some issue related to this: wrong dashboards, numbers that look OK while, in fact, they are not, lousy scrapping, automatic reporting, customers that want raw data instead of consumption through the interface, emails are sent in daily basis to your third-party provider, and again, the list goes on and on.
 
-Your software, which you once thought would be only that, software, started to become this monster of data generation. From application logs with diagnostic information to API responses showing how our third-party services interact with event data from devices, each comes with its own set of problems and challenges we need to consider before it happens.
+Your software, which you once thought would be only that, software, started to become this monster of data generation. From application logs with diagnostic information to API responses showing how our third-party services interact with event data from other services, each comes with its own set of problems and challenges we need to consider before it happens.
 
 But always remember ["**there are unknown unknowns**"](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)
 
-Just for you to imagine, last week, a slight change in a raw data file from an overseas vendor wreaked one of our internal dashboards. I learned the hard way that quality assurance on the data is a continuous (and costly) battle everyone needs to fight against [if data it's really in charge of producing value in your organization](https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/).
+Just for you to imagine, last week, a slight change in a raw data file from an overseas vendor wreaked one of our internal dashboards. There I learned the hard way that quality assurance on the data is a continuous (and costly) battle everyone needs to fight against [if data it's really in charge of producing value in your organization](https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/).
 
 Validity, accuracy, timeliness, completeness, correctness, schemas, etc. 
 
