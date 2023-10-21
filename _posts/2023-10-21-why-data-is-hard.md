@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Data Is Hard"
+title: "Why data is hard"
 description: "What once started as a simple script is now a new Chimera"
 date: 2023-08-07 12:00:00 -0300
 author: "Ignacio Brasca"

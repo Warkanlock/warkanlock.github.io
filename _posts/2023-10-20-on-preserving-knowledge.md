@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Preserving Knowledge"
+title: "On preserving knowledge"
 description: "The nature of digital knowledge in an expanding internet landscape"
 date: 2023-10-20 12:00:00 -0300
 author: "Ignacio Brasca"
