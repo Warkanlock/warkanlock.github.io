@@ -30,7 +30,7 @@ Data pipelines, ETL, warehouses, validation processes, staging environment, qual
 
 Anyways, after a couple of weeks, you realize that ensuring quality isn't just a one-time deal you can build and move on; it's a continuous process.
 
-You need to keep asking yourself: is the data up-to-date? Complete? Are the null rates within an acceptable range? Enter data catalogs, more complexity, more people your mind is asking again: "How much data could exist!?**". Even inside your company, the data keeps growing, and now you realize that even the data of your data has data related as well.
+You need to keep asking yourself: is the data up-to-date? Complete? Are the null rates within an acceptable range? Enter data catalogs, more complexity, more people, and your mind is asking again: **How much data could actually exist!?**. Even inside your company, the data keeps growing, and now you realize that even the data of your data has data related as well.
 
 This madness needs to stop, but it's too late.
 
