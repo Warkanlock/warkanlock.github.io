@@ -44,6 +44,6 @@ Just for you to imagine, last week, a slight change in a raw data file from an o
 
 Validity, accuracy, timeliness, completeness, correctness, schemas, etc. 
 
-You wake up one day after a couple of months of wrestling with this issue of what, at first, started as a simple and naïve script, you realize you are not only solving a technical problem, but you are building the foundations of a data-driven organization.
+You wake up one day after a couple of months of wrestling with this issue of what, at first, started as a simple and naïve script, and you realize you are not only solving a technical problem, but you are building the foundations of a data-driven organization.
 
 And that, my friend, is why data is hard.
