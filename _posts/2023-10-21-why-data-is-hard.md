@@ -2,7 +2,7 @@
 layout: post
 title: "Why data is hard"
 description: "What once started as a simple script is now a new Chimera"
-date: 2023-08-07 12:00:00 -0300
+date: 2023-10-21 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-12.jpeg"
