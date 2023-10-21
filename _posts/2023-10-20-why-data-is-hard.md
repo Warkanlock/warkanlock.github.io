@@ -36,7 +36,7 @@ Even inside your company, the data keeps growing because of the mere fact of the
 
 This madness needs to stop, but it's too late.
 
-Now, your organization is in the data race. Everyone, every morning, will experience some issue related to this: wrong dashboards, numbers that look OK while, in fact, they are not, lousy scrapping, automatic reporting, customers that want raw data instead of your consumption through the interface, emails are sent in daily basis to your third-party provider, and again, the list goes on and on.
+Now, your organization is in the data race. Everyone, every morning, will experience some issue related to this: wrong dashboards, numbers that look OK while, in fact, they are not, lousy scrapping, automatic reporting, customers that want raw data instead of consumption through the interface, emails are sent in daily basis to your third-party provider, and again, the list goes on and on.
 
 Your software, which you once thought would be only that, software, started to become this monster of data generation. From application logs with diagnostic information to API responses showing how our third-party services interact with event data from devices, each comes with its own set of problems and challenges we need to consider before it happens.
 
