@@ -40,7 +40,7 @@ Your software, which you once thought would be only that, software, started to b
 
 But always remember ["**there are unknown unknowns**"](https://en.wikipedia.org/wiki/There_are_unknown_unknowns)
 
-Just for you to imagine, last week, a slight change in a raw data file from an overseas vendor wreaked one of our internal dashboards. I learned the hard way that quality assurance on the data is a continuous (and costly) battle everyone needs to fight against[ if it's really in charge of producing value](https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/).
+Just for you to imagine, last week, a slight change in a raw data file from an overseas vendor wreaked one of our internal dashboards. I learned the hard way that quality assurance on the data is a continuous (and costly) battle everyone needs to fight against [if data it's really in charge of producing value in your organization](https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/).
 
 Validity, accuracy, timeliness, completeness, correctness, schemas, etc. 
 
