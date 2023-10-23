@@ -8,8 +8,6 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-13.jpeg"
 ---
 
-While seeking the most straightforward solution is tempting, assuming that a more precise explanation is always better is a mistake. 
-
 Simplicity can get you started and can get you out of your comfort zone, but you must someday, in the near future, grasp and grasp the needs of a system. 
 
 Coding alone didn't build anything; humans have been coding for almost two hundred years.
