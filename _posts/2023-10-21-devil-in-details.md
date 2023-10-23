@@ -28,7 +28,7 @@ We were being taught that knowledge has to be presented in a particular way, fol
 
 Abstractions are fun. 
 
-A multitude of people will be left aside otherwise (me included). Even in our reality now: "communication through the Internet" will be technically impossible for people who are non-expert in networking. In addition, since the roots of humankind, humans are inclined to abstract things for others to use faster later. [It happened even with bread across America during the great boost of the American economy ](https://www.saveur.com/article/Kitchen/Bread-History-America/). The issue is when abstractions lock you in, and that's why you need to allow yourself to rise above the details and look at problems from a broader perspective.
+A multitude of people will be left aside otherwise (me included). Even in our reality now: "*communication through the Internet*" will be technically impossible for people who are non-expert in networking. In addition, since the roots of humankind, humans are inclined to abstract things for others to use faster later. [It happened even with bread across America during the great boost of the American economy ](https://www.saveur.com/article/Kitchen/Bread-History-America/). The issue is when abstractions lock you in, and that's why you need to allow yourself to rise above the details and look at problems from a broader perspective.
 
 The path to being good is to understand what you are doing. Coding is a tool you use to solve issues building systems that work as tools; programming should not be a cult.
 
