@@ -8,23 +8,21 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-13.jpeg"
 ---
 
-Simplicity can get you started and can get you out of your comfort zone, but you must someday, in the near future, grasp and grasp the needs of a system. 
+Simplicity can get you started and can get you out of your comfort zone, but you must someday, in the near future, grasp and grok the needs of a system. 
 
-Coding alone didn't build anything; humans have been coding for almost two hundred years.
+Coding alone, as a continuos set of sort symbols, didn't build anything by itself; humans have been coding for almost two hundred years.
 
-What makes us better at what we do is a set of patterns and rules to build a more reliable and robust set of tools on top of the ideas we have. 
+What makes us better at what we do is visualize a set of patterns and rules that let us build a more reliable and robust set of tools on top of the ideas we have. 
 
-Focusing solely on writing is like being a writer who does not know anything about anything other than grammar; trying to code in your favorite language can make you lose sight of the broader objectives while learning. 
+Focusing solely on coding is like being a writer who does not know anything about anything other than grammar. Individual brushes do not make painting art.
 
-Individual brushes do not make painting art.
+There is a concept coined as **Liquid Networks** that is about the importance of being in a network where ideas can flow freely and connect with other ideas. This can be a physical space, such as a coffee shop or lab, or even a social or digital network. These networks allow for connections and collaborations without too much friction. ([Where Good Ideas Come From](https://www.amazon.se/-/en/Steven-Johnson/dp/1594485380), Steven Johnson). I think that coding, programming and software in general are clearly ideas that could fit into this mental model.. We all started in the software field, mostly reading code first and then trying to code, and most likely doing it in a language that is no longer used (or if it is used, it is probably no longer used in the way you used it when you were learning it).
 
-We all started in the software field, mostly reading code first and then trying to code, and most likely doing it in a language that is no longer used (or if it is used, it is probably no longer used in the way you used it when you were learning it).
-
-Over time, you don't just get better at coding because you're learning the syntax; you excel because you start to see and understand the layers of abstraction that connect everything.
+Over time, you don't just get better at coding because you're learning the syntax; you excel because you begin to see and understand the layers of abstraction that connect everything in those networks to which thousands of other individuals (physical or otherwise) contribute.
 
 We were being taught that knowledge has to be presented in a particular way, following a set of `theory->practice->repeat`, while in reality, knowledge is all over the place, and [it's with pure visual literacy and understanding that we fit in with ideas](https://www.youtube.com/watch?v=I90ZluYvHic). Otherwise, knowledge is just a grade to have. A number in a system. A class to take to get your degree. If you take a look at going to college (in my case), it's like being bombarded with disconnected knowledge while you try to keep it up with random assignments. To then go out after a few years to then realize, "*Hey, I don't know sh\*t about this industry*," and [it happens even to Stanford students](https://www.youtube.com/watch?v=4SiFgB1lGxw)
 
-Abstractions are fun. 
+Abstractions are fun.
 
 A multitude of people will be left aside otherwise (me included). Even in our reality now: "*communication through the Internet*" will be technically impossible for people who are non-expert in networking. In addition, since the roots of humankind, humans are inclined to abstract things for others to use faster later. [It happened even with bread across America during the great boost of the American economy ](https://www.saveur.com/article/Kitchen/Bread-History-America/). The issue is when abstractions lock you in, and that's why you need to allow yourself to rise above the details and look at problems from a broader perspective.
 
