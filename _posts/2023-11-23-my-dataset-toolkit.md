@@ -1,4 +1,4 @@
-
+---
 layout: post
 title: "My essential toolkit for local data manipulation"
 description: "Exposing my personal data toolkit"
@@ -6,7 +6,7 @@ date: 2023-11-23 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-14.jpeg"
-
+---
 
 ## Introduction
 
