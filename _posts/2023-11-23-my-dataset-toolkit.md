@@ -34,7 +34,7 @@ With these advantages in mind, let's dive into it
 	- `csvstack`
 	- `csv2sql`
 2. SQLite to read CSVs
-3. Joining CSV with Brimdata's method
+3. unix pipes
 4. `zq` tool for working with structured data
 
 
