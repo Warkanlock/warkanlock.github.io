@@ -12,9 +12,9 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-14.jpeg"
 
 Handling and analyzing CSV files is a common task in data processing and analytics. This blog post delves into several powerful tools and methodologies for manipulating CSV files (huge!). 
 
-*Imagine this situation*: After a few conversations with a bunch of data providers, you decided to buy a dataset from one; after the initial chat you received an email saying “Hey, this is the data you just bought”, immediately, what we have it’s a 3GB CSV file on our server waiting there to be consumed.
+*Imagine this situation*: After a few conversations with a bunch of data providers, you decided to buy a dataset from one; after the initial chat you received an email saying “Hey, this is the data you just bought”, immediately, you find yourself with a 3GB CSV file on your server waiting there to be consumed.
 
-After a bunch of hours trying a different software (Excel, Hex Fiend, etc) we realized: that we cannot play with this data manually, we need to bring a new tool to our workbench.
+After a bunch of hours trying a different software (Excel, Hex Fiend, etc) you realized: you cannot play with this data manually, you need to bring a new tool to your workbench.
 
 So, when we're testing and playing around with data, we tend to imagine that these files are small enough to be easily manipulated through any software we use daily. We also rely on remote services where we store the data (looking at you, Google Workspace!) or even queries we do against our servers (this being Postgresql, even an API exposing this file in chunks), **although doing it directly on your local environment actually makes a lot of more sense than doing it remotely**. 
 
