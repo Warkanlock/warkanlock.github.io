@@ -1,4 +1,4 @@
----
+
 layout: post
 title: "My essential toolkit for local data manipulation"
 description: "Exposing my personal data toolkit"
@@ -6,7 +6,7 @@ date: 2023-11-23 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-14.jpeg"
----
+
 
 ## Introduction
 
@@ -37,7 +37,6 @@ With these advantages in mind, let's dive into it
 3. Joining CSV with Brimdata's method
 4. `zq` tool for working with structured data
 
----
 
 ## 1. `csvtools` - swiss army knife for CSV files
 
@@ -56,7 +55,6 @@ Consider an `employees.csv` file. To exclude the `email` column, use:
 ```bash
 csvcut -c -email employees.csv
 ```
-`
 
 ### csvstat
 
@@ -100,7 +98,6 @@ csvsql --table=employees --db sqlite:///employees.db --insert employees.csv
 
 This creates a SQLite database `employees.db` and inserts the CSV data into an `employees` table.
 
----
 
 ## 2. Leveraging SQLite for CSV Data
 
@@ -116,7 +113,6 @@ sqlite3 .mode csv .import employees.csv employees
 
 >Note: You will need sqlite3 to run this command but it’s the most flexible one of this list
 
----
 
 ## 3. unix pipes
 
@@ -134,8 +130,6 @@ cat file1.csv file2.csv | awk 'BEGIN { FS=OFS="," } { print $1,$2,$3 }' > joined
 cat file1.csv file2.csv > file_total.csv
 ```
 
----
-
 ## 4. `zq` - My favorite
 
 `zq` excels in processing various data formats, including CSV and JSON, making it a robust tool for quick data analysis. It’s part of the toolset provided by https://zed.brimdata.io
@@ -151,8 +145,6 @@ zq -i csv -Z 'total_aum_analysed>0' sfdr-2023-10-05.csv
 ```
 
 > This command sequence filters records with `total_aum_analysed > 0` and displays the first few records.
-
----
 
 ## Conclusion
 
