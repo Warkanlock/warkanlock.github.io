@@ -33,7 +33,7 @@ With these advantages in mind, let's dive into it
 	- `csvstat`
 	- `csvstack`
 	- `csv2sql`
-2. SQLite to read CSVs
+2. `sqlite` for CSV Data
 3. unix pipes
 4. `zq` tool for working with structured data
 
@@ -99,7 +99,7 @@ csvsql --table=employees --db sqlite:///employees.db --insert employees.csv
 This creates a SQLite database `employees.db` and inserts the CSV data into an `employees` table.
 
 
-## 2. Leveraging SQLite for CSV Data
+## 2. `sqlite` for CSV Data
 
 SQLite offers native support to read CSV files, providing an efficient way to import and manipulate CSV data within a database context.
 
@@ -130,7 +130,7 @@ cat file1.csv file2.csv | awk 'BEGIN { FS=OFS="," } { print $1,$2,$3 }' > joined
 cat file1.csv file2.csv > file_total.csv
 ```
 
-## 4. `zq` - My favorite
+## 4. `zq` as my personal favorite
 
 `zq` excels in processing various data formats, including CSV and JSON, making it a robust tool for quick data analysis. It’s part of the toolset provided by https://zed.brimdata.io
 
@@ -155,8 +155,6 @@ From simple column manipulation to complex data joining and querying, these tool
 Whether you're a data analyst, developer, or researcher, mastering these tools can significantly enhance your data manipulation capabilities. It could allow you to discover a new world regarding data that (at least me) never considered before local data manipulation.
 
 ## Left aside 
-
-## Not Covered: Why I Didn't Use Certain Services
 
 In this guide, I've focused on tools you can use on your computer. I chose not to include cloud services or big-name data providers for a few simple reasons:
 
