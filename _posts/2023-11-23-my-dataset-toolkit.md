@@ -108,7 +108,8 @@ SQLite offers native support to read CSV files, providing an efficient way to im
 Importing `employees.csv` into SQLite:
 
 ```bash
-sqlite3 .mode csv .import employees.csv employees
+sqlite3 
+.import --csv employees.csv employees
 ```
 
 >Note: You will need sqlite3 to run this command but it’s the most flexible one of this list
