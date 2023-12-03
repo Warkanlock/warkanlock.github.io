@@ -15,7 +15,7 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-15.jpeg"
 A couple of months ago, I embarked on building a
 computer from scratch during the weekends…
 
-![book](../img/posts/programming/pic-10.png)
+![book](https://blog.ignaciobrasca.com/img/posts/programming/pic-10.png)
 
 I decided to take this as a personal challenge that sums up my career (system engineering) and put a bow on the knowledge I have been ingesting since I started learning about computers.
 
@@ -37,7 +37,7 @@ Solutions to chapters are publicly available, [even mine](https://github.com/War
 
 The practical computer described in the book is a design based on [Harvard architecture](https://en.wikipedia.org/wiki/Harvard_architecture), easily accessible on the Internet, that makes our lives easier through the course without cutting too much of the edges of the knowledge you will need to understand what’s happening. For me, the only architecture that made sense was von Neumann's, virtually everywhere. I was so wrong. 
 
-![book](../img/posts/programming/pic-computer.png)
+![computer](https://blog.ignaciobrasca.com/img/posts/programming/pic-computer.png)
 
 Starting from Chapter 1, you will feel like you are doing something really silly, but you are not. Each logic gate you are implementing will be incredibly insightful for the understanding of the computer ([DMux](https://www.allaboutcircuits.com/textbook/digital/chpt-9/demultiplexers/), I’m looking at you!)
 
@@ -51,7 +51,7 @@ By the end of chapter 5, you will have a working computer inside your computer (
 
 The best part of this book is that you never feel alone through the pages. You might not be part of a computer club that’s building it, or of a University during an assignment, but you will never feel yourself in a lost situation where you will not know where to go.
 
-![forum](../img/posts/programming/pic-11.png)
+![forum](https://blog.ignaciobrasca.com/img/posts/programming/pic-11.png)
 > nand2tetris project forum
 
 It was incredibly insightful for me, to write in this forum [and receive a response after a day](http://nand2tetris-questions-and-answers-forum.52.s1.nabble.com/Confused-about-total-memory-allocation-td4037376.html#a4037378).
@@ -68,7 +68,7 @@ In my view, I strictly believe this is the only way to learn, practically speaki
 
 The only way to learn is by building it and understanding each moving piece whenever possible.
 
-![forum](../img/posts/programming/pic-9.png)
+![pareto front](https://blog.ignaciobrasca.com/img/posts/programming/pic-9.png)
 
 Whenever you ask yourself a question that you cannot reply to, you should learn to do it. 
 
