@@ -12,18 +12,22 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-15.jpeg"
 
 ## The Book
 
-A couple of months ago, I embarked on building a
-computer from scratch during the weekends…
+A couple of months ago, I embarked on building a computer from scratch during the weekends…
 
 ![book](https://blog.ignaciobrasca.com/img/posts/programming/pic-10.png)
+> The Elements of Computing Systems
 
 I decided to take this as a personal challenge that sums up my career (system engineering) and put a bow on the knowledge I have been ingesting since I started learning about computers.
 
-I pass through the first pages as a kid, learning and amazed at how quickly and easily you can grasp concepts if you have them in front of you, mimicking examples of theories that you can truly feel. 
+After researching and rummaging through my infinite list of favorites I came across a comment on hackernews that mentioned nand2tetris; reading more about it seemed like a great resource to start with if I wanted to start building a computer although it seemed, from the outside, a bit too scary without common knowledge although at the same time it was, apparently, pretty standard.
+
+So, I bought the book... (*no more digital books for me*)
+
+After a couple of weeks it arrived: I turned the first few pages like a child, learning and being amazed at how quickly and easily concepts can be grasped if you have them in front of you, imitating examples of theories that you can really feel. 
 
 But the fun started to appear as soon as I started with the implementation.
 
-Note: You cannot continue this book without reading it, skipping parts, or even “cheating” by reading responses on the Internet. In order to solve the issues the book presents, you need to understand the fundamentals.
+> **Note**: You cannot continue this book without reading it, skipping parts, or even “cheating” by reading responses on the Internet. In order to solve the issues the book presents, you need to understand the fundamentals.
 
 I continued like this for a couple of weeks, as a kid learning from scratch again binary, binary math, bitwise operations, fundamentals about computer architecture, and a lot of stuff I forgot during the years. 
 
