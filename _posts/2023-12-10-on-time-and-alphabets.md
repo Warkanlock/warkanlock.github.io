@@ -29,9 +29,8 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-16.jpeg"
 
 In 1967, Pamela Huby said this about Aristotle in "The First Discovery of the Freewill Problem."
 
-```
-...he seems to be on the verge of saying that we cannot use the terms 'voluntary' and 'involuntary' literally of parts of the soul and to be treating 'voluntary' as meaning by definition, 'that which originates from a man's soul', so that any application below the whole-soul level is ruled out. Whatever part of the soul it is that originates the action, the action remains voluntary.
-```
+
+> ...he seems to be on the verge of saying that we cannot use the terms 'voluntary' and 'involuntary' literally of parts of the soul and to be treating 'voluntary' as meaning by definition, 'that which originates from a man's soul', so that any application below the whole-soul level is ruled out. Whatever part of the soul it is that originates the action, the action remains voluntary.
 
 Even today, there is no clear definition of what’s "voluntary" and what's not; are protons “voluntary” or not? but a consensus has been made in all types of societies to be as arranged as possible. Physically speaking, it is well-discussed and [studied](https://www.science.org/doi/10.1126/science.274.5286.427), and I won’t go there in depth here (also, [I’m not an expert in the subject](https://www.sciencedirect.com/topics/engineering/pareto-front)). 
 
