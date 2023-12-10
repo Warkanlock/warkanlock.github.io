@@ -94,9 +94,7 @@ Agent B may <ignore> Element
 
 This process repeats, exhaustively exploring all possible actions in relation to the **Element**.
 
-In this microcosm, the act of choosing – to engage or to disregard – is fundamentally binary. Applying combinatorial theory, precisely the concept of combinations (nCr), where the order of actions is irrelevant, the model yields a finite set of potential scenarios. Here, `n` represents the total number of actions available in the universe, and `r` the number of actions executed.
-
-Given that each choice is independent (the discussion of interdependent actions is reserved for a more complex model), the total number of possible actions for each agent against an element is represented as:
+In this microcosm, the act of choosing – to engage or to disregard – is fundamentally binary. Given that each choice is independent (the discussion of interdependent actions is reserved for a more complex model), the total number of possible actions for each agent against an element is represented as:
 
 ```
 Actions = (C^N)
@@ -134,9 +132,9 @@ A symbolic lettering system (alphabet) cannot communicate pure information havin
 
 As matter alphabets allow us to produce noise, we will be in a complex non-redundant situation. Despite this, humans need a more robust communication system with historical characteristics.
 
-Will new empires reign without words? New empires will not use letters but tokens.
+Will new empires reign without words?.
 
-Still, laws across intersectional domains will be the kings & queens of the physical world.
+Still, grammatical rules across intersectional domains will be the kings & queens of the physical world.
 
 A mathematical language that put us closer to a God. A logical one.
 
