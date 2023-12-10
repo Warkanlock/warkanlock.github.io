@@ -165,7 +165,7 @@ Bypassing these rules will be penalized by the system, causing the word not to b
 
 Using these rules defined above, we construct [a table of truth](https://en.wikipedia.org/wiki/Truth_table) for “words” within our system and their associated meanings:
 
-| Words | Symbols                           |
+| Words | Explanation                       |
 | ----- | --------------------------------- |
 | 01    | A false event with a true result  |
 | 00    | A false event with a false result |
