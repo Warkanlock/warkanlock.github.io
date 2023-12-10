@@ -27,7 +27,7 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-16.jpeg"
 ## Introduction
 ---
 
-In 1967, Pamela Huby said this about Aristotle in "The First Discovery of the Freewill Problem."
+In 1967, Pamela Huby said this about Aristotle in **"The First Discovery of the Freewill Problem."**
 
 
 > ...he seems to be on the verge of saying that we cannot use the terms 'voluntary' and 'involuntary' literally of parts of the soul and to be treating 'voluntary' as meaning by definition, 'that which originates from a man's soul', so that any application below the whole-soul level is ruled out. Whatever part of the soul it is that originates the action, the action remains voluntary.
