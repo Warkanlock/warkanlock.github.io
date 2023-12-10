@@ -6,7 +6,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -25,15 +25,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.ignaciobrasca.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: txxnano
-github_username:  Warkanlock
+github_username: Warkanlock
 
 # Build settings
 remote_theme: jekyll/minima
 
 minima:
-  skin : dark
+  skin: solarized-dark
   social_links:
-    - { platform: github,  user_url: "https://github.com/Warkanlock" }
+    - { platform: github, user_url: "https://github.com/Warkanlock" }
     - { platform: twitter, user_url: "https://twitter.com/txxnano" }
 
 plugins:
