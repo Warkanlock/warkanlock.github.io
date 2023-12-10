@@ -2,7 +2,7 @@
 layout: post
 title: "About time and alphabets"
 description: "In-depth personal investigation and debate on the nature of free will while discussing symbolic language systems"
-date: 2023-12-10 12:00:00 -0300
+date: 2023-12-09 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-16.jpeg"
