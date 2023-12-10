@@ -82,6 +82,7 @@ Agent B <ignore> Element
 ```
 
 ![scenario_from_scratch](https://blog.ignaciobrasca.com/img/posts/random/scenario_2.png)
+
 This log illustrates the binary decision-making process in its simplest form. With each new iteration or epoch of the simulation, the agents are presented with the same singular element, leading to a variety of potential scenarios:
 
 ```
