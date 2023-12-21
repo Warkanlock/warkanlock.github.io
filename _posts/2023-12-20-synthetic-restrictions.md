@@ -76,9 +76,7 @@ A couple of years later, I realized something: *restrictions made me curious*.
 
 Richard Feynman said
 
-```
-I bought radios at rummage sales. I didn't have any money, but it wasn't very  expensive ­­ they were old, broken radios, and I'd buy them and try to fix them
-```
+> I bought radios at rummage sales. I didn't have any money, but it wasn't very expensive they were old, broken radios, and I'd buy them and try to fix them
 
 and from there he wrote one of the best stories of his books: [He Fixes Radios by Thinking](https://www.goodreads.com/quotes/9290413-he-fixes-radios-by-thinking)
 
