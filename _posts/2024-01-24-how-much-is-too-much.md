@@ -32,11 +32,11 @@ I could continue. However, the point is to ask one simple question: ***What happ
 
 Still, these days, we have plenty of research, advancement, and science, but still, it’s incredible how little “**information**” we can really get.
 
-Now, if you chat with an LLM, **how do you know it will be truthful?** 
-
-**Where’s the next Bell Labs?**
-
 Even the [Attention Is All You Need paper was “demystified,”](http://bactra.org/notebooks/nn-attention-and-transformers.html) which, if I hadn’t read the article, I’d claim a good candidate. 
+
+Nowadays, if you chat with an LLM, **how do you know it will be truthful?** 
+
+Furthermore, I'll end with a conclusion in the shape of a question: **Where’s or Who's the next Bell Labs?**
 
 Maybe it’s just simply too much information for everyone to care about.
 
