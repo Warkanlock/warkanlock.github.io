@@ -24,7 +24,7 @@ In a way, we've got a bunch of builders, each claiming they've invented a new ty
 
 Might now be stuck in this loop of reinventing the wheel, not because we need a new wheel, but because creating it gives us a sense of accomplishment. Which it’s ironic. 
 
-We can claim now LLMs were the latest “achievement of the technological society” when, in reality, [it was proved by Shannon in 1948 that English, and almost any human language, was largely predictable.](https://www.lesswrong.com/posts/Y7WP47tL9zQwkLTqZ/a-conceptual-precursor-to-today-s-language-machines-shannon) Strictly not the same as having a chat that does stuff for you, I know, and I get the point of modern language models, but still:
+We can now claim LLMs were one of the latest “achievement of the technological society” when, in reality, [it was proved by Shannon in 1948 that English, and almost any human language, was largely predictable.](https://www.lesswrong.com/posts/Y7WP47tL9zQwkLTqZ/a-conceptual-precursor-to-today-s-language-machines-shannon) Strictly not the same as having a chat that does stuff for you, I know, and I get the point of modern language models, but still:
 
 - The core of this idea came in 1948
 - In 1958 the perceptron.
