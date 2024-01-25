@@ -2,7 +2,7 @@
 layout: post
 title: "How much is too much?"
 description: "Bright ideas seem to be part of the foklore of the old days. Is that a true thing?"
-date: 2024-02-01 12:00:00 -0300
+date: 2024-01-24 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-19.jpeg"
