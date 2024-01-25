@@ -20,7 +20,7 @@ It's like watching a bunch of mathematicians trying to prove the Pythagorean the
 
 Everything of this reminds me of Jacques Ellul's insights in ["The Technological Society"](https://en.wikipedia.org/wiki/The_Technological_Society). 
 
-In a way, it's like we've got a bunch of builders, each claiming they've invented a new type of nail when we really need someone to figure out a better way to build houses. Focus, for example, [in the complete dumpster fire of the scientific journal academia.](https://pubmed.ncbi.nlm.nih.gov/22301307/)
+In a way, we've got a bunch of builders, each claiming they've invented a new type of nail when we really need someone to figure out a better way to build houses. Focus, for example, [in the complete dumpster fire of the scientific journal academia.](https://pubmed.ncbi.nlm.nih.gov/22301307/)
 
 Might now be stuck in this loop of reinventing the wheel, not because we need a new wheel, but because creating it gives us a sense of accomplishment. Which it’s ironic. 
 
