@@ -30,7 +30,7 @@ We can claim now LLMs were the latest “achievement of the technological societ
 
 I could continue. However, the point is to ask one simple question: ***What happened then?*** 
 
-Still, these days, we have plenty of research, advancement, and science, but still, it’s incredible how little “**information**” we can really get from the Internet.
+Still, these days, we have plenty of research, advancement, and science, but still, it’s incredible how little “**information**” we can really get.
 
 Now, if you chat with an LLM, **how do you know it will be truthful?** 
 
