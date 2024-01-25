@@ -18,17 +18,17 @@ There is nothing inherently wrong with the existing technologies (in fact, I won
 
 It's like watching a bunch of mathematicians trying to prove the Pythagorean theorem over and over again.
 
-Everything of this reminds me of Jacques Ellul's insights in ["The Technological Society"](https://en.wikipedia.org/wiki/The_Technological_Society). 
+This reminds me of Jacques Ellul's insights in ["The Technological Society"](https://en.wikipedia.org/wiki/The_Technological_Society). 
 
 In a way, we've got a bunch of builders, each claiming they've invented a new type of nail when we really need someone to figure out a better way to build houses. Focus, for example, [in the complete dumpster fire of the scientific journal academia.](https://pubmed.ncbi.nlm.nih.gov/22301307/)
 
 Might now be stuck in this loop of reinventing the wheel, not because we need a new wheel, but because creating it gives us a sense of accomplishment. Which it’s ironic. 
 
-We can now claim LLMs were one of the latest “achievement of the technological society” when, in reality, [it was proved by Shannon in 1948 that English, and almost any human language, was largely predictable.](https://www.lesswrong.com/posts/Y7WP47tL9zQwkLTqZ/a-conceptual-precursor-to-today-s-language-machines-shannon) Strictly not the same as having a chat that does stuff for you, I know, and I get the point of modern language models, but still:
+We can now claim LLMs were one of the latest “achievement of the technological society” when, in reality, [it was proved by Shannon in 1948 that English, and almost any human language, was largely predictable.](https://www.lesswrong.com/posts/Y7WP47tL9zQwkLTqZ/a-conceptual-precursor-to-today-s-language-machines-shannon) Strictly not the same as having a chat that does stuff for you, I know, I get the point of modern language models, but still:
 
 - The core of this idea came in 1948
 - In 1958 the perceptron.
-- In 1966, we saw the first (and really advanced for the time) chatbot.
+- In 1966, we saw the first (and advanced for the time) chatbot.
 
 I could continue. However, the point is to ask one simple question: ***What happened then?*** 
 
