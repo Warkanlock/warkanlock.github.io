@@ -10,11 +10,9 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-20.jpeg"
 
 Yesterday [Sora](https://openai.com/sora) was released.
 
-I can confidently say (despite having been able to test it with my own hands), that reality is coming to an end. Reading and seeing memes out there with a video and a hint made me realize that we won't know anything.(E.g: [twitter post](https://twitter.com/billpeeb/status/1758650919430848991))
+I can safely say (despite having been able to verify it with my own hands), that reality is coming to an end. Reading and seeing memes out there with a video and a prompt made me realize that we won't know anything in a few years. We won't be able to detect whether a video has been generated or not and even be able to describe or remember where the piece of footage came from. (E.g: [twitter post](https://twitter.com/billpeeb/status/1758650919430848991))
 
 Any video that resembles but doesn’t mimic reality will be a possible candidate for AI.
-
-This is kinda sad. However, excepted.
 
 Movies were always part of this “reality,” but with a consensus that to see fake reality, you will pay a ticket, rent a movie, or whatever.
 
@@ -37,3 +35,5 @@ But being fair, I’m on the e/acc side, [effective accelerationism](https://en.
 There's quite a nostalgic aspect [to seeing old Londoners walking around the city in 1920](https://www.youtube.com/watch?v=6Kubz9fYTTc). In my opinion, there is a break in time from there to now, and people in the future will see this invention as part of the same nostalgic look: a break that we needed to jump into the new century. 
 
 We have just started a new revolution, not industrial or even material, but mental.
+
+However, what does it matter by now?
