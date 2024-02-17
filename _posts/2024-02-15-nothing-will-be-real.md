@@ -10,7 +10,7 @@ image: "https://blog.ignaciobrasca.com/img/posts/random/pic-20.jpeg"
 
 Yesterday [Sora](https://openai.com/sora) was released.
 
-I can confidently (despite having been able to test it with my own hands), that reality is coming to an end. Reading and seeing memes out there with a video and a hint made me realize that we won't know anything.(E.g: [twitter post](https://twitter.com/billpeeb/status/1758650919430848991))
+I can confidently say (despite having been able to test it with my own hands), that reality is coming to an end. Reading and seeing memes out there with a video and a hint made me realize that we won't know anything.(E.g: [twitter post](https://twitter.com/billpeeb/status/1758650919430848991))
 
 Any video that resembles but doesn’t mimic reality will be a possible candidate for AI.
 
