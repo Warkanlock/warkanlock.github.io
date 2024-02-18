@@ -24,7 +24,7 @@ Embarking on a research journey (which was almost entirely new to me), I set out
 
 ## The Idea
 
-The idea is quite simple but, in my opinion, powerful enough to merit an article describing it: video has been using the interframe almost since its origins, but we don't have something similar applied at the storage level. Here goes my article:
+The idea is quite simple but, in my opinion, powerful enough to merit an article describing it: video has been using the [inter-frame](https://en.wikipedia.org/wiki/Inter_frame) almost since its origins, but we don't have something similar applied at the storage level. Here goes my article:
 
 ![figure 1](https://blog.ignaciobrasca.com/img/posts/essay/A01.png)
 
