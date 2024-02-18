@@ -2,7 +2,7 @@
 layout: post
 title: "Nothing will be real anymore"
 description: "A reality in which nothing is real, what is it?"
-date: 2024-01-24 12:00:00 -0300
+date: 2024-02-15 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-20.jpeg"
