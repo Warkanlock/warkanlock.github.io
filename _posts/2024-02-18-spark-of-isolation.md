@@ -8,6 +8,8 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/essay/A00.png"
 ---
 
+Read more: [ResearchGate pre-print publication](https://www.researchgate.net/publication/378306952_Take_Me_One_More_Efficient_Clustering_Compression_using_Inter-Frame_Encoding)
+
 ## Introduction
 
 A few weeks ago, embarking on a trip to Barcelona, I found myself in an unusual situation: surrounded by the hum of an airplane and without my usual digital distractions. No music, no movies, no nothing, just me and my thoughts. The trip was scheduled to take at least four hours, and I finished the book I had before I reached the gate.
