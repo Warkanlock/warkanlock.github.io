@@ -157,7 +157,7 @@ We checked the document - it was all empty except for SVG inside.
 
 I'm thinking about opening a restaurant now.
 
-We checked again, did the entire process from scratch once more, upgraded a library we didn't think of, and now - it worked. The document was there, and now everyone could have a PDF.
+We checked again, did the entire process from scratch once more, in addition to the other downgrade/upgrade actions we took, we had to upgraded a library we didn’t think of was related with this mess, and now - it worked. The document was there, and now everyone could have a PDF.
 
 The system was **stable** again.
 
