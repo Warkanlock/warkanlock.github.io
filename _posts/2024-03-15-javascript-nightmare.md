@@ -2,7 +2,7 @@
 layout: post
 title: "A Javascript Nightmare"
 description: "When software is hard not precisely because of it but because of the tools we are using"
-date: 2024-03-16 12:00:00 -0300
+date: 2024-03-15 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-22.jpeg"
