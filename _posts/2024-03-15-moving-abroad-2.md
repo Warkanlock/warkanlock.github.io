@@ -22,7 +22,8 @@ However, in the end, there is one main personal reason (apart of my partner livi
 
 **No [third places](https://en.wikipedia.org/wiki/Third_place).**
 
-I grew up in the countryside, near Rosario, a really nice and calm city where everyone was wandering around, talking, greeting, and hanging out in places. Those places I found later on in Rosario and in every place where I lived since being a kid. I've always found places to hang out.
+I grew up in the countryside, near [Rosario](https://en.wikipedia.org/wiki/Rosario), a really nice and calm city where everyone was wandering around, talking, greeting, and hanging out in places. Those places I found later on in the city and in every place where I lived. I've always found places to hang out. Except here.
+
 
 In Turin, it was Il Parco Valentino, Porta Palazzo, the many coffees in the street that you can stop-drink-go, the trattorias, and at least ten other different kinds of places.
 
