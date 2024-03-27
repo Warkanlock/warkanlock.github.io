@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving Abroad (Pt.2)"
-description: "Moving abroad now from Sweden to Spain" 
+description: "Moving abroad from Sweden to Spain" 
 date: 2024-03-15 12:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
