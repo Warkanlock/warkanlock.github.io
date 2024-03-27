@@ -56,7 +56,7 @@ Learning how to be by yourself makes you better, although during the winter, pra
 
 I was fortunate to have a few friends in the city while we were building [Datia](https://datia.app), with an office fulfilled by amazing coworkers. However, the sensation [on Friday evenings was awful](https://www.donegalwoman.ie/2018/01/23/weekend-depression-thing/).
 
-**My sensation after spending almost eight months here is that things happen, and you are not there to be invited.**
+**My sensation after spending almost eight months here is that everyone is invited to a party that you are not.**
 
 Even if you get to go somewhere, the whole process feels artificial, as if you need to coordinate your feelings in advance.
 
