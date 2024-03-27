@@ -14,16 +14,15 @@ Sweden was exactly what I expected before coming here: winter, darkness, and com
 
 ![Winterviken](https://blog.ignaciobrasca.com/img/posts/random/pic-23.jpeg)
 
-I will miss very much the walks in [Vinterviken](https://sv.wikipedia.org/wiki/Vinterviken) or being surrounded by
+I will miss very much the walks in [Vinterviken](https://sv.wikipedia.org/wiki/Vinterviken) or being surrounded by such an amazing nature.
 
-The funny thing about all of this is that the weather is not why I'm writing this; that would be falling into a cliché (or at least it's not the main reason). Maybe it's a good excuse and perhaps it works as an afterthought and in chit-chat conversations (since Swedes are experts in talking about weather).
+The funny thing about all of this is that the weather is not why I'm writing this; that would be falling into a cliché. In the end millon people live in this city. It cannot be that bad. Maybe it's a good excuse and perhaps it works as an afterthought and in chit-chat conversations (since Swedes are experts in talking about weather) but in a deeper thought experiment the weather is almost used as a joke.
 
-However, in the end, there is one main personal reason (apart of my partner living in another country) why I decided to move away:
+In my view there's one main personal reason (apart of my partner living in another country and us wanted to be together) why I decided to move away:
 
 **No [third places](https://en.wikipedia.org/wiki/Third_place).**
 
 I grew up in the countryside, near [Rosario](https://en.wikipedia.org/wiki/Rosario), a really nice and calm city where everyone was wandering around, talking, greeting, and hanging out in places. Those places I found later on in the city and in every place where I lived. I've always found places to hang out. Except here.
-
 
 In Turin, it was Il [Parco Valentino](https://en.wikipedia.org/wiki/Parco_del_Valentino), [Porta Palazzo](https://it.wikipedia.org/wiki/Porta_Palazzo), the many coffees in the street that you can stop-drink-go, the trattorias, and at least ten other different kinds of places.
 
@@ -31,15 +30,15 @@ From mountains to forests, clubs, frozen lakes, etc.; I knew something was happe
 
 ---
 
-Living abroad makes you feel quite disconnected from everything, and it feels weird to be an outsider. However, you want to feel comfortable enough to feel near home.
+Living abroad makes you feel quite disconnected from everything, and it feels strange to be an outsider. However, you want to feel comfortable enough to feel close to home.
 
-That's why abroad, you end up listening to music from the country you are from, eating the things you didn't like before or, in my case, drinking mate (a lot more than I did back home).
+That's why, abroad, you end up listening to music from the country you're from, eating the things you didn't like before or, in my case, drinking mate (much more than at home).
 
-Escaping this reality and living outside your comfort zone is nice for a while, and suddenly you start to feel trapped in an infinite loop of disconformity.
+Escaping this reality and living outside your comfort zone is nice for a while, and then suddenly you start to feel trapped in an infinite loop of dissatisfaction.
 
 Where you were is not the place you want, and now the place you want is no longer the place you wanted to live before.
 
-It's a dichotomy, and it's because traveling changes you. However, not traveling in a touristic way. Traveling in a way that you feel penetrated by the culture where you are. The feeling of being part of the routine and not just an NPC.
+It's a dichotomy, and it's because traveling changes you. However, don't travel in a touristy way. Travel in a way that you feel penetrated by the culture of the place you are in. The feeling of being part of the routine and not just an NPC.
 
 ---
 
