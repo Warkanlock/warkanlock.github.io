@@ -25,7 +25,7 @@ However, in the end, there is one main personal reason (apart of my partner livi
 I grew up in the countryside, near [Rosario](https://en.wikipedia.org/wiki/Rosario), a really nice and calm city where everyone was wandering around, talking, greeting, and hanging out in places. Those places I found later on in the city and in every place where I lived. I've always found places to hang out. Except here.
 
 
-In Turin, it was Il Parco Valentino, Porta Palazzo, the many coffees in the street that you can stop-drink-go, the trattorias, and at least ten other different kinds of places.
+In Turin, it was Il [Parco Valentino](https://en.wikipedia.org/wiki/Parco_del_Valentino), [Porta Palazzo](https://it.wikipedia.org/wiki/Porta_Palazzo), the many coffees in the street that you can stop-drink-go, the trattorias, and at least ten other different kinds of places.
 
 From mountains to forests, clubs, frozen lakes, etc.; I knew something was happening everywhere. Energy. People laughing. Just hanging out with strangers in the same physical space (even if the time was not being directly shared).
 
