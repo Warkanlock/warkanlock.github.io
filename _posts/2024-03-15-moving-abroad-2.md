@@ -58,8 +58,6 @@ I was fortunate to have a few friends in the city while we were building [Datia]
 
 **My sensation after spending almost eight months here is that everyone is invited to a party that you are not.**
 
-Even if you get to go somewhere, the whole process feels artificial, as if you need to coordinate your feelings in advance.
-
 There's no synchronicity, no spontaneous meet-ups, no random strangers you might encounter.
 
 Before any Swedes get mad, don't get me wrong – it's a perfect life you are living here. You don't have chaos. You don't encounter aleatory events in the street that might delay you from doing your thing, and even the lunch breaks during weekdays are optimized with those peculiar buffets you have.
