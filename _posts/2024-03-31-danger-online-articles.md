@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The dangers of Internet articles"
+title: "The Dangers of Internet Articles"
 description: "...and the advantages of reading books against reading quick forms of information"
 date: 2024-03-31 12:00:00 -0300
 author: "Ignacio Brasca"
