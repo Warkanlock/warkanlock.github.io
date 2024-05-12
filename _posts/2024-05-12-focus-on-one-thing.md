@@ -2,7 +2,7 @@
 layout: post
 title: "Focus on one thing, and one thing only"
 description: "In today's world, it's impossible not to be distracted, but focus on what matters the most to you and only you."
-date: 2024-05-13
+date: 2024-05-12
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-26.jpeg"
