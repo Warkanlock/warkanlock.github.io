@@ -3,7 +3,7 @@
 layout: post  
 title: ":Copilot disable"  
 description: "Programmers just wanna have fun"  
-date: 2024-05-12  
+date: 2024-05-14  
 author: "Ignacio Brasca"  
 categories: programming  
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-27.jpeg"  
