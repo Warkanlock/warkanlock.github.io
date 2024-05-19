@@ -42,7 +42,16 @@ In our computer, the stack pointer is a register that points to the next availab
 
 ## A Quick Example
 
-Having RAM[0] = 256
+Knowing in advance that
+
+1. `A = value` of the address pointed to by `instruction A`.
+2. `M = RAM[A]` of the memory at address `A`.
+   1. The `M` will always reflect the value pointed to by the `A` value.
+3. `D = value` is only a temporary register that we use to facilitate calculations.
+
+You can also calculate arithmetic operations with these registers, however the goal of this article is to show you how to manipulate the stack and not these registers (*there is plenty of material for this on the Internet*).
+
+Now, let's start with the example that has ``RAM[0] = 256``:
 
 ```hack
 @5
