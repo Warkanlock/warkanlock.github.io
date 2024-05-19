@@ -1,7 +1,7 @@
 ---
 
 layout: post  
-title: "NAND2TETRIS: Stack Pointer Math"
+title: "Nand2Tetris: Stack Pointer Math"
 description: "A brief explanation of stack pointer math in Hack assembly."
 date: 2024-05-18  
 author: "Ignacio Brasca"  
