@@ -72,19 +72,18 @@ M=M+1 // RAM[0] = 258
 
 In this example, we're pushing the value 5 onto the stack and incrementing the stack pointer by 1. Then, we're pushing the value 10 onto the stack and incrementing the stack pointer by 1 again.
 
-But bear in mind, the stack pointer always points to the next available memory address in the stack however the ``@SP`` operation will always point to RAM[0] hence the value stored at RAM[0] will the address of the next available memory address in the stack.
+But bear in mind, the stack pointer always points to the next available memory address in the stack however the ``@SP`` operation will always point to ``RAM[0]`` hence the value stored at ``RAM[0]`` will the address of the next available memory address in the stack.
 
 ### How does this work?
 
 It's straightforward once you grasp this key concept: the stack pointer always points to the next available memory address in the stack. 
 
-Thus, @SP will always point to RAM[0], but the value stored in RAM[0] will be the next available memory address in the stack.
-Understanding this pointer mechanism is crucial for grasping how the stack functions.
+Thus, ``@SP`` will always point to ``RAM[0]``, but the value stored in ``RAM[0]`` will be the next available memory address in the stack.
 
 ## Conclusion
 
 I hope this post clarifies how the stack works in the Hack computer. To me, understanding of the full mechanism of the stack pointer was a game-changer since enabled me to write more complex Hack assembly code and also understand what's going on under the hook.
 
-Take care with The Elements of Computing Systems since it's a heavy lifting book that can suck you in for hours. But it's worth it.
+Take care with *The Elements of Computing Systems* since it's a heavy lifting book that can suck you in for hours. But it's worth it.
 
 Happy coding!
