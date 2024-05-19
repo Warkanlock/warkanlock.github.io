@@ -44,7 +44,7 @@ In our computer, the stack pointer is a register that points to the next availab
 
 Having RAM[0] = 256
 
-```assembly
+```hack
 @5
 D=A // D = 5
 
@@ -58,7 +58,7 @@ M=M+1 // RAM[0] = 257
 
 However, in the next iteration
 
-```assembly
+```hack
 @10
 D=A // D = 10
 
