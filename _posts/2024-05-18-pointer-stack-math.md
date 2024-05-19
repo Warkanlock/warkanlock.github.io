@@ -58,7 +58,7 @@ M=M+1 // RAM[0] = 257
 
 However, in the next iteration
 
-```hack
+```assembly
 @10
 D=A // D = 10
 
