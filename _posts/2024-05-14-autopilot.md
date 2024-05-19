@@ -6,7 +6,7 @@ description: "Programmers just wanna have fun"
 date: 2024-05-14  
 author: "Ignacio Brasca"  
 categories: programming  
-image: "https://blog.ignaciobrasca.com/img/posts/random/pic-27.jpeg"  
+image: "https://blog.ignaciobrasca.com/img/posts/random/pic-10.jpeg"  
 ---
 
 Last night, I was writing an [abstract data type](https://en.wikipedia.org/wiki/Abstract_data_type) ([a DAG, precisely](https://en.wikipedia.org/wiki/Directed_acyclic_graph)) that I learned about back in college. 
