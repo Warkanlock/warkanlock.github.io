@@ -6,7 +6,7 @@ description: "A brief explanation of stack pointer math in Hack assembly."
 date: 2024-05-18  
 author: "Ignacio Brasca"  
 categories: programming  
-image: "https://blog.ignaciobrasca.com/img/posts/programming/pic-10.jpeg"  
+image: "https://blog.ignaciobrasca.com/img/posts/programming/pic-10.png"  
 ---
 
 After spending several days grappling with the intricacies of the stack pointer in my Hack computer, I finally decided to consolidate my understanding in a post.
