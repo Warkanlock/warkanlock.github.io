@@ -8,15 +8,15 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/gallery/i00021.png"  
 ---
 
-I think the whole culture is shifting toward a sense of panic about working on new technologies or thinking along the lines of what progress is or what progress looks like or will look like in the near future. Panic in the shape of people mentioning other people to stop learning X. I even heard one person trying to convince the other to stop reading because "LLM's know everything".
+I think the whole culture is shifting toward a sense of panic about working on new technologies or thinking along the lines of what progress is or what progress looks like or will look like in the near future. Panic in the shape of people mentioning other people to stop learning X. I even heard one person trying to convince the other to stop reading because "LLMs know everything."
 
-Compression only creates scarcity as well as gaps in your knowledge creates fear.
+Compression only creates scarcity and gaps in your knowledge create fear.
 
-This creates a lot of anxiety for many people in a field that changes every day, every minute, and those who are just beginning to learn and understand their place in the world are completely frustrated. Plus, coupled with the tech influencers out there playing with this through engagement techniques to generate audience, it's the perfect mix of a catastrophe.
+This creates a lot of anxiety for many people in a field that changes every day, every minute, and those who are just beginning to learn and understand their place in the world are completely frustrated. Plus, coupled with the tech influencers out there playing with this through engagement techniques to generate an audience, it's the perfect mix of a catastrophe.
 
 No one will ever replace you.
 
-*To minimize anxiety you need to learn and have knowledge* to battle things that are going on out there, and to *understand* that things do not exist in the ether.
+*To minimize anxiety, you need to learn and have knowledge* to battle things that are going on out there and to *understand* that things do not exist in the ether.
 
 Everything has an explanation and almost everyone can do everything. Issue with this is gatekeepers. Don't talk with gatekeeprs, don't play their game, don't.
 
