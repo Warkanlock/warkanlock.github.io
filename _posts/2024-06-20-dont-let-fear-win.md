@@ -8,7 +8,7 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/gallery/i00021.png"  
 ---
 
-I think the whole culture is shifting toward a sense of panic about working on new technologies or thinking along the lines of what progress is or what progress looks like or will look like in the near future. Panic in the shape of people mentioning other people to stop learning X. I even heard one person trying to convience the other to stop reading because "LLM's know everything".
+I think the whole culture is shifting toward a sense of panic about working on new technologies or thinking along the lines of what progress is or what progress looks like or will look like in the near future. Panic in the shape of people mentioning other people to stop learning X. I even heard one person trying to convince the other to stop reading because "LLM's know everything".
 
 Compression only creates scarcity as well as gaps in your knowledge creates fear.
 
