@@ -16,7 +16,7 @@ This creates a lot of anxiety for many people in a field that changes every day,
 
 No one will ever replace you.
 
-*To minimize anxiety you need to learn and have knowledge* to battle things that are going on out there, and to *understand* that things do not exists in the ether.
+*To minimize anxiety you need to learn and have knowledge* to battle things that are going on out there, and to *understand* that things do not exist in the ether.
 
 Everything has an explanation and almost everyone can do everything. Issue with this is gatekeepers. Don't talk with gatekeeprs, don't play their game, don't.
 
