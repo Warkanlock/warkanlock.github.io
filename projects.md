@@ -9,6 +9,11 @@ permalink: /projects
 - Chief Technology Officer at [Datia](https://datia.app)
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
 
+## Compilers 
+
+- [vm2asm](https://github.com/Warkanlock/hack-tooling/tree/main/vm2asm)
+- [asm2hack](https://github.com/Warkanlock/hack-tooling/tree/main/asm2hack)
+
 ## Contributions
 
 - [tidal-hifi](https://github.com/Warkanlock/tidal-hifi)
@@ -29,10 +34,13 @@ permalink: /projects
 
 - [rustener](https://github.com/Warkanlock/rustener)
 - [tooler.rs](https://github.com/Warkanlock/toolers)
+- [pic2ascii.rs](https://github.com/Warkanlock/pic2ascii.rs)
+- [lz77](https://github.com/Warkanlock/lz77)
 - [MuteState](https://github.com/Warkanlock/MuteState)
 - [parserUS](https://github.com/Warkanlock/parserUS)
 - [cypherEX](https://github.com/Warkanlock/cypherEX)
 - [YoTeReparo](https://github.com/Warkanlock/YoTeReparo)
+- [simple-perceptron](https://github.com/Warkanlock/simple-perceptron)
 
 ## Documentation
 

@@ -24,12 +24,14 @@ Currently, I'm building [Datia](https://datia.app) with an amazing team.
 
 - I participated in the writting of two books about Cinema and Finance within [Estacion Cine](https://www.cgeditorial.com.ar/colecciones/estacion-cine/).
 
-### Things I like to do outside software
-- Read about finance and business in general.
- 
-- Learning psychiatry
+### Things I like to do outside professional software
+- Learning almost about everything (applied math, physics, biology, phylosophy).
 
 - Competitive Programming (Participation in Facebook F8 California and Facebook Hackathon Argentina)
+
+- Compiler Design
+
+- Writing (refer my [blog](https://blog.ignaciobrasca.com))
   
 - Make music as [Too Nano](https://open.spotify.com/artist/6ByFHF2ZCZIeHg1O86JpiM) and [TXXNANO](https://open.spotify.com/artist/3wHoyAGjMlR9C8zoahstuF).
   
