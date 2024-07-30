@@ -8,7 +8,7 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/gallery/i00013.jpg"  
 ---
 
-	Disclaimer: Although I am not a mathematician or an academic, I have a deep passion for learning and knowledge. I am a systems engineer who dedicates my waking hours to reading and learning as much as I can.
+> Disclaimer: Although I am not a mathematician or an academic, I have a deep passion for learning and knowledge. I am a systems engineer who dedicates my waking hours to reading and learning as much as I can.
 
 # Introduction
 
