@@ -1,11 +1,16 @@
 ---
 layout: post  
-title: "From Inspiration to Application: My Math Journey"
+title: "Practical Math: My Journey from Idea to Application"
 description: “An exploration of the process I undertook to turn a casual thought into a real-world math application.”
 date: 2024-07-29
 author: "Ignacio Brasca"  
 categories: opinion  
-image: "https://blog.ignaciobrasca.com/img/gallery/i00013.jpg"  
+image: "https://blog.ignaciobrasca.com/img/gallery/i00013.jpg"
+tags: 
+  - math
+  - critical thinking
+  - engineering
+  - research
 ---
 
 > Disclaimer: I am not a mathematician or an academic, I just only have a deep passion for learning and knowledge.
