@@ -8,7 +8,7 @@ categories: opinion
 image: "https://blog.ignaciobrasca.com/img/gallery/i00013.jpg"  
 ---
 
-> Disclaimer: Although I am not a mathematician or an academic, I have a deep passion for learning and knowledge. I am a systems engineer who dedicates my waking hours to reading and learning as much as I can.
+> Disclaimer: I am not a mathematician or an academic, I just only have a deep passion for learning and knowledge.
 
 # Introduction
 
@@ -80,9 +80,13 @@ It's the only way to show that you're still thinking, that you're still a human 
 
 Probably no one, other than your close friends, will read what you write (*hopefully I'm 100% wrong on this one*), so even if there is an article in the wild, write it for yourself, learn as you write, and then wait. 
 
-In the end, I end up realizing (partly as I write this post) that I'm not into academia, so why should I play by their rules? Since one of the things I suffer most when tinkering with ideas like this is the constant pressure to be absolutely correct and right while publishing in the prestine format.
+In the end, I end up realizing (partly as I write this post) that I'm not into academia, so why should I play by their rules Since one of the things I suffer most when tinkering with ideas like this is the constant pressure to be absolutely correct and right while publishing in the prestine format.
 
-Furthermore, most of this inspiration came from reading biographies and of course, Terrence Tao, and his [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/). 
+While I understand the real power of academia, I don't think all ideas should go in that box, not even this one. I'm not here to provide you with an explanation of why science + academia are the most important thing the human species has ever achieved.
+
+Your ideas, the real you, should be as detached as possible from this formal technicalities as you write, because you need to be yourself as you do it. Give yourself time to write, to think, to believe that there really is something you can write about.
+
+Furthermore, finding inspiration is for me, the most important part of the process and mine came mostly from reading biographies and of course, Terrence Tao, and his [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/). 
 
 I truly believe that it is important for us, for any of us, to write our ideas in the realm of the world. To meet ourselves and who we are as we write.
 
