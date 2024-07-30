@@ -62,8 +62,7 @@ Rusty on the math level, I had to re-learn concepts from scratch just to refresh
 
 It was time to write.
 
-![my notebook](https://blog.ignaciobrasca.com/img/random/pic-28.jpeg)
-
+![my notebook](https://blog.ignaciobrasca.com/img/posts/random/pic-28.jpeg)
 
 The last push I needed for my motivation to spark and to reach enough energy to make me write the article was after using [undermind](https://www.undermind.ai/home/). After using their "deep search" functionality, I found that not too many people were tinkering with this conjunction of financial systems, climate modeling, and polynomial mathematical concepts.
 
