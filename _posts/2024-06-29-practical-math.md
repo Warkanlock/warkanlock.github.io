@@ -64,20 +64,28 @@ It was time to write.
 
 ![my notebook](https://blog.ignaciobrasca.com/img/posts/random/pic-28.jpeg)
 
+I spent the new days reading Google Scholar, Arxiv, the Internet, just to understand if this existed to then realized: I was just wasting my time. I didn't find any substantial.
+
 The last push I needed for my motivation to spark and to reach enough energy to make me write the article was after using [undermind](https://www.undermind.ai/home/). After using their "deep search" functionality, I found that not too many people were tinkering with this conjunction of financial systems, climate modeling, and polynomial mathematical concepts.
 
 ![undermindAI](https://pbs.twimg.com/media/GTZ_-LxW4AAlJsk?format=jpg&name=medium)
 
 > I'm not in academia (despite trying), so it might be the case that there are people researching exactly the same thing.
 
-# Give yourself time to play around
+# Give yourself a break
 
 See, coming from the countryside sometimes can be daunting to meet our devils this way. It's really easy to mess up, to make a mistake, and to expose yourself to being a potential laughingstock. However, in the end, one should always be there writing his/her ideas. Pick any notebook. Write your stuff. Don't put the pressure of society on your shoulders; just write whatever you have in mind and with whichever theory you might have. It might exist already, it might be completely wrong, it might be completely useless, but still, it's yours and yours only, and it came from your brain & soul.
 
-It's the only way to prove that you are still thinking, that you are still a human with a soul, and not a machine redirecting chemical responses just for the sake of marketing.
+It's the only way to show that you're still thinking, that you're still a human with a soul, and not a machine that redirects chemical responses just for the sake of marketing.
 
-Most of this inspiration came from Terrence Tao and his [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/) however, despite being mostly focus to writing academy I believe it's important for us, any of us, to write our ideas into the realm of the world.
+Probably no one, other than your close friends, will read what you write (*hopefully I'm 100% wrong on this one*), so even if there is an article in the wild, write it for yourself, learn as you write, and then wait. 
+
+In the end, I end up realizing (partly as I write this post) that I'm not into academia, so why should I play by their rules? Since one of the things I suffer most when tinkering with ideas like this is the constant pressure to be absolutely correct and right while publishing in the prestine format.
+
+Furthermore, most of this inspiration came from reading biographies and of course, Terrence Tao, and his [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/). 
+
+I truly believe that it is important for us, for any of us, to write our ideas in the realm of the world. To meet ourselves and who we are as we write.
 
 Finally, after continuous efforts and iterations, I wrote the article in a few weeks. This article. 
 
-In case you want to read the other article ("the essay"), you can read more [here](https://www.researchgate.net/publication/382651852_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems).
+In case you want to read the other article (*"the essay"*), you can read more [here](https://www.researchgate.net/publication/382651852_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems).
