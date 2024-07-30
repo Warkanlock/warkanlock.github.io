@@ -15,6 +15,8 @@ tags:
 
 > Disclaimer: I am not a mathematician or an academic, I just only have a deep passion for learning and knowledge.
 
+> Disclaimer 2: This is the "why" I wrote the article in the first place, if you wanna read the technical part of it is [here](https://www.researchgate.net/publication/382651852_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems).
+
 # Introduction
 
 On my last trip to Stockholm to visit company headquarters, I ended up in a park during the lovely Swedish summer, thinking about how to improve our system in terms of data integrity. Right there, I had a eureka moment. 
