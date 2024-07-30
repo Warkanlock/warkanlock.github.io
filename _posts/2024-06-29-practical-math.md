@@ -28,6 +28,8 @@ A month and a half ago, I was reading [Graham Farmelo](https://grahamfarmelo.com
 
 I went full fanatic mode into the life of this silent man, and in the end, I discovered that most of the things I knew were simply wrong. (e.g., Dirac wasn't a "silent" man at all. Yes, he was quiet, but his ideas and political views were always there, as a man of conviction.)
 
+![dirac-periels-pauli](https://blog.ignaciobrasca.com/img/posts/random/pic-29.jpeg)
+
 A bit of revelation went ahead in my mind, and a part of me started to see things with a bit of reluctance. Biographies inspire me a lot, mostly in positive ways.
 
 After this one, I immediately jumped into the next one: [The Man From The Future](https://wwnorton.com/books/the-man-from-the-future), about the incredible life of [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann). And oh boy.
