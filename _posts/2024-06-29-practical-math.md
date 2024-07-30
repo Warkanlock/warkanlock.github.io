@@ -68,9 +68,9 @@ The last push I needed for my motivation to spark and to reach enough energy to 
 
 ![undermindAI](https://pbs.twimg.com/media/GTZ_-LxW4AAlJsk?format=jpg&name=medium)
 
-> I'm not in academia (despite trying), so it might be the case that there are people researching exactly the same thing. I'll go on that topic in the next section.
+> I'm not in academia (despite trying), so it might be the case that there are people researching exactly the same thing.
 
-# Conclusion
+# Give yourself time to play around
 
 See, coming from the countryside sometimes can be daunting to meet our devils this way. It's really easy to mess up, to make a mistake, and to expose yourself to being a potential laughingstock. However, in the end, one should always be there writing his/her ideas. Pick any notebook. Write your stuff. Don't put the pressure of society on your shoulders; just write whatever you have in mind and with whichever theory you might have. It might exist already, it might be completely wrong, it might be completely useless, but still, it's yours and yours only, and it came from your brain & soul.
 
