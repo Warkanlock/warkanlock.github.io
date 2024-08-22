@@ -1,13 +1,67 @@
 ---
 ---
 
-// use Robot font from Google Fonts for the body
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i');
-
-body {
-    font-family: 'Roboto', sans-serif !important;
-}
-
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+/* Import Baskervville SC and Playfair Display fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+$serif: 'Libre+Baskerville', serif !important;
+$sans-serif: 'Playfair Display', serif !important;
+
+body {
+    font-family: $sans-serif;
+    letter-spacing: 0.5px; /* Adjusts letter spacing */
+    max-width: 800px; /* Limits the width of the text block */
+    margin: 0 auto; /* Centers the text block */
+    padding: 0 20px; /* Adds padding for mobile responsiveness */
+    background-color: #000000; /* Sets a light gray background color */
+}
+
+/* Apply Baskervville SC font to hyperlinks and italic text */
+a, em, i {
+    font-family: $serif;
+}
+
+.post-title, h1 {
+  font-family: $serif;
+  font-size: 2rem;
+}
+
+table,
+.post-meta,
+.site-header,
+.feed-subscribe a,
+h2,h3,h4,h5,h6 {
+  font-family: $serif;
+  font-size: 1rem;
+}
+
+.site-nav {
+  text-transform: uppercase;
+
+  .page-link {
+    font-size: 1rem;
+  }
+}
+
+.post-content p a {
+  text-decoration: none;
+  border-bottom: 1px dashed;
+}
+
+.feed-subscribe a {
+  font-size: 1rem;
+}
+
+.footnote {
+  font-family: $serif;
+}
+
+.footnotes {
+  margin-top: 2rem;
+  font-family: $serif;
+  font-size: 0.75rem;
+}
