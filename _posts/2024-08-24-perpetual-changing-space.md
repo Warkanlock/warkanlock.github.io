@@ -11,6 +11,8 @@ tags:
   - thinking
   - experiment
 ---
+{% include latex.html %}
+
 Let’s imagine a space, a wall-covered area of $N$ square meters. We split this space into two pieces: a real piece and a digital piece.
 
 For the sake of this discussion, we will consider the `byte`-world as non-real, and from there, a real piece consisting mostly of `atoms`.
