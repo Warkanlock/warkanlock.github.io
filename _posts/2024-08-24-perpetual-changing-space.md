@@ -25,7 +25,7 @@ A `byte`-world and a `real`-world.
 
 Every time I mention "space," I’m referring to a `real`-world physical location. Every time I mention "place," I’m referring to both.
 
-Now, $t$ starts at 0, giving users the ability to start living inside this place.
+Now, $$t$$ starts at 0, giving users the ability to start living inside this place.
 
 Imagine two devices—abstract interfaces for this exercise—that allow you to communicate between these two worlds.
 
