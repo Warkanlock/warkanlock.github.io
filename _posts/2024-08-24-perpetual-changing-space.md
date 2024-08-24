@@ -17,7 +17,7 @@ Let’s imagine a space, a wall-covered area of $N$ square meters. We split this
 
 For the sake of this discussion, we will consider the `byte`-world as non-real, and from there, a real piece consisting mostly of `atoms`.
 
-[Perpetual Changing Space](https://blog.ignaciobrasca.com/img/posts/random/pic-30.png)
+![Perpetual Changing Space](https://blog.ignaciobrasca.com/img/posts/random/pic-30.png)
 
 Let’s redefine this concept with a clearer approach:
 
