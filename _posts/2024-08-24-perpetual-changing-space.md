@@ -42,9 +42,10 @@ After $$t$$, both players will be kicked out of the world, placing a bet on othe
 
 The objective of the place is to exist as long as it can. There are no other rules. The place needs to always be a `byte`-`real` intertwined space, and whenever this breaks apart, the place will no longer be a `perpetually changing space`.
 
-$$t$$ will only accumulate, and we cannot remove or destroy anything that other agents have placed in the space. Only agents in `byte`-world can manipulate ticks.
 
-$$t$$ is a measure of time and ticks in both the `real`-world and the `byte`–world.
+$$t$$ is a measure of time (and ticks) in both the `real`-world and the `byte`–world.
+
+$$t$$ will only accumulate, and we cannot remove or destroy anything that other agents have placed in the space. Only agents in `byte`-world can manipulate ticks.
 
 Users can collaborate across the entire place to approach future users or even future versions of themselves.
 
