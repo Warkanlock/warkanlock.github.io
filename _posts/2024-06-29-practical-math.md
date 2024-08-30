@@ -1,6 +1,5 @@
 ---
-layout: post  
-title: "Practical Math: My Journey from Idea to Application"
+layout: post  title: "Practical Math: My Journey from Idea to Application"
 description: "An exploration of the process I went through to turn a casual thought into a real-world math application."
 date: 2024-07-29
 author: "Ignacio Brasca"  
@@ -16,6 +15,8 @@ tags:
 > Disclaimer: I am not a mathematician or an academic, I just only have a deep passion for learning and knowledge.
 
 > Disclaimer 2: This is the "why" I wrote the article in the first place, if you wanna read the technical part of it is [here](https://www.researchgate.net/publication/382651852_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems).
+
+> You can read more on [original article](http://blog.ignaciobrasca.com/data-loss-prevention/).
 
 # Introduction
 
