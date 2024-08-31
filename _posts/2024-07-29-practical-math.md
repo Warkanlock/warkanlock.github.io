@@ -1,11 +1,12 @@
 ---
-layout: post  title: "Practical Math: My Journey from Idea to Application"
+layout: post
+title: "Practical Math: My Journey from Idea to Application"
 description: "An exploration of the process I went through to turn a casual thought into a real-world math application."
-date: 2024-07-30
-author: "Ignacio Brasca"  
-categories: opinion  
+date: 2024-07-29
+author: "Ignacio Brasca"
+categories: opinion
 image: "https://blog.ignaciobrasca.com/img/gallery/i00013.jpg"
-tags: 
+tags:
   - math
   - critical thinking
   - engineering
@@ -20,7 +21,7 @@ tags:
 
 > You can read more on [original article](http://blog.ignaciobrasca.com/data-loss-prevention/).
 
-On my last trip to Stockholm to visit company headquarters, I ended up in a park during the lovely Swedish summer, thinking about how to improve our system in terms of data integrity. Right there, I had a eureka moment. 
+On my last trip to Stockholm to visit company headquarters, I ended up in a park during the lovely Swedish summer, thinking about how to improve our system in terms of data integrity. Right there, I had a eureka moment.
 
 This post is a summary of how the idea, which was generated from endless conversations with coworkers, ended up being a real practical application of a mathematical problem I was reading about.
 
@@ -88,7 +89,7 @@ See, coming from the countryside sometimes can be daunting to meet our devils th
 
 It's the only way to show that you're still thinking, that you're still a human with a soul, and not a machine that redirects chemical responses just for the sake of marketing.
 
-Probably no one, other than your close friends, will read what you write (*hopefully I'm 100% wrong on this one*), so even if there is an article in the wild, write it for yourself, learn as you write, and then wait. 
+Probably no one, other than your close friends, will read what you write (*hopefully I'm 100% wrong on this one*), so even if there is an article in the wild, write it for yourself, learn as you write, and then wait.
 
 In the end, I end up realizing (partly as I write this post) that I'm not into academia, so why should I play by their rules Since one of the things I suffer most when tinkering with ideas like this is the constant pressure to be absolutely correct and right while publishing in the prestine format.
 
@@ -96,10 +97,10 @@ While I understand the real power of academia, I don't think all ideas should go
 
 Your ideas, the real you, should be as detached as possible from this formal technicalities as you write, because you need to be yourself as you do it. Give yourself time to write, to think, to believe that there really is something you can write about.
 
-Furthermore, finding inspiration is for me, the most important part of the process and mine came mostly from reading biographies and of course, Terrence Tao, and his [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/). 
+Furthermore, finding inspiration is for me, the most important part of the process and mine came mostly from reading biographies and of course, Terrence Tao, and his [On Writing](https://terrytao.wordpress.com/advice-on-writing-papers/).
 
 I truly believe that it is important for us, for any of us, to write our ideas in the realm of the world. To meet ourselves and who we are as we write.
 
-Finally, after continuous efforts and iterations, I wrote the article in a few weeks. This article. 
+Finally, after continuous efforts and iterations, I wrote the article in a few weeks. This article.
 
 In case you want to read the other article (*"the essay"*), you can read more [here](https://www.researchgate.net/publication/382651852_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems).
