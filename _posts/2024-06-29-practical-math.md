@@ -1,7 +1,7 @@
 ---
 layout: post  title: "Practical Math: My Journey from Idea to Application"
 description: "An exploration of the process I went through to turn a casual thought into a real-world math application."
-date: 2024-07-29
+date: 2024-06-29
 author: "Ignacio Brasca"  
 categories: opinion  
 image: "https://blog.ignaciobrasca.com/img/gallery/i00013.jpg"
