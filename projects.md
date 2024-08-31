@@ -17,7 +17,6 @@ permalink: /projects
 ## Contributions
 
 - [tidal-hifi](https://github.com/Warkanlock/tidal-hifi)
-- [brave-core](https://github.com/brave/brave-core/pull/8172)
 - [nodejs](https://github.com/nodejs/node/commit/99b109f7f367c61c1524e8278a8277740b0ce0d1)
 - [wing](https://github.com/winglang/wing)
 
