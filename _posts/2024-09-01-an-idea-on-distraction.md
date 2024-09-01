@@ -101,7 +101,7 @@ It can work as a [Priority Queue Pattern](https://learn.microsoft.com/en-us/azur
 
 This system will act as a simple gatekeeper, preventing end-users (ourselves!) from receiving notifications at any time. 
 
-Think of it as a mailman who only comes to your place with notifications, letters, and such at the time you specify.
+Think of it as a mailman who only comes to your place with notifications, letters, and such at the time you specify. (*thanks to Naomi for the analogy*)
 
 ## Explanation 
 
