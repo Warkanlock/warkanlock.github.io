@@ -1,6 +1,7 @@
 ---
 ---
-@import 
+
+@import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
@@ -17,6 +18,7 @@ body {
     max-width: 800px; /* Limits the width of the text block */
     margin: 0 auto; /* Centers the text block */
     padding: 0 20px; /* Adds padding for mobile responsiveness */
+    background-color: #000000; /* Sets a light gray background color */
 }
 
 /* Apply Baskervville SC font to hyperlinks and italic text */

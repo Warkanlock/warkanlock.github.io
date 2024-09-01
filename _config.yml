@@ -31,7 +31,6 @@ github_username: Warkanlock
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized-dark
   social_links:
     - { platform: github, user_url: "https://github.com/Warkanlock" }
     - { platform: twitter, user_url: "https://twitter.com/txxnano" }
