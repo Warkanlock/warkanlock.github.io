@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An idea on distraction
+title: The Gatekeeper: An idea on distraction
 description: A thought-experiment on how to regain control over our time and attention in a world of constant notifications.
 date: 2024-09-01
 author: Ignacio Brasca
