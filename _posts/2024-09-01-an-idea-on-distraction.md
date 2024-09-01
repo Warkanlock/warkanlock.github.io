@@ -26,7 +26,7 @@ You think a bit while grinding the beans and check your phone:
 
 > Someone just wrote a comment on your profile picture!
 
-Fuck.
+F*ck.
 
 After leaving your phone on the kitchen counter, you wait a few moments and realize the coffee is ready, but your brain is still not.
 
@@ -44,15 +44,17 @@ I don’t know where we are going, but I thought of a solution—maybe a silly o
 
 ## The Problem
 
-All of us [have a problem](https://www.pewresearch.org/short-reads/2024/06/12/72-percent-of-us-high-school-teachers-say-cellphone-distraction-is-a-major-problem-in-the-classroom/), and I don’t believe we will be able to solve it. It’s not just about distraction, attention span, hate incentives, porn addiction, and so on. Even though all of those are demons we need to fight, they have almost always been there in some form.
+All of us [have a problem](https://www.pewresearch.org/short-reads/2024/06/12/72-percent-of-us-high-school-teachers-say-cellphone-distraction-is-a-major-problem-in-the-classroom/), and I don’t believe we will be able to solve it unless colossal corporations step in to help.
 
-I won’t go deep into those problems since I believe Anna did a great job explaining pleasure and dopamine in this chapter of **[Hidden Brain](https://open.spotify.com/episode/73hthu5wshqn3uVevKPU9C?si=e1725c127c594e89)**.
+Let's try to abstract this issue beyond our niche field (software as a whole) and observe a bus from place A to B, a subway ride, or a waiting room in your usual doctor’s office.
 
-Still, I believe our issue is not being able to control what’s going on, and part of that can only be solved if corporations allow us to do so.
+Notice how many people are using their phones as *digital pacifiers*.
 
-Well-being is important, but it won’t be possible if you give yourself a shot of dopamine while watching vertical split videos designed to catch your attention.
+But it doesn’t end there. It’s not just about distraction from your daily tasks, attention span deficits, hate incentives, porn addiction, and so on. Even though all of those are demons we need to fight, they have almost always existed in some material form (perhaps on a less massive scale).
 
-Your brain, at first, will be tired but then attracted to it.
+I won’t delve deep into those problems since I believe Anna Lembke did a great job explaining pleasure and dopamine in this chapter of **[Hidden Brain](https://open.spotify.com/episode/73hthu5wshqn3uVevKPU9C?si=e1725c127c594e89)**.
+
+Still, I believe one of our biggest issues now is our inability to control what’s going on, and part of that can only be resolved if corporations allow us to do so. Well-being is important, but it won’t be achievable if you constantly give yourself a shot of dopamine while watching vertical split videos designed to capture your attention. Your brain, at first, will be tired but then attracted to it, keeping you available and alert all the time.
 
 We should, at the very least, have mechanisms or devices to control this from our end.
 
