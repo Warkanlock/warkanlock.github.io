@@ -5,7 +5,7 @@ description: Some reflections on my method of taking notes without any fancy mec
 date: 2024-09-02
 author: Ignacio Brasca
 categories: personal
-image: https://blog.ignaciobrasca.com/img/gallery/i0004.jpg
+image: https://blog.ignaciobrasca.com/img/gallery/i00004.jpg
 tags:
   - thinking
   - personal
