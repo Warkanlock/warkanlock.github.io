@@ -2,7 +2,7 @@
 layout: post
 title: How I Take Notes
 description: Some reflections on my method of taking notes without any fancy mechanism
-date: 2024-09-01
+date: 2024-09-02
 author: Ignacio Brasca
 categories: personal
 image: https://blog.ignaciobrasca.com/img/gallery/i0004.jpg
