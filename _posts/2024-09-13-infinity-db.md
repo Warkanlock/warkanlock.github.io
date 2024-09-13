@@ -47,7 +47,7 @@ These actions are straightforward and happen within a set time, making the syste
 
 Here's how it might work:
 
-An agent creates a piece of data—maybe a small image. This data stays in the agent's memory for a certain period ($t$). Another agent needs this data ($I$). They start a negotiation, agreeing on terms for transferring the data. There might be a small fee involved, depending on the size of the data or how difficult it is to transfer. The exchange happens directly between the agents, without any central server involved.
+An agent creates a piece of data—maybe a small image. This data stays in the agent's memory for a certain period ($$t$$). Another agent needs this data ($$I$$). They start a negotiation, agreeing on terms for transferring the data. There might be a small fee involved, depending on the size of the data or how difficult it is to transfer. The exchange happens directly between the agents, without any central server involved.
 
 This agents will have rules defined by its owners, and the only way to interact with them is through a protocol defined by the network itself.
 
@@ -101,11 +101,11 @@ struct InfinityDBChunk {
 
 ### Data Agent Access
 
-- An $agent$, in this architecture, will allow and restrict the transpass of informaton.
-- This $agent$, **will** charge in case of a transaction, a fee (could be zero).
+- An $$agent$$, in this architecture, will allow and restrict the transpass of informaton.
+- This $$agent$$, **will** charge in case of a transaction, a fee (could be zero).
     - This fee will be proportional to the amount of information can handle.
-- More information transit through an $agent$, more restrictions this $agent$ **can** impose.
-- This $agent$, **will** have: an *identifier*, a set of *possible actions* ($n$) and *how much information can accept* ($I$) and for how long ($t$). 
+- More information transit through an $$agent$$, more restrictions this $$agent$$ **can** impose.
+- This $$agent$$, **will** have: an *identifier*, a set of *possible actions* ($$n$$) and *how much information can accept* ($$I$$) and for how long ($$t$$). 
 
 Each of this rules should be defined by the agent itself, and the agent should be capable of persist alone the burden of the system according to it's own definitions.
 
@@ -123,12 +123,12 @@ The theorical system workflow will be just the sum of the individual workflows o
 following the same set of rules used to stablish the network:
 
 1. Each agent should have a finite set of actions
-2. Each action should finite in $t$ and pure
+2. Each action should finite in $$t$$ and pure
 3. Each agent should have a finite amount of information to handle
 4. Each agent can charge zero or more as fee for the action performed
 5. Each agent should paid with information to perform an action
 6. Each agent should starts with a finite amount of information allocated
-7. Each agent $A$ can perform the following actions: `create`, `accept`, `move`, `negotiate`, `buy`
+7. Each agent $$A$$ can perform the following actions: `create`, `accept`, `move`, `negotiate`, `buy`
 
 #### Interface
 
