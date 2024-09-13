@@ -11,8 +11,8 @@ tags:
   - ideas
   - experiment
 ---
-{% include latex.html %}
 {% include mermaid.html %}
+{% include latex.html %}
 
 > This post was written as a walking thought and it's not quite well structured. I'm just trying to put my ideas into words. Come back to this blog post in a few years and see if this was right or wrong. 
 
@@ -63,6 +63,12 @@ The agents are designed to be flexible regarding the underlying storage technolo
 At the core of InfinityDB concept, the idea is **autonomous agents**, interacting through defined protocols and data structures. 
 
 ### Architecture
+
+<div class="mermaid">
+graph LR
+    A[Data Agent Access] --> B(InfinityDB Structure)
+    B --> A
+</div>
 
 The actual architecture of the system can be represented into two parts:
 
@@ -168,11 +174,3 @@ Ideas like this come to my head daily which are completely nonsense, but this ab
 Of course, building such a system isn't without challenges. There are issues of data consistency, synchronization, and trust between agents that need careful solutions. But these problems are not impossible to overcome. In many ways, they're similar to the challenges we faced when building the internet itself—a decentralized network that has proven to be very robust and adaptable.
 
 **InfinityDB** is just a theoretical idea today but it's also an invitation to think how we store and manage data. In a time when data breaches and system vulnerabilities are becoming more common, perhaps the way forward isn't tighter centralization but embracing the decentralized, independent models that have worked well in other areas. By doing this, we might unlock new levels of efficiency, security, and innovation—a hidden architecture built not on control, but on collaboration.
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
