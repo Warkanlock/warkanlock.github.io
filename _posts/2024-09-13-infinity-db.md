@@ -11,9 +11,7 @@ tags:
   - ideas
   - experiment
 ---
-
 {% include latex.html %}
-{% include mermaid.html %}
 
 > This post was written as a walking thought and it's not quite well structured. I'm just trying to put my ideas into words. Come back to this blog post in a few years and see if this was right or wrong. 
 
