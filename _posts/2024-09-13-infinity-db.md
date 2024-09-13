@@ -5,7 +5,7 @@ description: Theorical ideas about a distributed database that can store infinit
 date: 2024-09-13
 author: Ignacio Brasca
 categories: programming
-image: https://blog.ignaciobrasca.com/img/gallery/i00002.jpg
+image: https://blog.ignaciobrasca.com/img/gallery/i00003.jpg
 tags:
   - notes
   - ideas
