@@ -67,11 +67,11 @@ At the core of InfinityDB concept, the idea is **autonomous agents**, interactin
 
 The actual architecture of the system can be represented into two parts:
 
-```mermaid
-graph LR
-    A[Data Agent Access] --> B(InfinityDB Structure)
-    B --> A
-```
+<div class="mermaid">
+graph LR;
+    A[Data Agent Access] --> B(InfinityDB Structure);
+    B --> A;
+</div>
 - Data Agent Access: The interface through which users interact with the system, including creating, accepting, moving, and negotiating data.
 - InfinityDB Structure: The underlying data structure used to store and manage data within the system, including chunk identifiers, types, sizes, and distribution strategies. This will be hidden for end users.
 
