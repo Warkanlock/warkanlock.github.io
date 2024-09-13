@@ -109,6 +109,22 @@ struct InfinityDBChunk {
 - More information transit through an $$agent$$, more restrictions this $$agent$$ **can** impose.
 - This $$agent$$, **will** have: an *identifier*, a set of *possible actions* ($$n$$) and *how much information can accept* ($$I$$) and for how long ($$t$$). 
 
+<div class="mermaid">
+sequenceDiagram
+    participant A as Agent A
+    participant B as Agent B
+
+    A->>A: create_data(data)
+    A->>B: negotiate(data, fee)
+    B-->>A: NegotiationResult
+    alt Agreement Reached
+        A->>B: transfer_data(recipient_id, data, fee)
+        B->>B: accept_data(data, fee)
+    else Agreement Failed
+        A-->>A: Handle Failure
+    end
+</div>
+
 Each of this rules should be defined by the agent itself, and the agent should be capable of persist alone the burden of the system according to it's own definitions.
 
 ```rust
