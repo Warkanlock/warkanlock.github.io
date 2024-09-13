@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity DB: An ideal distributed database
+title: 'InfinityDB: An ideal distributed database'
 description: Theorical ideas about a distributed database that can store infinite data across a set of agents.
 date: 2024-09-13
 author: Ignacio Brasca
