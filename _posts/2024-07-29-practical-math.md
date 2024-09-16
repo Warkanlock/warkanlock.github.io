@@ -17,6 +17,8 @@ tags:
 
 > Disclaimer 2: This is the "why" I wrote the article in the first place, if you wanna read the technical part of it is [here](https://www.researchgate.net/publication/382651852_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems).
 
+> Disclaimer 3: I got published on Arxiv! [Here](https://arxiv.org/abs/2409.07490).
+
 # Introduction
 
 > You can read more on [original article](http://blog.ignaciobrasca.com/data-loss-prevention/).
