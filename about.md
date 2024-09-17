@@ -14,7 +14,7 @@ I previously worked for [PwC](https://www.pwc.com) at AI Labs.
 
 At the moment, I'm building [Datia](https://datia.app) with an amazing team.
 
-### Random Facts
+### Random
 - In 2019, I met Mark Zuckerberg while reaching the finals with [OpenCurriculum](https://github.com/wattba/) at the F8 Global Hackathon in Facebook California.
 
 - As a kid, I had access to my country's customs database. I was really interested in breaking things but kept my cool and reported the problem (nobody replied).

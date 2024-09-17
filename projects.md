@@ -9,6 +9,11 @@ permalink: /projects
 - Chief Technology Officer at [Datia](https://datia.app)
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
 
+## Personal Research
+- [Polynomial Methods for Ensuring Data Integrity in Financial Systems](https://www.researchgate.net/publication/383985827_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems)
+- [Take Me One More: Efficient Clustering Compression using Inter-Frame Encoding](https://www.researchgate.net/publication/378306952_Take_Me_One_More_Efficient_Clustering_Compression_using_Inter-Frame_Encoding)
+- [Encryption Of Information By Generation Of Temporary Decoy Keys](https://www.researchgate.net/publication/328615812_Information_Encryption_Using_Temporary_Decoy_Key_Generation)
+
 ## Compilers 
 
 - [vm2asm](https://github.com/Warkanlock/hack-tooling/tree/main/vm2asm)
