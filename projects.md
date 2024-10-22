@@ -8,7 +8,7 @@ permalink: /projects
 
 - Chief Technology Officer at [Datia](https://datia.app)
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
-- Member of `oblique-works` (https://github.com/orgs/oblique-works).
+- Member of [oblique-works](https://github.com/orgs/oblique-works).
 
 ## Personal Research
 - [Polynomial Methods for Ensuring Data Integrity in Financial Systems](https://www.researchgate.net/publication/383985827_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems)
