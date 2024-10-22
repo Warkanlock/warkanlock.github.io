@@ -8,6 +8,7 @@ permalink: /projects
 
 - Chief Technology Officer at [Datia](https://datia.app)
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
+- Member of `oblique-works` (https://github.com/orgs/oblique-works).
 
 ## Personal Research
 - [Polynomial Methods for Ensuring Data Integrity in Financial Systems](https://www.researchgate.net/publication/383985827_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems)
@@ -27,8 +28,9 @@ permalink: /projects
 
 ## Crypto
 
-- [rarity-visualizer](https://www.rarityvisualizer.com)
-- [lighthouse-web3](https://github.com/LighthouseWeb3)
+# strightthrough
+- ~~rarity-visualizer-ui~~ (no longer available)
+- Contributions to [lighthouse-web3](https://github.com/LighthouseWeb3)
 
 ## Scalability
 
@@ -45,6 +47,7 @@ permalink: /projects
 - [cypherEX](https://github.com/Warkanlock/cypherEX)
 - [YoTeReparo](https://github.com/Warkanlock/YoTeReparo)
 - [simple-perceptron](https://github.com/Warkanlock/simple-perceptron)
+- [dreaming.rs](https://github.com/Warkanlock/dreaming.rs)
 
 ## Documentation
 
