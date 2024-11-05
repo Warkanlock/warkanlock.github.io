@@ -2,7 +2,7 @@
 layout: post
 title: "Moving Abroad (Pt.3)"
 description: "Moving abroad from Spain to Italy (for the second time)"
-date: 2024-11-05 12:00:00 -0300
+date: 2024-11-04 00:00:00 -0300
 author: "Ignacio Brasca"
 categories: opinion
 image: "https://blog.ignaciobrasca.com/img/posts/random/pic-23.jpeg"
