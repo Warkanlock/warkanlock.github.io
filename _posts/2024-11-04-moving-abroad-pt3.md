@@ -21,7 +21,7 @@ You see, when I lived there I hated it after a few months, I started getting rea
 
 Cities, [to me and a lot of urbanism around the world](https://christopher-alexander-ces-archive.org/) should be livable for humans and not cars, hence my hatred of drivers in general.
 
-The first time I lived in Turin I started to doubt about not being able to live with a car.
+The first time I lived in Turin I started to doubt about not being able to live without a car.
 
 Going for a coffee? I just need a car.
 
