@@ -4,8 +4,13 @@ title: "Exploring SQLite with Go using the C"
 description: "Learn how to integrate SQLite with Go using the C API, focusing on key operations like opening and closing the database, preparing statements, and binding parameters."
 date: 2024-11-11
 author: "Ignacio Brasca"
-categories: programming, study-notes
+categories: programming
 image: "https://blog.ignaciobrasca.com/img/gallery/i00056.jpg"
+tags:
+    - go
+    - sqlite
+    - cgo
+    - study-notes
 ---
 
 SQLite, a lightweight, self-contained SQL database engine, is a popular choice for embedded applications due to its simplicity and minimal setup requirements. In Go, working directly with SQLite’s C API offers low-level control and can be ideal for those who need efficient, fine-grained database handling.
