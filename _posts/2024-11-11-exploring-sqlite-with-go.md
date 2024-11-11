@@ -25,7 +25,7 @@ In this post, we’ll explore how to integrate SQLite with Go using the C API, f
 
 ## 1. Project Setup
 
-In the screenshot, we have a Go project organized with folders and a few Go source files (`sqlite3.go`, `sqlite3_test.go`, etc.). If you’re following along, create a similar project structure. For instance:
+In the structure bellow, we have a Go project organized with folders and a few Go source files (`sqlite3.go`, `sqlite3_test.go`, etc.). If you’re following along, create a similar project structure. For instance:
 
 > Note: I'm creating the following folder structure for the sake of practicality. You can adapt it to your needs.
 
