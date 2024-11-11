@@ -39,7 +39,7 @@ mysqlite/
 └── main.go
 ```
 
-Here, sqlite3.go will contain our primary SQLite interactions, while sqlite3_test.go will handle tests for those interactions.
+Here, `sqlite3.go` will contain our primary SQLite interactions, while `sqlite3_test.go` will handle tests for those interactions.
 
 ## 2. Setting Up cgo for SQLite
 
@@ -66,7 +66,7 @@ This configuration includes SQLite’s headers and links the SQLite library so w
 
 ## 3. Core Database Functions in Go
 
-Now, let’s dive into the main functions, using the code in sqlite3.go as a guide.
+Now, let’s dive into the main functions, using the code in `sqlite3.go` as a guide.
 
 **Opening and Closing the Database**
 
@@ -82,11 +82,11 @@ func (db *C.sqlite3) Close() error {
 }
 ```
 
-This function calls sqlite3_close from the C library. We use an if statement to handle errors, returning a Go error if closing fails.
+This function calls [sqlite3_close](https://www.sqlite.org/c3ref/close.html) from the C library. We use an if statement to handle errors, returning a Go error if closing fails.
 
 **Preparing SQL Statements**
 
-The next step is preparing SQL statements, which sets up the database to execute queries. This is handled by sqlite3_prepare_v2 in the C API:
+The next step is preparing SQL statements, which sets up the database to execute queries. This is handled by [sqlite3_prepare_v2](https://www.sqlite.org/capi3ref.html#sqlite3_prepare) in the C API:
 
 ```go
 func Prepare(db *C.sqlite3, query string) (*C.sqlite3_stmt, error) {
@@ -104,7 +104,7 @@ func Prepare(db *C.sqlite3, query string) (*C.sqlite3_stmt, error) {
 }
 ```
 
-The function takes a SQL query as a string, converts it to a CString, and then calls sqlite3_prepare_v2. Notice the defer statement to free the C string after the function finishes.
+The function takes a SQL query as a string, converts it to a CString, and then calls [sqlite3_prepare_v2](https://www.sqlite.org/capi3ref.html#sqlite3_prepare). Notice the defer statement to free the C string after the function finishes.
 
 **Binding Parameters to Queries**
 
@@ -128,9 +128,9 @@ func BindInt(db *C.sqlite3, stmt *C.sqlite3_stmt, name string, v int) error {
 
 In this example:
 
-• sqlite3_bind_parameter_index finds the index of the named parameter.
+- [sqlite3_bind_parameter_index](https://www.sqlite.org/capi3ref.html#sqlite3_bind_parameter_index) finds the index of the named parameter.
 
-• sqlite3_bind_int binds the integer value to the specified index.
+- [sqlite3_bind_int](https://www.sqlite.org/capi3ref.html#sqlite3_bind_int) binds the integer value to the specified index.
 
 Similarly, let’s bind a text (string) parameter:
 
@@ -153,7 +153,7 @@ func BindText(db *C.sqlite3, stmt *C.sqlite3_stmt, name string, v string) error 
 }
 ```
 
-Binding text parameters is similar to integers, but here we use sqlite3_bind_text and handle memory management by freeing cValue after binding.
+Binding text parameters is similar to integers, but here we use [sqlite3_bind_text](https://www.sqlite.org/capi3ref.html#sqlite3_bind_text) and handle memory management by freeing `cValue` after binding.
 
 ## 4. Example Usage
 
@@ -194,7 +194,7 @@ func main() {
     }
     defer C.sqlite3_finalize(stmt)
 
-    if err := src.BindText(db, stmt, "?1", "Alice"); err != nil {
+    if err := src.BindText(db, stmt, "?1", "Ruben"); err != nil {
         log.Fatal(err)
     }
     if rc := C.sqlite3_step(stmt); rc != C.SQLITE_DONE {
@@ -220,23 +220,23 @@ func main() {
 
 1. **Opening the Database**
 
-We open example.db using sqlite3_open, initializing a database connection. If it fails, an error message is logged, and the program stops. The defer db.Close() ensures the database is closed when the program finishes.
+We open example.db using sqlite3_open, initializing a database connection. If it fails, an error message is logged, and the program stops. The defer `db.Close()` ensures the database is closed when the program finishes.
 
 2. **Creating the Table**
 
-Using Prepare, we create a users table with an integer id and a name field. After preparing the statement, we execute it with sqlite3_step and finalize it with sqlite3_finalize to ensure it’s cleaned up.
+Using Prepare, we create a users table with an integer id and a name field. After preparing the statement, we execute it with sqlite3_step and finalize it with [sqlite3_finalize](https://www.sqlite.org/capi3ref.html#sqlite3_finalize) to ensure it’s cleaned up.
 
 3. **Inserting a User**
 
-We prepare an INSERT INTO statement to add a user. Here, we bind a name value (“Alice”) to the SQL parameter ?1. After binding, we execute the insert using sqlite3_step and check for errors.
+We prepare an INSERT INTO statement to add a user. Here, we bind a name value (“Ruben”) to the SQL parameter `?1`. After binding, we execute the insert using [sqlite3_step](https://www.sqlite.org/capi3ref.html#sqlite3_step) and check for errors.
 
 4. **Querying the User**
 
-We prepare a SELECT statement to fetch all users. For each row returned by sqlite3_step, we retrieve the id and name columns and print each result to the console.
+We prepare a `SELECT` statement to fetch all users. For each row returned by [sqlite3_step](https://www.sqlite.org/capi3ref.html#sqlite3_step), we retrieve the id and name columns and print each result to the console.
 
 ## 5. Testing the Code
 
-Testing database interactions can be tricky, so we’ll create a small, isolated test database for each test case to keep everything clean. In this file, we’ll test the main functionalities: creating tables, inserting data, querying data, and handling errors.
+Testing database interactions can be tricky, so we’ll create a small, isolated test database for each test case to keep everything clean. In this file, we’ll test the main functionalities: `creating tables, inserting data, querying data, and handling errors`.
 
 ```go
 package src
@@ -297,7 +297,7 @@ func TestInsertAndQuery(t *testing.T) {
     if err != nil {
         t.Fatalf("Failed to prepare insert statement: %v", err)
     }
-    if err := BindText(db, stmt, "?1", "Alice"); err != nil {
+    if err := BindText(db, stmt, "?1", "Ruben"); err != nil {
         t.Fatalf("Failed to bind text parameter: %v", err)
     }
     if rc := C.sqlite3_step(stmt); rc != C.SQLITE_DONE {
@@ -316,7 +316,7 @@ func TestInsertAndQuery(t *testing.T) {
     for C.sqlite3_step(stmt) == C.SQLITE_ROW {
         id := C.sqlite3_column_int(stmt, 0)
         name := C.GoString((*C.char)(unsafe.Pointer(C.sqlite3_column_text(stmt, 1))))
-        if id == 1 && name == "Alice" {
+        if id == 1 && name == "Ruben" {
             found = true
             break
         }
