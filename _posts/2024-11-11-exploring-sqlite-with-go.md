@@ -5,7 +5,7 @@ description: "Learn how to integrate SQLite with Go using the C API provided by 
 date: 2024-11-11
 author: "Ignacio Brasca"
 categories: programming
-image: "https://blog.ignaciobrasca.com/img/gallery/i00056.jpg"
+image: "https://blog.ignaciobrasca.com/img/gallery/i00025.jpg"
 tags:
     - go
     - sqlite
