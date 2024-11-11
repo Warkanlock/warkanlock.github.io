@@ -98,7 +98,7 @@ func Prepare(db *C.sqlite3, query string) (*C.sqlite3_stmt, error) {
 
     rc := C.sqlite3_prepare_v2(db, cQuery, -1, &stmt, nil)
     if rc != C.SQLITE_OK {
-        return nil, errors.New("error preparing sqlite3 database")
+        return nil, errors.New("error preparing sqlite3 database")
     }
     return stmt, nil
 }
