@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploring SQLite with Go using the C"
+title: "Exploring SQLite with Go using the C API (cgo)"
 description: "Learn how to integrate SQLite with Go using the C API, focusing on key operations like opening and closing the database, preparing statements, and binding parameters."
 date: 2024-11-11
 author: "Ignacio Brasca"
