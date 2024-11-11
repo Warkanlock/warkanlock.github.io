@@ -90,17 +90,17 @@ The next step is preparing SQL statements, which sets up the database to execute
 
 ```go
 func Prepare(db *C.sqlite3, query string) (*C.sqlite3_stmt, error) {
-    cQuery := C.CString(query)
-    defer C.free(unsafe.Pointer(cQuery))
+    cQuery := C.CString(query)
+    defer C.free(unsafe.Pointer(cQuery))
 
-	// define the statement
-    var stmt *C.sqlite3_stmt
-   
-    rc := C.sqlite3_prepare_v2(db, cQuery, -1, &stmt, nil)
-    if rc != C.SQLITE_OK {
-        return nil, errors.New("error preparing sqlite3 database")
-    }
-    return stmt, nil
+    // define the statement
+    var stmt *C.sqlite3_stmt
+
+    rc := C.sqlite3_prepare_v2(db, cQuery, -1, &stmt, nil)
+    if rc != C.SQLITE_OK {
+        return nil, errors.New("error preparing sqlite3 database")
+    }
+    return stmt, nil
 }
 ```
 
