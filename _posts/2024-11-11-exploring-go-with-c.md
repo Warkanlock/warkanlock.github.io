@@ -57,8 +57,8 @@ In your Go file, add the following import block to enable cgo:
 
 import "C"
 import (
-    "errors"
-    "unsafe"
+    "errors"
+    "unsafe"
 )
 ```
 
@@ -74,11 +74,11 @@ A fundamental operation is opening and closing the SQLite database. Here’s a f
 
 ```go
 func (db *C.sqlite3) Close() error {
-    rc := C.sqlite3_close(db)
-    if rc != C.SQLITE_OK {
-        return errors.New("error closing sqlite3 database")
-    }
-    return nil
+    rc := C.sqlite3_close(db)
+    if rc != C.SQLITE_OK {
+        return errors.New("error closing sqlite3 database")
+    }
+    return nil
 }
 ```
 
