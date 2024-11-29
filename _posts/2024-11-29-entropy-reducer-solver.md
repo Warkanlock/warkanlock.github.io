@@ -5,7 +5,7 @@ description: "An hypotetical system that allows us to reduce the entropy of a se
 date: 2024-11-29
 author: "Ignacio Brasca"
 categories: opinion
-image: "https://blog.ignaciobrasca.com/img/gallery/i00079.JPG"
+image: "https://blog.ignaciobrasca.com/img/gallery/i00079.jpg"
 tags:
     - idea
     - opinion
