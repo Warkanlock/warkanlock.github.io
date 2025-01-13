@@ -4,7 +4,7 @@ title: "About"
 permalink: /about
 ---
 
-I'm Ignacio Brasca, a developer from Argentina currently living abroad (previously in Italy and Sweden, now in Spain), with experience in web development, security, system design, scalability, finance, and game development.
+I'm Ignacio Brasca, a developer from Argentina currently living abroad (Italy>Sweden>Spain>Italy), with experience in web development, security, system design, scalability, finance, and game development.
 
 ![myself](https://blog.ignaciobrasca.com/img/myself.png)
 
