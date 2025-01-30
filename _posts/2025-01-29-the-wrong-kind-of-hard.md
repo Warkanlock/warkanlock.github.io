@@ -31,7 +31,9 @@ The compact engine appears because of the Wright brothers, not because of the ca
 
 Stop being "noisy" and compare that to being "busy".
 
-Stop reaching a goal long time ago you started to follow looks too much like failing. Even if your goal does not make any realistic sense. We tend to be afraid of looking like a failure than actually failing. So, you just keep going at something, that simlpy stopped making sense long ago, just because not doing it anymore will erase your entire identity (according to you).
+Stop following a goal long time ago you started, just because stop doing it looks like failing. 
+
+We tend to be more afraid of being seen as a failure than of actually failing. So, you just keep going at something, that simlpy stopped making sense long ago, just because not doing it anymore will erase your entire identity (according to you).
 
 Exhausting.
 
