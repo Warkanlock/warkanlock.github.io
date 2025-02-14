@@ -62,6 +62,6 @@ You can visit this [tools](https://blog.ignaciobrasca.com/tools) webiste where I
 ## Boilerplates for interviews
 
 - [BoilerCLI.js](https://github.com/Warkanlock/BoilerCLI.js)
-- [MinimalPS](https://github.com/Warkanlock/MinimalPS)
+- [minimal.ps](https://github.com/Warkanlock/minimal.ps)
 - [boiler-definition-library](https://github.com/Warkanlock/boiler-definition-library)
 - [todo-list-rust](https://github.com/Warkanlock/todo-list-rust)
