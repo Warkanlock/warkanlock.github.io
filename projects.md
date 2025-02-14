@@ -10,7 +10,7 @@ permalink: /projects
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
 - Member of [oblique-works](https://github.com/orgs/oblique-works).
 
-## Personal Research
+## Research
 - [Polynomial Methods for Ensuring Data Integrity in Financial Systems](https://www.researchgate.net/publication/383985827_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems)
     - [arxiv](https://arxiv.org/abs/2409.07490)
     - [website](https://blog.ignaciobrasca.com/data-loss-prevention/)
@@ -34,7 +34,6 @@ You can visit this [tools](https://blog.ignaciobrasca.com/tools) webiste where I
 
 ## Crypto
 
-# strightthrough
 - ~~rarity-visualizer-ui~~ (no longer available)
 - Contributions to [lighthouse-web3](https://github.com/LighthouseWeb3)
 
