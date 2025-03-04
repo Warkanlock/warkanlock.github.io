@@ -6,7 +6,7 @@ permalink: /projects
 
 ## Professional
 
-- Chief Technology Officer at [Datia](https://datia.app)
+- (previously) Chief Technology Officer at [Datia](https://datia.app)
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
 - Member of [oblique-works](https://github.com/orgs/oblique-works).
 
