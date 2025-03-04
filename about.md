@@ -8,11 +8,7 @@ I'm Ignacio Brasca, a developer from Argentina currently living abroad (Italy>Sw
 
 ![myself](https://blog.ignaciobrasca.com/img/myself.png)
 
-Currently, I mainly focus on developing high-performance code for financial applications. However, most of the work I've done and am currently doing cannot be published due to [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) restrictions.
-
-I previously worked for [PwC](https://www.pwc.com) at AI Labs.
-
-At the moment, I'm building [Datia](https://datia.app) with an amazing team.
+Currently, I mainly focus on developing high-performance code for financial applications. However, most of the work I've done and am currently doing cannot be published due to [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) restrictions. I previously worked for [PwC](https://www.pwc.com) at AI Labs. Before that, I helped build [Datia](https://datia.app) with an amazing team from scratch.
 
 ### Random
 - In 2019, I met Mark Zuckerberg while reaching the finals with [OpenCurriculum](https://github.com/wattba/) at the F8 Global Hackathon in Facebook California.
