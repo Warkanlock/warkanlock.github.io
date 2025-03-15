@@ -28,7 +28,7 @@ twitter_username: txxnano
 github_username: Warkanlock
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@14b22a9a2c5fc415805bee71fd345a9068643dcd
 
 minima:
   social_links:
