@@ -32,8 +32,12 @@ remote_theme: "jekyll/minima@93b1921"
 
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/Warkanlock" }
-    - { platform: twitter, user_url: "https://twitter.com/txxnano" }
+    - title: Github Profile
+      icon: github
+      url: "https://github.com/Warkanlock"
+    - title: me@x
+      icon: x-twitter
+      url: "https://x.com/txxnano"
 
 plugins:
   - jekyll-feed
