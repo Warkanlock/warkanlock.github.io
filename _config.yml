@@ -28,7 +28,7 @@ twitter_username: txxnano
 github_username: Warkanlock
 
 # Build settings
-remote_theme: "jekyll/minima@93b1921"
+remote_theme: "jekyll/minima"
 
 minima:
   social_links:
@@ -42,8 +42,6 @@ minima:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-include-cache
-  - gemfile
 
 # Exclude from processing.
 # The following items will not be processed, by default.
