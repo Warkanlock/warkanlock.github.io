@@ -38,7 +38,7 @@ Remember, this is all the things "we know" about it, many more things will disco
 
 You get my point.
 
-Nepal—which, by the way, has a terrific blog post by a friend about this scandal while he was there (https://schmud.de/posts/2025-09-18-signs-in-the-fire-kathmandu.html). Of course, people took to the streets and claimed power back because of corruption. But now what? Their politicians fled with the money to Dubai, and they’re probably laughing about it with other billionaires.
+Nepal—which, by the way, has a terrific [blog post by a friend about this scandal while he was there](https://schmud.de/posts/2025-09-18-signs-in-the-fire-kathmandu.html). Of course, people took to the streets and claimed power back because of corruption. But now what? Their politicians fled with the money to Dubai, and they’re probably laughing about it with other billionaires.
 
 Serbia’s students were on the streets—clashes, fires, destroyed houses, impossible transportation—while… **politicians do what?**
 
