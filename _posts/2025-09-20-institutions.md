@@ -36,7 +36,7 @@ Or what happened with VW and [Dieselgate](https://en.wikipedia.org/wiki/Dieselga
 
 Beside these nitpick news, we can of course say governments will do what they can do to prevent this from happening and in the end, most of the people involved won't get away with it, but hey, probably they will pay a fine and get away with it.
 
-The only thing Purdue Pharma did with it was:
+The only thing Purdue Pharma did with the scandals of oxycontin was:
 
 > In 2019, Purdue Pharma agreed to settle and pay 270 million dollars to the state of Oklahoma that would go towards addiction research and treatment
 
