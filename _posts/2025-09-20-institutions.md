@@ -14,31 +14,29 @@ Usually, throughout the history of humankind, there have been different kinds of
 
 Now, while watching [All the President’s Men](https://letterboxd.com/film/all-the-presidents-men/), I realized something I notice often from movies of the ’70s: people were getting shit done, and while they were doing this, the “system” worked. For bad and for good, of course… [Inequality wasn’t that bad either way](https://inequality.org/facts/income-inequality/), and it was possible to make your way through life.
 
-Everyone seemed to have “their eyes on the game,” trying to achieve fame, glory, a career, and the trust of public institutions, which was good enough to sustain a life of productivity, prosperity, industrial corridors, and infrastructure—just before it all went to hell with Watergate, [MKUltra](https://en.wikipedia.org/wiki/MKUltra), [Condor](https://en.wikipedia.org/wiki/Operation_Condor), etc.
+Everyone seemed to have “their eyes on the game,” trying to achieve fame, glory, a career, and the trust of public institutions, which was good enough to sustain a life of productivity, prosperity, industrial corridors, and infrastructure—just before it all went to hell with [Watergate](https://en.wikipedia.org/wiki/Watergate_scandal), [MKUltra](https://en.wikipedia.org/wiki/MKUltra), [Condor](https://en.wikipedia.org/wiki/Operation_Condor), etc.
 
 According to the [World Bank](https://blogs.worldbank.org/en/governance/trust-public-institutions), having a high confidence score with an institution not only means that the institution will do its job better, but also more effectively: spending less and doing more, in a sense.
 
-Now, let’s play a game: imagine you are a person in your forties reading the newspaper, and you come across Watergate, you read the scandal…
+Now, let’s play a game: imagine you are a person in your forties reading the newspaper right now, and you come across with Watergate 2025, you read the scandal and **what would you think the government will do?**
 
-**What would you do?**
+Maybe, for the simplicity of it, let’s even say this with examples:
 
-Or let’s even put it this way:
+When your goverment turn a blind eye on the worst [opioid crises of the modern era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2622774/)?
 
-You pay taxes, you do your job, you go to work, you go back, and you expect money to be there when you need it. Or even better—you expect the government to take care of you. While the system works, you expect the government to take care of you. But what if the system doesn’t work?
+Or when your goverment allow construction of [luxury instead of affordable housing](https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad_scandal)?
 
-Whom do you complain to?  
+Or [everyone else richer than you are not paying their taxes in Europe](https://en.wikipedia.org/wiki/LuxLeaks)?
 
-Justice?
-
-So, what should we do when a [Facebook leak exposes users’ private data to hackers](https://cybernews.com/security/facebook-leak-exposes-users-hackers-claim/)?
+What should we do when a [Facebook leak exposes users’ private data to hackers](https://cybernews.com/security/facebook-leak-exposes-users-hackers-claim/)?
 
 Or when a company we know, such as Ikea, removes thousands of [acres of forest in Brazil](https://disclose.ngo/en/article/ikeas-main-supplier-in-brazil-accused-of-environmental-damage)?
 
 Or what happened with VW and [Dieselgate](https://en.wikipedia.org/wiki/Dieselgate)?
 
-And let’s not say “hey, but they pay the fines!!!”…that’s what justice is about?
+Remember, this is all the things "we know" about it, many more things will discovered and I can even see a potential [Ozempic](https://en.wikipedia.org/wiki/Semaglutide) scandal in the future.
 
-Let’s see other examples, for instance, countries:
+You get my point.
 
 Nepal—which, by the way, has a terrific blog post by a friend about this scandal while he was there (https://schmud.de/posts/2025-09-18-signs-in-the-fire-kathmandu.html). Of course, people took to the streets and claimed power back because of corruption. But now what? Their politicians fled with the money to Dubai, and they’re probably laughing about it with other billionaires.
 
