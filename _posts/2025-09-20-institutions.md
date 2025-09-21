@@ -86,15 +86,15 @@ What’s on us to understand that we are special?
 
 Maybe a few years back we thought governments would carry us over, but even now the European Union is still fighting 20-year-old problems while politicians decide which kind of plastic we should not use in bottles—because hey! that’s even more important than China bombarding your market with cheaper and more harmful products.
 
-[Welfare is simply not enough nor sustainable](https://www.lemonde.fr/en/economy/article/2025/09/12/in-germany-social-welfare-is-no-longer-sustainable_6745324_19.html).
+[Wellfare is simply not enough nor sustainable](https://www.lemonde.fr/en/economy/article/2025/09/12/in-germany-social-welfare-is-no-longer-sustainable_6745324_19.html).
 
 Reading through [Breakneck](https://danwang.co/breakneck/)—which, by the way, is an excellent introduction to why China is beating everyone else in the world (a bit of propaganda since it does not mention slavery as “slavery”)—I realized that what divides us now is simply not having any meaning at all… China has it, despite all the moral issues it could cause in the West.
 
 We are not slaves, it’s not about that—it’s that the institutions that should protect us are protecting them. The game is rigged.
 
-[Institutions have failed us, and it’s clear to the world now](https://www.aamchealthjustice.org/news/polling/trust-trends) that this is simply not admissible. 
+[Institutions have failed us, and it’s clear to the world now](https://www.aamchealthjustice.org/news/polling/trust-trends) that this is simply not admissible.
 
-Where I’m from, all institutions are dead anyway. Nobody trusts the public anymore, even if it’s from the government—which is common. But I believe this virus has now spread across the world. 
+Where I’m from, all institutions are dead anyway. Nobody trusts the public anymore, even if it’s from the government—which is common. But I believe this virus has now spread across the world.
 
 Maybe on purpose.
 
