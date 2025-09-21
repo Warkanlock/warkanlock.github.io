@@ -34,9 +34,17 @@ Or when a company we know, such as Ikea, removes thousands of [acres of forest i
 
 Or what happened with VW and [Dieselgate](https://en.wikipedia.org/wiki/Dieselgate)?
 
-Remember, this is all the things "we know" about it, many more things will discovered and I can even see a potential [Ozempic](https://en.wikipedia.org/wiki/Semaglutide) scandal in the future.
+Beside these nitpick news, we can of course say governments will do what they can do to prevent this from happening and in the end, most of the people involved won't get away with it, but hey, probably they will pay a fine and get away with it.
+
+The only thing Purdue Pharma did with it was:
+
+> In 2019, Purdue Pharma agreed to settle and pay 270 million dollars to the state of Oklahoma that would go towards addiction research and treatment
+
+Only 270 millon dollars from an [estimate of 12 billion dollars](https://www.forbes.com/sites/rachelsandler/2019/10/04/the-sacklers-made-12-to-13-billion-in-profit-from-oxycontin-maker-purdue-pharma-new-report-says/).
 
 You get my point.
+
+Remember, this is all the things "we know" about it, many more things will discovered and I can even see a potential [Ozempic](https://en.wikipedia.org/wiki/Semaglutide) scandal in the future.
 
 Nepal—which, by the way, has a terrific [blog post by a friend about this scandal while he was there](https://schmud.de/posts/2025-09-18-signs-in-the-fire-kathmandu.html). Of course, people took to the streets and claimed power back because of corruption. But now what? Their politicians fled with the money to Dubai, and they’re probably laughing about it with other billionaires.
 
