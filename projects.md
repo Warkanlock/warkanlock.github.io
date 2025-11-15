@@ -6,19 +6,20 @@ permalink: /projects
 
 ## Professional
 
-- Senior Software Engineer at [DualEntry](https://dualentry.com)
-- (previously) Chief Technology Officer at [Datia](https://datia.app)
+- Staff Software Engineer at [DualEntry](https://dualentry.com)
+- (previously) Chief Technology Officer at [Datia](https://datia.app) (acquired by [connect.earth](https://connect.earth))
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
 - Member of [oblique-works](https://github.com/orgs/oblique-works).
 
 ## Research
+
 - [Polynomial Methods for Ensuring Data Integrity in Financial Systems](https://www.researchgate.net/publication/383985827_Polynomial_Methods_for_Ensuring_Data_Integrity_in_Financial_Systems)
-    - [arxiv](https://arxiv.org/abs/2409.07490)
-    - [website](https://blog.ignaciobrasca.com/data-loss-prevention/)
+  - [arxiv](https://arxiv.org/abs/2409.07490)
+  - [website](https://blog.ignaciobrasca.com/data-loss-prevention/)
 - [Take Me One More: Efficient Clustering Compression using Inter-Frame Encoding](https://www.researchgate.net/publication/378306952_Take_Me_One_More_Efficient_Clustering_Compression_using_Inter-Frame_Encoding)
 - [Encryption Of Information By Generation Of Temporary Decoy Keys](https://www.researchgate.net/publication/328615812_Information_Encryption_Using_Temporary_Decoy_Key_Generation)
 
-## Compilers 
+## Compilers
 
 - [vm2asm](https://github.com/Warkanlock/hack-tooling/tree/main/vm2asm)
 - [asm2hack](https://github.com/Warkanlock/hack-tooling/tree/main/asm2hack)
@@ -26,7 +27,7 @@ permalink: /projects
 ## Microtools
 
 You can visit this [tools](https://blog.ignaciobrasca.com/tools) webiste where I'll be uploading all (micro)tools I generated while using LLM models.
- 
+
 ## Contributions
 
 - [tidal-hifi](https://github.com/Warkanlock/tidal-hifi)
