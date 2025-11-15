@@ -9,7 +9,6 @@ permalink: /projects
 - Staff Software Engineer at [DualEntry](https://dualentry.com)
 - (previously) Chief Technology Officer at [Datia](https://datia.app) (acquired by [connect.earth](https://connect.earth))
 - (previosuly) Senior Software Engineer at [PwC AI Labs](https://pwc.com)
-- Member of [oblique-works](https://github.com/orgs/oblique-works).
 
 ## Research
 
