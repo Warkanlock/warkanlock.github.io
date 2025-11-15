@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Institutions Have Failed"
+title: "Accepting who you are"
 description: ""
 date: 2025-11-14
 author: "Ignacio Brasca"
