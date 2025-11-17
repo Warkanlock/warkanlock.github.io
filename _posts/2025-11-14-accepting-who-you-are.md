@@ -14,6 +14,8 @@ When I was a kid, I was terrified of exposing ideas in public. Speaking out loud
 
 That fear shaped me. It built a mental model so toxic that it made me want to stay silent, to avoid expressing what I wanted or believed.
 
+At the beggining of this year, I was dianosed with autism spectrum disorder (yeah, I know a lot of people auto-diagnose themselves, but this was a professional evaluation). The diagnosis explained a lot of things about how I perceive the world and interact with it.
+
 That’s why I’ve started to change recently.
 
 Acceptance is understanding your limits, recognizing where you feel comfortable and where you simply don’t. I used to think that expressing ideas—moving them from your mind into the physical world—was something everyone could do easily. But after spending time digging into myself, my psyche, and working with my therapist, I realized something else entirely.
