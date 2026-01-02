@@ -12,8 +12,7 @@ tags:
 - agents
 ---
 
-I keep coming back to this idea that storage should look more like a market: lots of small actors, each guarding its own corner, instead of a single vault. The last three commits pushed
-that vision a bit closer to something tangible.
+I keep coming [back to this idea](https://blog.ignaciobrasca.com/programming/2024/09/13/infinity-db.html) that storage should look more like a market: lots of small actors, each guarding its own corner, instead of a single vault.
 
 First, I let agents declare their own storage. It’s their choice now hence each agent theorically can emulate any storage and share information in between to decode information in between. When an agent creates or transfers data, the engine drops the chunks into that agent’s backend and keeps a placement map alongside a tiny JSON record so we remember who holds what. 
 
