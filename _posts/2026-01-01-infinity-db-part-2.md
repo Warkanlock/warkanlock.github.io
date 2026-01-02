@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InfinityDB: the comeback of agent storage"
+title: "InfinityDB: the comeback"
 description: "Walking notes on letting each agent own its storage"
 date: 2026-01-02
 author: "Ignacio Brasca"
