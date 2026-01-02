@@ -32,12 +32,13 @@ Now, to run the protocol I prepared a server with `cargo run -p infinitydb-serve
 Additionally, the sandbox prepared to emulate the protocol looks good enough to understand what's going on...
 
 ![infinitydb-sandbox](https://blog.ignaciobrasca.com/img/posts/2026-01-01-infinity-db-part-2/infinitydb-sandbox.png)
+
 ![infinitydb-sandbox](https://blog.ignaciobrasca.com/img/posts/2026-01-01-infinity-db-part-2/infinitydb-sandbox-2.png)
 
 We can also `decode` the content easily and understand from which agent each chunk comes from:
 
 ![infinitydb-sandbox](https://blog.ignaciobrasca.com/img/posts/2026-01-01-infinity-db-part-2/infinitydb-sandbox-3.png)
 
-Still theoretical, still rough, but with every change I believe this idea can grow into something real. 
+Technically this is slow, since I didn't focus on performance at all, given that for each chunk, `decode_object` asks `read_chunk_data`, which walks the agents listed in that chunk’s placement and queries each agent’s storage until one returns bytes, otherwise it falls back to the default storage. The chunk’s data is whatever the first available storage returns; the `agent_ids` field just displays all owners from the placement map.
 
-A distributed database where each participant owns their data, and together they form a resilient, flexible market of storage.
+Still theoretical, still rough, but with every change I believe this idea can grow into something real.  A distributed database where each participant owns their data, and together they form a resilient, flexible market of storage.
