@@ -1,4 +1,4 @@
-———
+---
 layout: post
 title: "InfinityDB: the comeback of agent storage"
 description: "Walking notes on letting each agent own its storage"
@@ -10,7 +10,7 @@ tags:
 - infinitydb
 - distributed-systems
 - agents
-  ———
+---
 
 I keep coming back to this idea that storage should look more like a market: lots of small actors, each guarding its own corner, instead of a single vault. The last three commits pushed
 that vision a bit closer to something tangible.
