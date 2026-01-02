@@ -26,7 +26,7 @@ The repository is now structured such as workspaces:
 - `crates/infinitydb-server`: thin HTTP adapter that maps API calls to the core engine.
 - `crates/infinitydb-cli`: placeholder CLI adapter for local scripts and demos.
 
-Now, to run the protocol I prepared a server with `cargo run -p infinitydb-server`, allowing me to emulate the protocol easily with a frontend I wrote in React.
+Now, to put the protocol into practice I prepared a server with `cargo run -p infinitydb-server`, allowing me to emulate the protocol easily with a frontend I wrote in React.
 
 Additionally, the sandbox prepared to emulate the protocol looks good enough to understand what's going on...
 
