@@ -5,7 +5,7 @@ description: ""
 date: 2026-03-01
 author: "Ignacio Brasca"
 categories: systems
-image: /assets/images/posts/random/old-me.jpg
+image: /img/posts/random/old-me.jpg
 tags:
   - opinion
 ---
