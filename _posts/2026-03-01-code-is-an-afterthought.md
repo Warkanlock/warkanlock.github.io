@@ -46,11 +46,11 @@ I remember the learning loop I ran every single day, from the moment I woke up u
 
 All of this LLM-madness-or-not reminds me a bit of those days
 
-After reading [Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_in_Systems) by Donella Meadows, I realized that what I was really interested in was not the code itself, but the systems that the code enabled me to build. I was always more interested in the interconnections of the different components, the design of the system, and how to make it work together, rather than the actual code itself.
+After reading [Thinking in Systems](https://en.wikipedia.org/wiki/Thinking_in_Systems) by Donella Meadows, I realized that what I was really interested in was not the code itself, but the systems that the code enabled me to build:
 
 > Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed.
 
-Eventually, I ended up learning that I was never a good coder, probably an average one, but a good architect.
+I was always more interested in the interconnections of the different components, the design of the system, and how to make it work together, rather than the actual code itself. Eventually, I ended up learning that I was never a good coder, probably an average one, but a good architect of all the moving parts.
 
 Yeah, heck I know that LLM-code might not the best, but mine wasn't either.
 
