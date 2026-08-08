@@ -10,4 +10,4 @@ After making any changes (posts, pages, CSS, config), always run:
 make ship
 ```
 
-This builds the site, commits everything including `_site/`, and pushes to `master`. Never skip this step — the live site won't reflect your changes until `_site/` is rebuilt and pushed.
+This builds the site, commits all changes, and pushes to `master`. GitHub Pages builds from source — never skip this step.
