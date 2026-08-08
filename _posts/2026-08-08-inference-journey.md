@@ -12,22 +12,20 @@ tags:
   - tools
 ---
 
-I've been playing with LLM inference lately.
+I got curious about how DeepSeek actually works.
 
-Not the training side. That part is well understood by now. The inference side. The part where a model actually runs, token by token, and produces something you can read.
+Not the model architecture. That part is well documented. I wanted to understand what happens when you hit their API. What does the request look like under the hood. How does the server receive it, queue it, load the model, run the forward pass, stream tokens back. The whole pipeline.
 
-I built a small page to help me think about it: [tools/inference.html](/tools/inference.html).
+So I started from first principles.
 
-It started as a scratchpad. I wanted to understand why DeepSeek's API behaves differently depending on how you configure it. Temperature at 0.7 gives you one kind of reasoning. At 0.3, something else entirely. Top-p, max tokens, all of it. Each parameter pulls the output in a different direction.
+If I had to build my own inference server, where would I even start. What would the request lifecycle look like. How do you batch requests. How do you manage GPU memory when multiple users are hitting the same endpoint. What happens when the model is too big for a single GPU and you need to shard it.
 
-What surprised me is how much you can learn just by watching.
+I assumed my laptop was enough.
 
-Give a model the same prompt twice with different sampling parameters and you get two completely different chains of thought. One might spiral into repetition. The other might lock into a thread and pull something interesting out of it. The difference between them is just a few knobs.
+Not for running GPT-4 at scale. But for understanding the system. For proving to myself that I could write a server that receives a prompt, runs it through a model, and streams tokens back. Something that could, in theory, serve inference to a few thousand people if the hardware allowed it.
 
-Inference is a small system. Prompt goes in, parameters shape the distribution, tokens are sampled, and something emerges. Turn a knob, the output shifts. It's predictable in the same way a river is predictable. You know the general direction, but not the exact path.
+That curiosity turned into a page: [tools/inference.html](/tools/inference.html).
 
-I find that beautiful.
+It is a work in progress. Part scratchpad, part documentation, part playground. As I figure things out I write them down there. Tokenizers, KV caches, continuous batching, speculative decoding. Each piece I understand gets a section.
 
-The page is not done. It's a living thing. I'll keep adding to it as I learn more. For now it's what I wish I had when I first started poking at these APIs: a place to experiment and build intuition.
-
-If you've ever wondered why your LLM outputs feel different between runs, maybe it helps.
+I am not trying to compete with anyone. I just want to know how the thing I use every day actually works.
