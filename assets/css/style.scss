@@ -4,7 +4,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..900;1,9..144,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=JetBrains+Mono:wght@400;500;700&display=swap');
 
 :root {
   --paper: #FBF8F1;
@@ -22,6 +22,7 @@
 
 $serif: 'Fraunces', Georgia, serif;
 $mono: 'JetBrains Mono', monospace;
+$heading: 'Inter', $serif;
 
 body {
   font-family: $serif;
@@ -61,29 +62,27 @@ strong {
 }
 
 .post-title, h1 {
-  font-family: $serif;
-  font-weight: 400;
+  font-family: $heading;
+  font-weight: 600;
   font-size: clamp(32px, 5vw, 48px);
-  line-height: 1.1;
-  letter-spacing: -0.02em;
-  font-variation-settings: 'opsz' 144;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
   color: var(--ink);
 }
 
 h2 {
-  font-family: $serif;
-  font-weight: 400;
+  font-family: $heading;
+  font-weight: 550;
   font-size: 28px;
   line-height: 1.2;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.015em;
   margin-top: 56px;
-  font-variation-settings: 'opsz' 144;
   color: var(--ink);
 }
 
 h3, h4, h5, h6 {
-  font-family: $serif;
-  font-weight: 500;
+  font-family: $heading;
+  font-weight: 550;
   color: var(--ink);
 }
 
@@ -110,10 +109,10 @@ table {
 }
 
 .site-title {
-  font-family: $serif;
-  font-weight: 400;
+  font-family: $heading;
+  font-weight: 600;
   color: var(--ink) !important;
-  font-variation-settings: 'opsz' 144;
+  letter-spacing: -0.02em;
 }
 
 .site-nav {
@@ -231,7 +230,9 @@ pre {
 /* Post list on homepage */
 .post-list {
   h3 {
-    font-variation-settings: 'opsz' 144;
+    font-family: $heading;
+    font-weight: 550;
+    letter-spacing: -0.015em;
   }
 
   .post-meta {
@@ -354,13 +355,13 @@ pre {
 
 .proj-card-name {
   display: block;
-  font-family: $serif;
+  font-family: $heading;
   font-size: 19px;
-  font-weight: 500;
+  font-weight: 550;
   color: var(--ink);
   text-decoration: none;
   margin-bottom: 4px;
-  font-variation-settings: 'opsz' 144;
+  letter-spacing: -0.01em;
 }
 
 a.proj-card .proj-card-name {
@@ -406,9 +407,9 @@ a.proj-card:hover .proj-card-name {
 
 .proj-paper-title {
   display: block;
-  font-family: $serif;
+  font-family: $heading;
   font-size: 17px;
-  font-weight: 400;
+  font-weight: 500;
   color: var(--ink);
   text-decoration: none;
   line-height: 1.4;
@@ -464,10 +465,10 @@ a.proj-card:hover .proj-card-name {
 }
 
 .about-name {
-  font-family: $serif;
+  font-family: $heading;
   font-size: 28px;
-  font-weight: 400;
-  font-variation-settings: 'opsz' 144;
+  font-weight: 600;
+  letter-spacing: -0.02em;
   color: var(--ink);
   margin-bottom: 4px !important;
   line-height: 1.2;
