@@ -11,7 +11,7 @@ permalink: /about
   <div class="about-intro">
     <p class="about-name">Ignacio Brasca</p>
     <p class="about-location">Argentina → Italy → Sweden → Spain → Italy → New York</p>
-    <p class="about-bio">Developer with experience across web development, security, system design, scalability, finance, and game development. Currently focused on building high-performance code for financial applications.</p>
+    <p class="about-bio">Developer and screenwriter. Official Selection, Cal Film Festival 2026, for the short screenplay <em>Undefined Forest</em>. Experience across web development, security, system design, scalability, finance, and game development. Currently building high-performance code for financial applications.</p>
   </div>
 </div>
 
@@ -29,6 +29,10 @@ permalink: /about
     <h2>Some stories</h2>
   </div>
   <div class="about-stories">
+    <div class="about-story">
+      <span class="about-story-year">2026</span>
+      <p>Short screenplay <em>Undefined Forest</em> named Official Selection at the <a href="https://calfilmfestival.com">Cal Film Festival</a>.</p>
+    </div>
     <div class="about-story">
       <span class="about-story-year">2019</span>
       <p>Met Mark Zuckerberg while reaching the finals with <a href="https://github.com/wattba/">OpenCurriculum</a> at the F8 Global Hackathon in Facebook California.</p>
@@ -68,7 +72,7 @@ permalink: /about
     </div>
     <div class="about-interest">
       <span class="about-interest-label">writing</span>
-      <p>This <a href="https://blog.ignaciobrasca.com">blog</a>, mostly.</p>
+      <p>This <a href="https://blog.ignaciobrasca.com">blog</a>, and screenplays. <em>Undefined Forest</em> — Official Selection, Cal Film Festival 2026.</p>
     </div>
     <div class="about-interest">
       <span class="about-interest-label">music</span>
