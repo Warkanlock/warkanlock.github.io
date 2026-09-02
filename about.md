@@ -31,7 +31,7 @@ permalink: /about
   <div class="about-stories">
     <div class="about-story">
       <span class="about-story-year">2026</span>
-      <p>Short screenplay <em>Undefined Forest</em> named Official Selection at the <a href="https://calfilmfestival.com">Cal Film Festival</a>.</p>
+      <p>Short screenplay <em>Undefined Forest</em> — Official Selection at the <a href="https://calfilmfestival.com">Cal Film Festival</a>.</p>
     </div>
     <div class="about-story">
       <span class="about-story-year">2019</span>
