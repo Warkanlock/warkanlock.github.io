@@ -18,3 +18,5 @@ Undefined Forest sat in a folder I would not show anyone, a short in Courier 12 
 [Cal Film Festival](https://calfilmfestival.com) selected it as an Official Selection for 2026. Los Angeles, shorts and scripts, curated online.
 
 The bio on my sites has always been some version of "builds software and writes about systems," which is true, and a convenient way of not saying I write screenplays. That sentence looks unserious next to compilers and a job that already takes the whole day.
+
+*Update, September 2026: the same script was also selected at [Indie Short Fest](https://indieshortfest.com), the Los Angeles International Short Film Festival. I wrote about it in [Someone else read it]({% post_url 2026-09-11-someone-else-read-it %}).*
