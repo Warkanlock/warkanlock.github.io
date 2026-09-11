@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Someone read it"
-description: "Undefined Forest, a short screenplay, is an Official Selection of the Cal Film Festival 2026."
+description: "Undefined Forest, a short screenplay, is an Official Selection at the Cal Film Festival 2026 and at Indie Short Fest."
 date: 2026-09-01
 author: "Ignacio Brasca"
 categories: personal
@@ -11,12 +11,12 @@ tags:
   - screenplay
 ---
 
-I sent the PDF on a Tuesday after work, after renaming the file twice and staring at the title page long enough to start doubting the title, which is usually when I either rewrite the first scene or submit so I can stop touching it.
+I sent the PDF on a Tuesday after work, after renaming the file twice and staring at the title page long enough to start doubting the title.
 
-Undefined Forest sat in a folder I would not show anyone, a short in Courier 12 with the usual superstitions about scene headings and whether the last line was doing any work. Software is honest about rejection, you compile, it fails, you know which line, you fix it. A screenplay just leaves. You don't get a stack trace from a festival, just silence and then an email.
+Undefined Forest is a short screenplay. Courier 12, a folder I would not show anyone. I submitted it to two festivals and stopped touching it.
 
 [Cal Film Festival](https://calfilmfestival.com) selected it as an Official Selection for 2026. Los Angeles, shorts and scripts, curated online.
 
-The bio on my sites has always been some version of "builds software and writes about systems," which is true, and a convenient way of not saying I write screenplays. That sentence looks unserious next to compilers and a job that already takes the whole day.
+[Indie Short Fest](https://indieshortfest.com), the Los Angeles International Short Film Festival, took the same script into its short script competition. They send written jury notes on every script they read, so this one comes back with a file, a line, and a reason.
 
-*Update, September 2026: the same script was also selected at [Indie Short Fest](https://indieshortfest.com), the Los Angeles International Short Film Festival. I wrote about it in [Someone else read it]({% post_url 2026-09-11-someone-else-read-it %}).*
+Two festivals, one script, both in 2026. That is the whole record so far.
