@@ -11,7 +11,7 @@ permalink: /about
   <div class="about-intro">
     <p class="about-name">Ignacio Brasca</p>
     <p class="about-location">Argentina → Italy → Sweden → Spain → Italy</p>
-    <p class="about-bio">Developer with experience across web development, security, system design, scalability, finance, and game development. Currently focused on building high-performance code for financial applications.</p>
+    <p class="about-bio">Screenwriter — Official Selection, Cal Film Festival 2026 and Indie Short Festival 2026, for <em>Undefined Forest</em>. Also builds financial software: a developer with experience across web development, security, system design, scalability, finance, and game development, currently focused on building high-performance code for financial applications. Used to make games as a kid.</p>
   </div>
 </div>
 
