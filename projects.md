@@ -15,7 +15,7 @@ Things I've built, researched, or contributed to — roughly ordered by how much
   </div>
   <div class="proj-grid">
     <div class="proj-card proj-card--highlight">
-      <span class="proj-card-role">Staff Software Engineer</span>
+      <span class="proj-card-role">Head of Engineering</span>
       <a href="https://dualentry.com" class="proj-card-name">DualEntry</a>
       <p class="proj-card-desc">Current role. Building financial infrastructure.</p>
     </div>
