@@ -20,17 +20,15 @@ And on the other side: problems utterly complex to scrape from.
 
 The first to fall will be authentication. If everything is open, there is no one left to prove yourself to.
 
-Then the web. Boxes in the shadow, communicating through obscure protocols optimized for machines, not us.
+Then the web. Boxes in the shadow, communicating through obscure protocols optimized for machines, not us. Even a naive version of it, [MCP](https://modelcontextprotocol.io), skyrocketed, so the need and the adoption are clearly there.
 
-There will be no network but a market. It will be there for us to consume from, a GPS of knowledge, a universal standard. No need to connect yourself to it. You will already be there.
+There will be no network but a market. A minimalist global version of [Gemini](https://www.glukhov.org/post/2025/10/gemini-protocol/) where agents won't even interact with us. It will be there for us to consume from, a GPS of knowledge, a universal standard, but with no need to connect yourself to it. You will already be there.
 
 Not your name, not your identity. A rasterization of all your bits of information, chained together in a sequence only you have.
 
-Decision makers will not look at landing pages. Insights will be exposed directly, for autonomous pointers, in a `.txt`. Like `llms.txt`, but `insights.txt`: readable as data, not as content or usability.
+Decision makers will not look at landing pages. Insights will be exposed directly, for autonomous pointers, in a `.txt`. Like [llms.txt](https://llmstxt.org), but `insights.txt`: readable as data, not as content or usability.
 
-One project points in this direction: [Ink & Switch](https://www.inkandswitch.com/essay/malleable-software/) and their malleable software, tools anyone can reshape with minimal friction instead of locked-down appliances. It feels like the right time for it: the sequence of bytes stops being a dead file and starts behaving like part of a living organism.
-
-It's the end of human-interface. We won't need to know.
+It's the end of human-interface. One project points in this direction: [Ink & Switch](https://www.inkandswitch.com/essay/malleable-software/) and their malleable software, tools anyone can reshape with minimal friction instead of locked-down appliances. It feels like the right time for it: the sequence of bytes stops being a dead file and starts behaving like part of a living organism.
 
 ![Paul Dirac at the blackboard](https://blog.ignaciobrasca.com/img/posts/2026-10-10-we-wont-need-to-know/dirac.jpg)
 
@@ -45,3 +43,5 @@ We should take the opportunity: think outside the box, and take on better proble
 We won't go back. Not unless energy and infrastructure logistics, turbines, steam engines, all of it, are not sufficient.
 
 If I had a billion dollars right now, I would invest in elevators, fire and maintenance, HVAC.
+
+We won't need to know. At least not this, not anymore. To leave space for other problems, and make humanity a better hive.
