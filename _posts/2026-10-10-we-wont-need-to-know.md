@@ -20,9 +20,9 @@ And on the other side: problems utterly complex to scrape from.
 
 The first to fall will be authentication. If everything is open, there is no one left to prove yourself to.
 
-Then the web. Boxes in the shadow, communicating through obscure protocols optimized for machines, not us. Even a naive version of it, [MCP](https://modelcontextprotocol.io), skyrocketed, so the need and the adoption are clearly there.
+Then the web. Boxes in the shadow, communicating through obscure protocols optimized for machines, not us. Even a naive version of it, [MCP](https://modelcontextprotocol.io), skyrocketed, so the need and the adoption are clearly there. [A2A](https://a2a-protocol.org) is the horizontal twin: agent to agent instead of agent to tool.
 
-There will be no network but a market. A minimalist global version of [Gemini](https://www.glukhov.org/post/2025/10/gemini-protocol/) where agents won't even interact with us. It will be there for us to consume from, a GPS of knowledge, a universal standard, but with no need to connect yourself to it. You will already be there.
+There will be no network but a market. A minimalist global version of [Gemini](https://www.glukhov.org/post/2025/10/gemini-protocol/), the grandchild of [Gopher](https://en.wikipedia.org/wiki/Gopher_(protocol)), where agents won't even interact with us. It will be there for us to consume from, a GPS of knowledge, a universal standard, but with no need to connect yourself to it. You will already be there.
 
 Not your name, not your identity. A rasterization of all your bits of information, chained together in a sequence only you have.
 
@@ -40,7 +40,7 @@ We want to be there. We want to be present in the loop, part of the node that or
 
 We should take the opportunity: think outside the box, and take on better problems we can finally tackle.
 
-We won't go back. Not unless energy and infrastructure logistics, turbines, steam engines, all of it, are not sufficient.
+We won't go back. Not unless energy and infrastructure logistics, turbines, steam engines, all of it, are not sufficient. The [IEA counts](https://memeburn.com/ai-electricity-consumption-statistics-2026-and-power-demand/) data centres at 485 TWh in 2025, around 1.5% of global electricity, doubling by 2030.
 
 If I had a billion dollars right now, I would invest in elevators, fire and maintenance, HVAC.
 
