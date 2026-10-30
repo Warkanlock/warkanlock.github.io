@@ -70,7 +70,7 @@ Rafael Lozano-Hemmer went somewhere sadder and better with [Level of Confidence]
 
 And Lauren Lee McCarthy inverted the whole thing in [LAUREN](https://docubase.mit.edu/project/lauren/) (2017): instead of a model learning a person, a person performed the model. She became a human Alexa inside people's homes, watching through cameras, anticipating needs, learning each inhabitant by living with them for days. She needed days of attention to know someone. The room I am describing needs minutes, because you already did the days, and the years, yourself.
 
-What none of these pieces do, and what I cannot stop thinking about, is build the model out of you, in front of you, while you wait for it.
+What none of these pieces do is build the model out of you, in front of you, while you wait for it.
 
 ## The exit
 
