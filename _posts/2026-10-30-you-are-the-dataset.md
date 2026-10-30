@@ -26,7 +26,7 @@ Photo by [0xk](https://unsplash.com/photos/a-person-sitting-in-front-of-a-large-
 
 An email address is the most boring key we own. It is also the key to almost everything we have published in our lives: the accounts, the photos, the comments, the recoveries of the recoveries. We type it everywhere without thinking, ten times a day, into boxes that promise us a discount or a download.
 
-The installation takes that gesture seriously. One field. No terms, no checkboxes, no small print to scroll past. Typing your email is the ticket, the consent and the key, all in the same four seconds. Exactly like the rest of the internet, except this time you stay in the room while it works.
+The installation takes that gesture seriously. One field, and nobody shows you a terms page. Typing your email is the ticket, the consent and the key, all in the same four seconds. Exactly like the rest of the internet, except this time you stay in the room while it works.
 
 ## While you wait
 
@@ -56,7 +56,7 @@ It knows the names. It remembers the trip you wrote about and the opinion you ha
 
 The scary part is not when it gets something wrong. A wrong fact is easy to forgive, it lets you say the machine does not know me. The scary part is the percentage that is right, and the realisation that nobody extracted it from you. You put it there, post by post, on your own behalf. We train these models by behaving, every day, for free, and then we act surprised at what they learned.
 
-That is the whole point of the piece, and it is a self-learning in the literal sense: you learning about yourself, from the outside, possibly for the first time.
+It is a self-learning in the literal sense: you learning about yourself, from the outside, possibly for the first time.
 
 ## Others have circled this room
 
