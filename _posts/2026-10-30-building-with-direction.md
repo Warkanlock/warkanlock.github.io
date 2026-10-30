@@ -47,13 +47,7 @@ That unit should not be a service desk, but the executor pushing forward in one 
 
 Set a team of the most expert people in the direction, and make the rest push forward, to generate sufficient energy to be unstoppable.
 
-What I mean with this is: make a super small team to own the primitives that make an agent work at all:
-
-- The [harness](https://blog.ignaciobrasca.com/tools/harness) that runs it
-- [Memory](https://docs.langchain.com/oss/python/langgraph/persistence)
-- [Context retrieval](https://www.anthropic.com/news/contextual-retrieval)
-- [Guardrails and safety](https://docs.nvidia.com/nemo/guardrails/latest/)
-- Testing and interaction patterns
+What I mean with this is: make a super small team to own the primitives that make an agent work at all: the [harness](https://blog.ignaciobrasca.com/tools/harness) that runs it, [memory](https://docs.langchain.com/oss/python/langgraph/persistence), [context retrieval](https://www.anthropic.com/news/contextual-retrieval), [guardrails and safety](https://docs.nvidia.com/nemo/guardrails/latest/), and the testing and interaction patterns.
 
 And, in practice, make them explicitly the owners of these pieces:
 
