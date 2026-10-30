@@ -14,7 +14,7 @@ tags:
 
 Most teams building with new intelligence tools have the same problem. Fast resolution with a correct direction. Velocity.
 
-There are many kinds of agents now. Generalist, specialist, orchestrators, and a few other shapes that appear every month in a new kind of flavour on how to do something in the best possible way. This reminds me of the long, almost obnoxious conversations of [tabs vs spaces](https://xkcd.com/1989/), React vs the X framework of the moment, GC and non-GC languages, JIT or not, PHP vs ASP.NET, and you can probably mention a few more.
+There are many [kinds of agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) now. Generalist, specialist, [orchestrators](https://www.anthropic.com/engineering/building-effective-agents), and a few other shapes that appear every month in a new kind of flavour on how to do something in the best possible way. This reminds me of the long, almost obnoxious conversations of [tabs vs spaces](https://xkcd.com/1989/), React vs the X framework of the moment, GC and non-GC languages, JIT or not, PHP vs ASP.NET, and you can probably mention a few more.
 
 Before you build anything, you have to pick what you are building, and the most important question: why. Most teams never make that choice explicit, since they arrive with a potential cargo cult from both the new and the old company, so they end up building all of them, at once, badly.
 
@@ -75,7 +75,7 @@ What this unit is really building is an interface. An [ABI](https://en.wikipedia
 
 Software is not a building you finish. It is a living organism. It grows in places you did not plan, it gets sick in places you did, and it changes every time someone touches it. If you stick everyone to their own problems and tools, they will be building a shining new chair, when in reality you want them to build a better house with normal chairs.
 
-Christopher Alexander saw this in buildings long before we saw it in code. In A Pattern Language (1977) he wrote:
+Christopher Alexander saw this in buildings long before we saw it in code. In [A Pattern Language](https://en.wikipedia.org/wiki/Design_patterns) (1977) he wrote:
 
 > "Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice."
 
@@ -95,7 +95,7 @@ A ticket for a feature is not done when the button works. It is done when the ag
 
 None of this works if you treat teams as machines.
 
-Cat Hicks makes this point with data in The Psychology of Software Teams (2026). Treating developers as interchangeable units, brains in jars, breaks the collaboration that makes software work in the first place. Teams are people. People have goals, and those goals cannot be mechanical. A person does not only close tickets. They learn, they get blocked, they care about one problem more than another, and that caring is usually where the good work comes from.
+Cat Hicks makes this point with data in [The Psychology of Software Teams](https://www.honeycomb.io/blog/cat-hicks-psychology-of-software-teams) (2026). Treating developers as interchangeable units, brains in jars, breaks the collaboration that makes software work in the first place. Teams are people. People have goals, and those goals cannot be mechanical. A person does not only close tickets. They learn, they get blocked, they care about one problem more than another, and that caring is usually where the good work comes from.
 
 An agent has a context instead of a mood, memory instead of experience, tools instead of hands. Give it a bad context and it will have a bad day. Give it no direction and it will still produce something, which is worse than having a low performer in your team.
 
