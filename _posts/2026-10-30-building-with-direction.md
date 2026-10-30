@@ -124,10 +124,3 @@ Basically, what I am seeing work a lot nowadays, for the sake of velocity, is:
 - Treat both sides as alive. Teams are people with goals that are not mechanical, and agents, kind of people too, will follow whatever direction, or lack of it, you actually give them.
 
 A real roadmap is what your business needs, not what your engineers want to build.
-
-## References
-
-- [A Practical Guide to Building Agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf), OpenAI
-- [Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents), Anthropic
-- Alexander, Christopher, Sara Ishikawa and Murray Silverstein, [A Pattern Language: Towns, Buildings, Construction](https://en.wikipedia.org/wiki/Design_patterns), Oxford University Press, 1977
-- Hicks, Cat, [The Psychology of Software Teams](https://www.honeycomb.io/blog/cat-hicks-psychology-of-software-teams), CRC Press, 2026
