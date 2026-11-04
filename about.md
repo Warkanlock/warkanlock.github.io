@@ -11,7 +11,7 @@ permalink: /about
   <div class="about-intro">
     <p class="about-name">Ignacio Brasca</p>
     <p class="about-location">Argentina → Italy → Sweden → Spain → Italy → New York</p>
-    <p class="about-bio">Developer and screenwriter. Official Selection at the Cal Film Festival and Indie Short Fest 2026, for the short screenplay <em>Undefined Forest</em>. Experience across web development, security, system design, scalability, finance, and game development. Currently building high-performance code for financial applications. Made games as a kid.</p>
+    <p class="about-bio">Developer and screenwriter. Official Selection at the Cal Film Festival and Indie Short Fest 2026, for the short screenplay <em>Undefined Forest</em>. Experience across web development, security, system design, scalability, finance, and game development. Currently a Staff Software Engineer at a stealth startup in New York, seed stage. Made games as a kid.</p>
   </div>
 </div>
 
@@ -20,7 +20,7 @@ permalink: /about
     <span class="proj-section-num">01</span>
     <h2>Work</h2>
   </div>
-  <p>Currently the Head of Engineering at <a href="https://dualentry.com">DualEntry</a>, building financial infrastructure. Most of what I've built professionally can't be published due to <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">NDA</a> restrictions. I previously worked at <a href="https://www.pwc.com">PwC</a> AI Labs, and before that helped build <a href="https://datia.app">Datia</a> from scratch with an amazing team.</p>
+  <p>Currently a Staff Software Engineer at a stealth startup in New York, seed stage. Most of what I've built professionally can't be published due to <a href="https://en.wikipedia.org/wiki/Non-disclosure_agreement">NDA</a> restrictions. Before that I was Head of Engineering at <a href="https://dualentry.com">DualEntry</a>, building financial infrastructure. I previously worked at <a href="https://www.pwc.com">PwC</a> AI Labs, and before that helped build <a href="https://datia.app">Datia</a> from scratch with an amazing team.</p>
 </section>
 
 <section class="about-section">
