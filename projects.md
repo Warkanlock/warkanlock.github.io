@@ -20,6 +20,11 @@ Things I've built, researched, or contributed to — roughly ordered by how much
       <p class="proj-card-desc">Current role. New York, seed stage.</p>
     </div>
     <div class="proj-card">
+      <span class="proj-card-role">Founder</span>
+      <a href="https://keyprofile.app" class="proj-card-name">Keyprofile</a>
+      <p class="proj-card-desc">A Mac writing assistant that rewrites your text in your voice, in the app you are already writing in. Private beta.</p>
+    </div>
+    <div class="proj-card">
       <span class="proj-card-role">Head of Engineering</span>
       <a href="https://dualentry.com" class="proj-card-name">DualEntry</a>
       <p class="proj-card-desc">Financial infrastructure.</p>
