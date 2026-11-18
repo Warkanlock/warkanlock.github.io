@@ -12,7 +12,7 @@ tags:
     - Muse
 ---
 
-I have been using an agent every day for months. Mine is [Muse](https://muse.ai), but almost none of this depends on the brand, it applies to practically any other agent. People ask me how I get it to do useful work instead of producing confident nonsense, and they expect a prompt trick. There is none. The short version: I set up the machine around the model once, and then I talk to it the way I talk to a person I work with.
+I have been using an agent every day for months. Mine is [Muse](https://muse.ai), but almost none of this depends on the brand, it applies to practically any other agent. People ask me how I get it to do useful work instead of producing confident nonsense, and they expect a prompt trick.
 
 ![A watchmaker working on an open mechanical watch movement](https://blog.ignaciobrasca.com/img/posts/2026-11-18-how-to-use-an-agent/watch.jpg)
 
