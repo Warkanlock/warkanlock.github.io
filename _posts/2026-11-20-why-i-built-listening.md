@@ -20,7 +20,7 @@ Eventually I had to open the app and search for it, not by name nor melody, but 
 
 I knew I had gone too far as a dependency.
 
-I'm a music lover since I was a kid, my mom is a music professor and I grew up surrounded not by the music itself but the idea that music can change one's life. I never had a large collection of it since it was quite hard to build one in rural Argentina, but still, I started to use [Ares](https://en.wikipedia.org/wiki/Ares_Galaxy), in the first place, to download it and build my own library.
+I'm a music lover since I was a kid, my mom is a music professor and I grew up surrounded not by the music itself but the idea that music can change one's life. I never had a large collection of it since it was quite hard to build one in rural Argentina, but still, I started to use [Ares](https://sourceforge.net/projects/aresgalaxy/), in the first place, to download it and build my own library.
 
 This is how I started, and eventually when I jumped forward to use Spotify my brain was in complete excitement.
 
