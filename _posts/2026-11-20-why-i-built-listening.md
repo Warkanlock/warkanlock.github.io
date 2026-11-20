@@ -92,11 +92,11 @@ And I am not locked into my own players either. OpenSubsonic clients that suppor
 
 ## What goes camping
 
-A few buffered tracks get me through a dropped connection on the train. A weekend away is another problem, and for that one I want to see exactly what I am taking before I leave home, not discover it in a tent with no signal.
+A few buffered tracks get me through a dropped connection on the train. Traveling is another problem. We will be traveling, and I will be using my [Mudita Kompakt](https://mudita.com/products/phones/mudita-kompakt/), a phone that is offline by design, so the music that comes with me needs an offline way to exist: no signal, no streaming account to fall back on. For that I want to see exactly what I am taking before I leave home, not discover it in a tent.
 
 **Camping mode** picks 30, 60, or 90 distinct recordings, or as many as the verified library holds if it holds less. It can make up to two genre mixes and use a library shuffle for the rest. I can preview the selection and reshuffle before saving. A camping trip has a mood too. If a transfer stops halfway, it resumes with the tracks I still need instead of starting again.
 
-In the browser, Listening saves the compact audio in IndexedDB, and I can reopen the trip offline in the same browser at the same trusted HTTPS address. On Android I can save the mixes to the phone or an SD card, or sync the catalog and the available originals into a private SQLite database on the phone and play them with the phone's own queue. Either way, the music that goes camping is a selection I made, from a library I own, and it does not phone home to ask permission.
+In the browser, Listening saves the compact audio in [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API), and I can reopen the trip offline in the same browser at the same trusted HTTPS address. On Android I can save the mixes to the phone or an SD card, or sync the catalog and the available originals into a private SQLite database on the phone and play them with the phone's own queue. Either way, the music that goes camping is a selection I made, from a library I own, and it does not phone home to ask permission.
 
 ## Conclusion
 
