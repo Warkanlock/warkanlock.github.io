@@ -7,100 +7,128 @@ author: "Ignacio Brasca"
 categories: systems
 image: "https://blog.ignaciobrasca.com/img/gallery/i00067.jpg"
 tags:
-  - music
-  - sqlite
-  - self-hosting
+    - music
+    - sqlite
+    - self-hosting
 ---
 
-I was at a party trying to put a song on. I knew exactly which one I wanted to play and had completely forgotten its name. I had to open Spotify to find out what it was.
+## Introduction
 
-That bothered me enough to build **Listening**. I wanted to be able to look through my own music when a title escaped me. I also wanted the freedom to wander a little. Spotify's recommendations had become the easiest way to pick the next record, and I was curious about what I was missing.
+I was at a party the other day, trying to remember the name of a song while we were in the queue (the physical one). I had a vague idea of the lyrics, but I couldn't find it in my brain. Age might be a factor in this, although I had a vague memory of where it was in my Spotify library. Next thing I did: I tried to hum it to Shazam, but the background noise made it impossible. I even asked a friend who was there if they knew it, but they didn't either.
+
+Eventually I had to open the app and search for it, not by name nor melody, but by playlist…
+
+I knew I had gone too far as a dependency.
+
+I'm a music lover since I was a kid, my mom is a music professor and I grew up surrounded not by the music itself but the idea that music can change one's life. I never had a large collection of it since it was quite hard to build one in rural Argentina, but still, I started to use [Ares](https://en.wikipedia.org/wiki/Ares_Galaxy), in the first place, to download it and build my own library.
+
+This is how I started, and eventually when I jumped forward to use Spotify my brain was in complete excitement.
+
+All the music in the world, for free, with a few ads, just for you to listen to.
+
+My brain had to be wired in such a way that I still remember the first song I played: "Information" from [Eliot Sumner](https://en.wikipedia.org/wiki/Eliot_Sumner).
+
+Now, going back to the situation of the song, it bothered me a lot. I had relied on my capability of recognizing and remembering artists for the sake of moods; I ended up going to Spotify to just "play anything" mode where the sense of discovery was lost. I was not able to find the song, and I was not able to find anything else that could be interesting for me.
+
+Eventually I started to use [Discover Weekly](https://www.stuff.tv/features/7-secrets-spotifys-discover-weekly/), although functional and useful, I realized it was mostly like a "mood" of what I was listening to, and then they changed the algorithm internally and all recommendations were almost quite the same as what I was listening to on a daily basis.
+
+The last drop on the glass was not remembering the song: Gaucho by Steely Dan. Ultra common in the area where I was working while producing music.
+
+It bothered me enough so I said, enough... let's give it a try and make the player of my dreams. I wanted to be able to look through my own music when a title escaped me. I also wanted the freedom to wander a little. Spotify's recommendations had become the easiest way to pick the next record, and I was curious about what I was missing (and the only feature I was still using from them, apart from podcasts).
 
 I wanted Listening to be **local-first**, and I wanted to do most of my listening offline. At home, the library and the queue live on my server. Before a trip, I can put the actual recordings on my phone. I go online when I want to hear something I haven't found yet.
 
-![Swimmers and beach umbrellas beneath a rocky cliff](/img/gallery/i00067.jpg)
+![Swimmers and beach umbrellas beneath a rocky cliff](https://blog.ignaciobrasca.com/img/gallery/i00067.jpg)
 
 ## Where a song lives
 
-Say I have a FLAC of a live performance and put it on two playlists. In a new room, Listening stores the original in `collection.sqlite3` under the SHA-256 hash of the file. Both playlists point to the same recording. Importing an identical file from another folder costs me no extra audio storage. A different encode gets its own hash.
+So I started from the file. Say I have a FLAC of a live performance, a good one, and I put it on two playlists because it belongs to both. In Listening the recording itself lives once, stored in `collection.sqlite3` under the SHA-256 hash of the file, and both playlists point to the same recording. If I import the identical file again from another folder, it costs me no extra audio storage, the hash is already there. A different encode of the same performance is a different recording and gets its own hash. That distinction matters to me more than I expected: the library counts performances, not filenames.
 
-The server tries zlib compression and keeps the smaller representation. When I export a playlist in Original format, I get back **the exact bytes I imported**, plus an M3U8 with the tracks in order.
+![The Listening library: playlists and songs, each song marked ready or still missing its copy](https://blog.ignaciobrasca.com/img/posts/2026-11-20-why-i-built-listening/listening-library.jpg)
 
-- **Audio files** can be MP3, raw AAC, FLAC, or M4A containing AAC or Apple Lossless.
-- **Playlists** can be CSV, M3U, M3U8, or XSPF. I can also bring in my Spotify account export, or connect Spotify to keep eligible playlists in sync.
+The library at home. Playing at the bottom: "Information" by Eliot Sumner, the first song I ever played on Spotify, as a FLAC in my own collection now.
 
-An imported playlist gives me the names. To play it from my server, I still need the recordings. For downloads, including those from the optional Soulseek adapter, Listening uses `ffprobe` to check that the file contains audio and meets a 192 kb/s floor. When an expected duration is available, it allows a difference of up to 5.5 seconds. It also checks meaningful title tags. Two performances can have almost identical filenames.
+The server tries zlib compression on what it stores and keeps the smaller representation, and when I export a playlist in Original format I get back **the exact bytes I imported**, plus an M3U8 with the tracks in order. Nothing re-encoded behind my back, nothing quietly normalized. What went in is what comes out.
+
+The formats it accepts are the ones my collection actually comes in. Audio files can be MP3, raw AAC, FLAC, or M4A containing AAC or Apple Lossless. Playlists can be CSV, M3U, M3U8, or XSPF, and I can also bring in my Spotify account export, or connect Spotify to keep eligible playlists in sync.
+
+An imported playlist, though, only gives me the names. To play it from my server I still need the recordings, and this is where I got strict, because the internet is full of files that are not what their names claim. For downloads, including the ones from the optional Soulseek adapter, Listening uses `ffprobe` to check that the file contains audio at all and that it meets a 192 kb/s floor. When an expected duration is available it allows a difference of up to 5.5 seconds, no more, and it checks that the title tags mean something. Two performances of the same song can have almost identical filenames.
 
 ## What happens when I press Play
 
-A Python process keeps the queue on the home server. I choose which paired devices play it, and each one decodes its own audio. At home that works over the LAN. Away from home I can reach the server over my VPN.
+At home there is a Python process on the server that keeps the queue. I choose which paired devices play it, the speakers, my phone, whatever is around, and each device decodes its own audio. Inside the house this runs over the LAN. Away from home I reach the same server over my VPN, and the queue is still there, in the state I left it.
 
-**Original** is the default. The server stages audio from SQLite in a rolling three-track disk cache and serves HTTP byte ranges. If I drag the playhead forward, the player can request the part it needs. The bitrate is whatever the original file contains.
+**Original** is the default. The server stages audio from SQLite in a rolling three-track disk cache and serves HTTP byte ranges, so if I drag the playhead forward the player asks for the part it needs instead of starting over. The bitrate is whatever the original file contains. My FLACs play as FLACs.
 
-For a smaller stream, I can choose a compact profile.
+For a smaller stream I can choose a compact profile, and there are two. AAC-LC in M4A at 192 kb/s, around 86 MB per hour, for web, Apple and Android. Opus at 128 kb/s variable bitrate, around 58 MB per hour, for Android. Those figures exclude network overhead. The cost I actually notice is the wait on the first play: if the original is already small enough and compatible, Listening sends it directly, otherwise FFmpeg finishes encoding the whole track before playback starts. The server keeps up to **2 GiB** of those encoded copies to reuse, so the second play of the same song does not pay the wait again.
 
-| Compact format | Encoding target | Approx. data per hour |
-| --- | --- | --- |
-| AAC-LC in M4A (web, Apple, Android) | 192 kb/s | 86 MB |
-| Opus (Android) | 128 kb/s, variable bitrate | 58 MB |
+The queue also tells the player what to fetch next. The web and Android players buffer **one song ahead by default**, adjustable to three, and the current song and the upcoming tracks share a 128 MiB budget. This explains one of my favorite readings in Playback Insights: halfway through a song, the network rate can drop to zero and the music carries on. All the bytes it needs are already here.
 
-Those figures exclude network overhead. The cost I notice is the wait on the first play. If the original is already small enough and compatible, Listening sends it directly. Otherwise FFmpeg finishes encoding the track before playback starts. The server keeps up to **2 GiB** of encoded copies to reuse.
+![Playback Insights: zero kilobits per second down from the room, one song buffered on the device](https://blog.ignaciobrasca.com/img/posts/2026-11-20-why-i-built-listening/listening-insights.jpg)
 
-The queue also tells the player what to fetch next. The web and Android players buffer **one song ahead by default**, adjustable to three. The current song and the upcoming tracks share a 128 MiB budget. This explains one of my favorite readings in Playback Insights. Halfway through a song, the network rate can drop to zero and the music carries on. All the bytes it needs are already here.
+Playback Insights while "Information" plays: 0 kb/s down from the room, one song buffered on this device. The music is coming from the buffer, not from the network.
 
 ## Finding music outside my Spotify recommendations
 
-Sometimes all I know is that I want to hear something *a little calmer than this*. On the **mood map**, brightness runs along one axis and energy along the other. Each mood has a set of genres I can edit. Dragging between Calm and Focused changes the odds of drawing from either set. If jazz belongs to both, the shuffle still gives a recording only one place in the queue.
+The other thing I wanted back was wandering. Sometimes all I know is that I want to hear something *a little calmer than this*, and I do not have an artist or an album to type into a search box. For that there is the **mood map**: brightness runs along one axis and energy along the other, and each mood has a set of genres that I can edit. Dragging between Calm and Focused changes the odds of drawing from either set. If jazz belongs to both moods, the shuffle still gives a recording only one place in the queue, no duplicates dressed as variety.
 
-**Radio plays on the device that tunes in.** I can put SomaFM's Groove Salad on in my headphones while the speakers carry on with the household queue. I can shuffle a genre from my library, tune into a 128 kb/s SomaFM MP3 feed, play a YouTube mix in the embedded player, or generate white or brown noise locally. Live YouTube search takes a YouTube Data API key.
+![The mood map: five moods placed by energy and brightness](https://blog.ignaciobrasca.com/img/posts/2026-11-20-why-i-built-listening/listening-mood-map.jpg)
 
-When I want an unfamiliar artist, the weekly **Deep Dive** uses related artists from ListenBrainz. MusicBrainz supplies recording metadata. For a live show, I can search the Internet Archive and open the recording at its source. PeerTube, a configured Funkwhale server, and my own Jellyfin catalog also open results at the source.
+The mood map. Energy runs from the top down, brightness towards the right; tap to play, drag between moods to blend them.
 
-I can use another player, too. OpenSubsonic clients that support API keys can stream the verified recordings on my server.
+**Radio plays on the device that tunes in**, which sounds like a small detail and changes everything at home. I can put [SomaFM's Groove Salad](https://somafm.com/groovesalad/) on in my headphones while the speakers carry on with the household queue. I can shuffle a genre from my library, tune into a 128 kb/s SomaFM MP3 feed, play a YouTube mix in the embedded player, or generate white or brown noise locally for sleeping. Live YouTube search takes a YouTube Data API key, which is fair enough, it is their index.
+
+When I want an unfamiliar artist, the weekly **Deep Dive** uses related artists from [ListenBrainz](https://listenbrainz.org), and [MusicBrainz](https://musicbrainz.org) supplies the recording metadata. For a live show I can search the Internet Archive and open the recording at its source. PeerTube, a configured Funkwhale server, and my own Jellyfin catalog also open their results at the source, because those recordings live in someone else's house and Listening is a guest there.
+
+![Deep Dive: connections from Lucio Battisti to suggested artists outside the library](https://blog.ignaciobrasca.com/img/posts/2026-11-20-why-i-built-listening/listening-deep-dive.jpg)
+
+Deep Dive: from Lucio Battisti, who is in the library, out to Francesco De Gregori and Vasco Rossi, who are not.
+
+![The 'You know what?' panel for 'Information' by Eliot Sumner, a MusicBrainz relationship graph](https://blog.ignaciobrasca.com/img/posts/2026-11-20-why-i-built-listening/listening-you-know-what.jpg)
+
+And the "You know what?" panel on the song that started all this: "Information", mapped through MusicBrainz. Eliot Sumner, performs as Coco, solo release *Information*, 2016. The graph is the wandering, drawn.
+
+And I am not locked into my own players either. OpenSubsonic clients that support API keys can stream the verified recordings on my server, so the library outlives any single app I write for it.
 
 ## Where I'd get the first few records
 
+A library that starts empty is a sad thing, so I thought about where the first records would come from if I were starting today, with no collection at all.
+
 ### A track from the composer
 
-Kevin MacLeod offers *Monkeys Spinning Monkeys* as a download under **CC BY 4.0**. I checked the MP3 with `ffprobe`. It comes in at 320 kb/s with the title and artist tags already filled in. Listening indexed it straight from the download.
-
-I'd keep the composer's credit and the license link with the file so I have both if I share it later.
+Kevin MacLeod offers *Monkeys Spinning Monkeys* as a download under **CC BY 4.0**. I checked the MP3 with `ffprobe` before trusting it: it comes in at 320 kb/s with the title and artist tags already filled in, and Listening indexed it straight from the download. I would keep the composer's credit and the license link with the file, so I have both if I share it later.
 
 - [Download Monkeys Spinning Monkeys from Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011)
 - [Read the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 
 ### An audience tape from the Live Music Archive
 
-For concerts, I check the band's policy for the recording I want. Take the Grateful Dead. At the band's request, the Internet Archive offers **audience recordings for download** and **soundboard recordings for streaming only**. If I'm picking a show to take camping, I look for an audience tape.
+For concerts, I check the band's policy for the recording I want. Take the Grateful Dead. At the band's request, the Internet Archive offers **audience recordings for download** and **soundboard recordings for streaming only**. If I am picking a show to take camping, I look for an audience tape, the one I am allowed to carry.
 
 - [Browse concerts in the Live Music Archive](https://archive.org/details/etree)
 - [Read the Grateful Dead collection policy](https://archivesupport.zendesk.com/hc/en-us/articles/360004715891-The-Grateful-Dead-Collection)
 
 ### Importing those files
 
-Once I have a folder of tagged music, I can generate a playlist from a source checkout with FFmpeg installed. Here `music/` is my folder and `First.csv` is a new filename.
+Once I have a folder of tagged music, the import is one command. Here `music/` is my folder and `First.csv` is a new playlist it writes for me.
 
 ```sh
 mkdir -p music/Playlists
 ./listening music index music music/Playlists/First.csv
 ```
 
-In Docker Compose, the import configuration mounts the folder read-only at `/imports`.
-
-```sh
-LISTENING_IMPORT_DIR="$(pwd)/music" docker compose \
-  -f docker-compose.yml -f packaging/compose.import.yaml up -d --no-build
-```
-
-In **Settings → Sources**, I add `/imports/Playlists` and choose **Check folders**. I can then open the playlist and press Play. To try it with an empty collection, `./listening music demo demo-music` generates an eight-second track called *First light* and its own playlist.
+In Docker Compose the import configuration mounts the folder read-only at `/imports`. Then in **Settings → Sources** I add `/imports/Playlists` and choose **Check folders**, and I can open the playlist and press Play. And to try it with an empty collection, `./listening music demo demo-music` generates an eight-second track called *First light* and its own playlist. Eight seconds of music, but the whole machine around it is real, and that is the honest way to meet a player.
 
 ## What goes camping
 
-A few buffered tracks get me through a dropped connection. For a weekend away, I want to see exactly what I'm taking before I leave home.
+A few buffered tracks get me through a dropped connection on the train. A weekend away is another problem, and for that one I want to see exactly what I am taking before I leave home, not discover it in a tent with no signal.
 
-**Camping mode** picks 30, 60, or 90 distinct recordings, or as many as the verified library holds. It can make up to two genre mixes and use a library shuffle for the rest. I can preview the selection and reshuffle before saving. If a transfer stops, it resumes with the tracks I still need.
+**Camping mode** picks 30, 60, or 90 distinct recordings, or as many as the verified library holds if it holds less. It can make up to two genre mixes and use a library shuffle for the rest. I can preview the selection and reshuffle before saving. A camping trip has a mood too. If a transfer stops halfway, it resumes with the tracks I still need instead of starting again.
 
-- **In the browser**, Listening saves compact audio in IndexedDB. I can reopen the trip offline in the same browser at the same trusted HTTPS address.
-- **On Android**, I can save mixes to the phone or an SD card. I can also sync the catalog and available originals into a private SQLite database, then play them with the phone's own queue.
+In the browser, Listening saves the compact audio in IndexedDB, and I can reopen the trip offline in the same browser at the same trusted HTTPS address. On Android I can save the mixes to the phone or an SD card, or sync the catalog and the available originals into a private SQLite database on the phone and play them with the phone's own queue. Either way, the music that goes camping is a selection I made, from a library I own, and it does not phone home to ask permission.
 
-I'd like to open-source Listening because I'd like other people to be able to do this with their own music. The next time I forget the name of a song at a party, I'd like to hand someone my phone, open the collection we brought, and find it together.
+## Conclusion
+
+Listening is not public yet. There is no download page and no repository to clone; it lives on a server in my house and plays music for an audience of one household. I would like other people to be able to do this with their own music someday, and the design assumes it, playlists as portable files, recordings verified, nothing locked to my players. But someday is not today, and I am in no rush. For now it is mine the way the Ares folder on a computer in rural Argentina was mine, except this time I built the folder.
+
+The song at the party was Gaucho, by Steely Dan, about as common as a song gets in the rooms where I used to produce music. It was in my library the whole time. What was missing was never the music. It was a way to look through it that was mine.
