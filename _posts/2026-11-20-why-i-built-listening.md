@@ -90,35 +90,6 @@ And the "You know what?" panel on the song that started all this: "Information",
 
 And I am not locked into my own players either. OpenSubsonic clients that support API keys can stream the verified recordings on my server, so the library outlives any single app I write for it.
 
-## Where I'd get the first few records
-
-A library that starts empty is a sad thing, so I thought about where the first records would come from if I were starting today, with no collection at all.
-
-### A track from the composer
-
-Kevin MacLeod offers *Monkeys Spinning Monkeys* as a download under **CC BY 4.0**. I checked the MP3 with `ffprobe` before trusting it: it comes in at 320 kb/s with the title and artist tags already filled in, and Listening indexed it straight from the download. I would keep the composer's credit and the license link with the file, so I have both if I share it later.
-
-- [Download Monkeys Spinning Monkeys from Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011)
-- [Read the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
-
-### An audience tape from the Live Music Archive
-
-For concerts, I check the band's policy for the recording I want. Take the Grateful Dead. At the band's request, the Internet Archive offers **audience recordings for download** and **soundboard recordings for streaming only**. If I am picking a show to take camping, I look for an audience tape, the one I am allowed to carry.
-
-- [Browse concerts in the Live Music Archive](https://archive.org/details/etree)
-- [Read the Grateful Dead collection policy](https://archivesupport.zendesk.com/hc/en-us/articles/360004715891-The-Grateful-Dead-Collection)
-
-### Importing those files
-
-Once I have a folder of tagged music, the import is one command. Here `music/` is my folder and `First.csv` is a new playlist it writes for me.
-
-```sh
-mkdir -p music/Playlists
-./listening music index music music/Playlists/First.csv
-```
-
-In Docker Compose the import configuration mounts the folder read-only at `/imports`. Then in **Settings → Sources** I add `/imports/Playlists` and choose **Check folders**, and I can open the playlist and press Play. And to try it with an empty collection, `./listening music demo demo-music` generates an eight-second track called *First light* and its own playlist. Eight seconds of music, but the whole machine around it is real, and that is the honest way to meet a player.
-
 ## What goes camping
 
 A few buffered tracks get me through a dropped connection on the train. A weekend away is another problem, and for that one I want to see exactly what I am taking before I leave home, not discover it in a tent with no signal.
